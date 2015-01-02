@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2014-11-12T08:42:53+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2015-01-02T18:41:39+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:08eaec20-955e-4863-900a-0aedfad836d0</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">3734</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">3853</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
@@ -25,68 +25,80 @@
         <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="45000"/>
         <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="45000"/>
         <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="50000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="50000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="55000"/>
     </TIME_ORDER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ref(written)T" TIER_ID="ref">
+    <TIER LINGUISTIC_TYPE_REF="ref(written)T" PARTICIPANT="Onteri" TIER_ID="ref@Onteri">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1893" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-01</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2091" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3735" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-02</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1895" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2091" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-03</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1896" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1895" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-04</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1897" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1896" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-05</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1898" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1897" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-06</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1899" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1898" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts15">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-07</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1900" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1899" TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts17">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-08</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1901" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1900" TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts19">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-09</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1902" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1901" TIME_SLOT_REF1="ts18" TIME_SLOT_REF2="ts21">
                 <ANNOTATION_VALUE>sms1961lagercrantz308-10</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1902" TIME_SLOT_REF1="ts20" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>sms1961lagercrantz308-11</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="orthT" PARENT_REF="ref" TIER_ID="orth">
+    <TIER LINGUISTIC_TYPE_REF="orthT" PARENT_REF="ref@Onteri" PARTICIPANT="Onteri" TIER_ID="orth@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2682" ANNOTATION_REF="a1893">
-                <ANNOTATION_VALUE>**Staallo ja *nuõrttlaž.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Staall** ja nuõrttlaž**.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3736" ANNOTATION_REF="a3735">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2683" ANNOTATION_REF="a2091">
-                <ANNOTATION_VALUE>Õhtt staallo vääˊrast pueđi rââst **Gievjuj.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Õhtt staall vääˊrast pueđi rââst Gievjuj**.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -96,54 +108,59 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2685" ANNOTATION_REF="a1896">
-                <ANNOTATION_VALUE>Leäi kõõrâs piõgg, ja son porjsti *nu hirmmâs *kõrrset. </ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Leäi kõõrâs piõgˈg, ja son porjsti nu** hirmmâs kõrrset. </ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2686" ANNOTATION_REF="a1897">
-                <ANNOTATION_VALUE>Aaibâs kållǥet.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Aaibâs kåålǥee.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2687" ANNOTATION_REF="a1898">
-                <ANNOTATION_VALUE>Staallo põõli, että tät kåmman tät võnnâz.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Staall põõli, että tät kåmman tät võnnâz.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2688" ANNOTATION_REF="a1899">
-                <ANNOTATION_VALUE>Nuõrttlaž **tajaj, son porjast nu ko son jiõčč tätt.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Nuõrttlaž taji**, son porjast nu ko son jiõčč tätt.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2689" ANNOTATION_REF="a1900">
-                <ANNOTATION_VALUE>Täk joˊtte heibbmin.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Tät joˊtte heibbmin.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2690" ANNOTATION_REF="a1901">
-                <ANNOTATION_VALUE>*Prååkkfiffan, *son-ge põõli.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Prååkkfiffan** son-ge** põõli.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2691" ANNOTATION_REF="a1902">
-                <ANNOTATION_VALUE>Voj, voj. Leäi kõõrâs porjsted.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Voi, voi, leäi kõõrâs porjsted.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ft-engT" PARENT_REF="orth" TIER_ID="ft-eng">
+    <TIER LINGUISTIC_TYPE_REF="ft-engT" PARENT_REF="orth@Onteri" PARTICIPANT="Onteri" TIER_ID="ft-eng@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2885" ANNOTATION_REF="a2682">
                 <ANNOTATION_VALUE>The Stallo and the Skolt Saami.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3737" ANNOTATION_REF="a3736">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2886" ANNOTATION_REF="a2683">
-                <ANNOTATION_VALUE>A Stallo came from the fjell (i.e. Vadsø) across the fjord to the island Gievju.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>A Stallo came from the fjell (i.e. Vadsø) across the fjord to the island Kjøøya.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2887" ANNOTATION_REF="a2684">
-                <ANNOTATION_VALUE>The Skolt Sami saw him.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Then the Skolt Sami saw him.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -153,7 +170,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2889" ANNOTATION_REF="a2686">
-                <ANNOTATION_VALUE>Totally tired.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They get totally lost.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -168,7 +185,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2892" ANNOTATION_REF="a2689">
-                <ANNOTATION_VALUE>They got into a wrestling fight.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It ended up in a wrestling fight.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -182,10 +199,15 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ft-deuT" PARENT_REF="orth" TIER_ID="ft-deu(Lagercrantz)">
+    <TIER LINGUISTIC_TYPE_REF="ft-deuT" PARENT_REF="orth@Onteri" PARTICIPANT="Onteri" TIER_ID="ft-deu(Lagercrantz)@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2895" ANNOTATION_REF="a2682">
                 <ANNOTATION_VALUE>Stallo und der Ostlappe.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3738" ANNOTATION_REF="a3736">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -234,10 +256,15 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="ft-nobT" PARENT_REF="orth" TIER_ID="ft-nob">
+    <TIER LINGUISTIC_TYPE_REF="ft-nobT" PARENT_REF="orth@Onteri" PARTICIPANT="Onteri" TIER_ID="ft-nob@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2905" ANNOTATION_REF="a2682">
                 <ANNOTATION_VALUE>Stallo og skoltesamen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3739" ANNOTATION_REF="a3736">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -257,7 +284,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2909" ANNOTATION_REF="a2686">
-                <ANNOTATION_VALUE>Å trette helt.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>De kom helt på villstrå.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -286,15 +313,20 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="ft-deuT" PARENT_REF="orth" TIER_ID="ft-deu">
+    <TIER LINGUISTIC_TYPE_REF="ft-deuT" PARENT_REF="orth@Onteri" PARTICIPANT="Onteri" TIER_ID="ft-deu@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2980" ANNOTATION_REF="a2682">
                 <ANNOTATION_VALUE>Der Stallo und der Skoltsami.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3740" ANNOTATION_REF="a3736">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a2981" ANNOTATION_REF="a2683">
-                <ANNOTATION_VALUE>Ein Stallo kam vom Fjell (d.h. Vadsø) quer über den Fjord zur Insel Gievju.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ein Stallo kam vom Fjell (d.h. Vadsø) quer über den Fjord zur Insel Kjøøya.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -309,7 +341,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3393" ANNOTATION_REF="a2686">
-                <ANNOTATION_VALUE>Ganz und gar müde.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Sie verirren sich ganz und gar.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -324,7 +356,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3049" ANNOTATION_REF="a2689">
-                <ANNOTATION_VALUE>Sie gerieten in einen Ringkampf.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Es endete in einem Ringkampf.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -338,25 +370,30 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="phonet-upaT" PARENT_REF="ref" TIER_ID="phonet-upa">
+    <TIER LINGUISTIC_TYPE_REF="phonet-upaT" PARENT_REF="ref@Onteri" PARTICIPANT="Onteri" TIER_ID="phonet-upa@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3055" ANNOTATION_REF="a1893">
-                <ANNOTATION_VALUE>sᴛɑ̄llo jɑ nŭŏˑr̀ᴿttɒ̑lɑš.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sᴛāllo ja nŭŏ·r̀ᴿttɐ̑laš.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3741" ANNOTATION_REF="a3735">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3056" ANNOTATION_REF="a2091">
-                <ANNOTATION_VALUE>owʷt{ɒ̑} sᴛɑ̄llo vèˑɑ̈̀̀rɑ̀̀sᴛ pùˑòđij ras̄tɑ͕ ᴋiw̬`ju͕j.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>owʷtᵄ̆ sᴛāllo vè·ä̀aàsᴛ pù·òδj ras̄ta͕ ᴋiw̬`ju͕j.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3057" ANNOTATION_REF="a1895">
-                <ANNOTATION_VALUE>ᴛe ōj̆nij nŭŏˑr̀ᴿtt{ɒ̑}laš.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ᴛe ōj̆nij nŭŏ·r̀ᴿttᵄ̑laš.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3394" ANNOTATION_REF="a1896">
-                <ANNOTATION_VALUE>lej ᴋɑ͔ràz ᴘĭeˑg̀ɢɑ, jɑ son por̆jɒ̑sᴛij nû hir̆mos ᴋɑ͔rrɑsiᴴᵀ.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>lej ᴋa͔ràz ᴘĭe·g̀ɢa, ja son por̆jɒ̑sᴛij nû hir̆mos ᴋa͔rrasiᴴᵀ.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -366,34 +403,39 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3059" ANNOTATION_REF="a1898">
-                <ANNOTATION_VALUE>sᴛɑ̄llo ᴘɑ͔lɑj, e͔ᴴt̆tᵉ ᴛɑᴴt ᴋommɑ̀n ᴛɑᴴt fɑ͔nɑ̀z.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>sᴛāllo ᴘa͔laj, e͔ᴴt̆tᵉ ᴛaᴴt ᴋommàn ᴛaᴴt fa͔nàz.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3060" ANNOTATION_REF="a1899">
-                <ANNOTATION_VALUE>nŭŏˑr̀ᴿtt{ɒ̑}laš ᴛɑ͔jɑj: son ᴘor̆jɑ̀sᴛ nû ᴋo son jêš ᴛɑ̀ᴴt̀to.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>nŭŏˑr̀ᴿttᵄ̑laš ᴛa͔jaj: son ᴘor̆jàsᴛ nû ᴋo son jêš ᴛàᴴt̀to.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3061" ANNOTATION_REF="a1900">
-                <ANNOTATION_VALUE>ᴛɑᴴk joˑđij hĕɑ̈ˑj̀ᴘòmin.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ᴛaᴴk jo˴δij hĕä˸j̀ᴘòmin.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3062" ANNOTATION_REF="a1901">
-                <ANNOTATION_VALUE>ᴘrokfiffɑn soŋ-ᴋe pɑ͔lɑj.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>ᴘrokfiffan soŋ-ᴋe pa͔laj.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3395" ANNOTATION_REF="a1902">
-                <ANNOTATION_VALUE>vuj, vuj, lej ᴋɑ͔rɑ̀z ᴘor̆jjɒ̑sᴛiᴴᵀ.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>vuj, vuj, lej ᴋa͔ràz ᴘor̆jjɒ̑sᴛiᴴᵀ.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="orthT" PARENT_REF="orth" TIER_ID="GRAIDorth">
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="orthT" PARENT_REF="orth@Onteri" TIER_ID="GRAIDorth">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3063" ANNOTATION_REF="a2682">
                 <ANNOTATION_VALUE>ställu ja nuõrttlaž</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3742" ANNOTATION_REF="a3736">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -461,6 +503,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3076" ANNOTATION_REF="a3063" PREVIOUS_ANNOTATION="a3075">
                 <ANNOTATION_VALUE>nuõrttlaž</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3743" ANNOTATION_REF="a3742">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -806,6 +853,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3744" ANNOTATION_REF="a3742">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3145" ANNOTATION_REF="a3064">
                 <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -870,6 +922,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3157" ANNOTATION_REF="a3076" CVE_REF="cveid11">
                 <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3745" ANNOTATION_REF="a3743">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1207,6 +1264,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3224" ANNOTATION_REF="a3076" CVE_REF="cveid20">
                 <ANNOTATION_VALUE>np</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3746" ANNOTATION_REF="a3743">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1567,6 +1629,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3747" ANNOTATION_REF="a3743">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3296" ANNOTATION_REF="a3077">
                 <ANNOTATION_VALUE></ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -1897,62 +1964,10 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="ft-sms" PARENT_REF="orth" TIER_ID="ft-sms">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3415" ANNOTATION_REF="a2682">
-                <ANNOTATION_VALUE>Stääl da säˊmmlaž.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3416" ANNOTATION_REF="a2683">
-                <ANNOTATION_VALUE>Õhtt stääl vääˊrast pueđi rââst Gievjuj.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3417" ANNOTATION_REF="a2684">
-                <ANNOTATION_VALUE>Teˊl (su) vueiˊni säˊmmlaž.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3418" ANNOTATION_REF="a2685">
-                <ANNOTATION_VALUE>Leäi kõõrâs piõgg, ja son porjsti nuˊtt hirmmâs kõrrsest,</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3419" ANNOTATION_REF="a2686">
-                <ANNOTATION_VALUE>Aaibâs kållǥest.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3420" ANNOTATION_REF="a2687">
-                <ANNOTATION_VALUE>Stääl põõli, što tät kåmman tät võnnâz.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3421" ANNOTATION_REF="a2688">
-                <ANNOTATION_VALUE>Säˊmmlaž cieˊlǩi, son porjast nuˊtt ko son jiõčč tätt.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3422" ANNOTATION_REF="a2689">
-                <ANNOTATION_VALUE>Täk joˊtte heibbmin.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3423" ANNOTATION_REF="a2690">
-                <ANNOTATION_VALUE>Prååkkpi, son-ka põõli.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3424" ANNOTATION_REF="a2691">
-                <ANNOTATION_VALUE>Voj, voj. Leäi kõõrâs porjsted.</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="wordT" PARENT_REF="orth" TIER_ID="word">
+    <TIER LINGUISTIC_TYPE_REF="wordT" PARENT_REF="orth@Onteri" PARTICIPANT="Onteri" TIER_ID="word@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3425" ANNOTATION_REF="a2682">
-                <ANNOTATION_VALUE>Staallo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Staall</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1971,13 +1986,18 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3748" ANNOTATION_REF="a3736">
+                <ANNOTATION_VALUE>#</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3429" ANNOTATION_REF="a2683">
                 <ANNOTATION_VALUE>Õhtt</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3430" ANNOTATION_REF="a2683" PREVIOUS_ANNOTATION="a3429">
-                <ANNOTATION_VALUE>staallo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>staall</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1997,7 +2017,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3434" ANNOTATION_REF="a2683" PREVIOUS_ANNOTATION="a3433">
-                <ANNOTATION_VALUE>Gievjuj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>??</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2037,7 +2057,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3442" ANNOTATION_REF="a2685" PREVIOUS_ANNOTATION="a3441">
-                <ANNOTATION_VALUE>piõgg</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>piõgˈg</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2087,7 +2107,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3452" ANNOTATION_REF="a2686" PREVIOUS_ANNOTATION="a3451">
-                <ANNOTATION_VALUE>kållǥet</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kåålǥee</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2097,7 +2117,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3454" ANNOTATION_REF="a2687">
-                <ANNOTATION_VALUE>Staallo</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Staall</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2147,7 +2167,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3464" ANNOTATION_REF="a2688" PREVIOUS_ANNOTATION="a3463">
-                <ANNOTATION_VALUE>tajaj</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>taji</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2197,12 +2217,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3474" ANNOTATION_REF="a2689">
-                <ANNOTATION_VALUE>Täk</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Tät</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3475" ANNOTATION_REF="a2689" PREVIOUS_ANNOTATION="a3474">
-                <ANNOTATION_VALUE>joˊtte</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>jooˊđi</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2262,12 +2282,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3487" ANNOTATION_REF="a2691" PREVIOUS_ANNOTATION="a3486">
-                <ANNOTATION_VALUE>.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>,</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3488" ANNOTATION_REF="a2691" PREVIOUS_ANNOTATION="a3487">
-                <ANNOTATION_VALUE>Leäi</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>leäi</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2286,7 +2306,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="lemmaT" PARENT_REF="word" TIER_ID="lemma">
+    <TIER LINGUISTIC_TYPE_REF="lemmaT" PARENT_REF="word@Onteri" PARTICIPANT="Onteri" TIER_ID="lemma@v">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3492" ANNOTATION_REF="a3425">
                 <ANNOTATION_VALUE>stállu</ANNOTATION_VALUE>
@@ -2304,7 +2324,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3495" ANNOTATION_REF="a3428">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3749" ANNOTATION_REF="a3748">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2324,7 +2349,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3499" ANNOTATION_REF="a3432">
-                <ANNOTATION_VALUE>pueˊtted</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>puẹˊtted</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2335,6 +2360,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3501" ANNOTATION_REF="a3434">
                 <ANNOTATION_VALUE>Gievju</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3750" ANNOTATION_REF="a3435">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2354,7 +2384,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3505" ANNOTATION_REF="a3439">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2369,7 +2399,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3508" ANNOTATION_REF="a3442">
-                <ANNOTATION_VALUE>piegga</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>piõgˈg</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3751" ANNOTATION_REF="a3443">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2399,12 +2434,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3514" ANNOTATION_REF="a3449">
-                <ANNOTATION_VALUE>kõrrsest</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kõrrset</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3515" ANNOTATION_REF="a3450">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2414,17 +2449,27 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3517" ANNOTATION_REF="a3452">
-                <ANNOTATION_VALUE>kållǥet</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>kåålǥeed</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3752" ANNOTATION_REF="a3453">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3518" ANNOTATION_REF="a3454">
-                <ANNOTATION_VALUE>staall</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>stállu</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3519" ANNOTATION_REF="a3455">
                 <ANNOTATION_VALUE>põõllâd</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3753" ANNOTATION_REF="a3456">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2453,6 +2498,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3754" ANNOTATION_REF="a3462">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3525" ANNOTATION_REF="a3463">
                 <ANNOTATION_VALUE>nueˊrttsäˊmmlaž</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -2460,6 +2510,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3526" ANNOTATION_REF="a3464">
                 <ANNOTATION_VALUE>dadjat</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3755" ANNOTATION_REF="a3465">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2498,8 +2553,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3756" ANNOTATION_REF="a3473">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3534" ANNOTATION_REF="a3474">
-                <ANNOTATION_VALUE>täk</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>tät</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2514,7 +2574,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3537" ANNOTATION_REF="a3477">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2524,7 +2584,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3539" ANNOTATION_REF="a3479">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2534,7 +2594,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3541" ANNOTATION_REF="a3481">
-                <ANNOTATION_VALUE>=ke</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>-ge</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2543,13 +2603,28 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3757" ANNOTATION_REF="a3483">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3543" ANNOTATION_REF="a3484">
                 <ANNOTATION_VALUE>voj</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3758" ANNOTATION_REF="a3485">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3544" ANNOTATION_REF="a3486">
                 <ANNOTATION_VALUE>voj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3759" ANNOTATION_REF="a3487">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2568,7 +2643,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="ft-nobT" PARENT_REF="lemma" TIER_ID="gloss-nob">
+    <TIER LINGUISTIC_TYPE_REF="ft-nobT" PARENT_REF="lemma@v" PARTICIPANT="Onteri" TIER_ID="gloss-nob@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3548" ANNOTATION_REF="a3492">
                 <ANNOTATION_VALUE>stallo</ANNOTATION_VALUE>
@@ -2586,7 +2661,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3551" ANNOTATION_REF="a3495">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3760" ANNOTATION_REF="a3749">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2620,6 +2700,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3761" ANNOTATION_REF="a3750">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3558" ANNOTATION_REF="a3502">
                 <ANNOTATION_VALUE>så</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -2636,7 +2721,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3561" ANNOTATION_REF="a3505">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2652,6 +2737,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3564" ANNOTATION_REF="a3508">
                 <ANNOTATION_VALUE>vind</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3762" ANNOTATION_REF="a3751">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2686,7 +2776,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3571" ANNOTATION_REF="a3515">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2696,7 +2786,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3573" ANNOTATION_REF="a3517">
-                <ANNOTATION_VALUE>trett</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>??</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3763" ANNOTATION_REF="a3752">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2707,6 +2802,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3575" ANNOTATION_REF="a3519">
                 <ANNOTATION_VALUE>frykte</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3764" ANNOTATION_REF="a3753">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2735,6 +2835,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3765" ANNOTATION_REF="a3754">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3581" ANNOTATION_REF="a3525">
                 <ANNOTATION_VALUE>skoltesame</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -2742,6 +2847,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3582" ANNOTATION_REF="a3526">
                 <ANNOTATION_VALUE>si</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3766" ANNOTATION_REF="a3755">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2780,8 +2890,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3767" ANNOTATION_REF="a3756">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3590" ANNOTATION_REF="a3534">
-                <ANNOTATION_VALUE>disse</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>den</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2796,7 +2911,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3593" ANNOTATION_REF="a3537">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2806,7 +2921,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3595" ANNOTATION_REF="a3539">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2825,13 +2940,28 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3768" ANNOTATION_REF="a3757">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3599" ANNOTATION_REF="a3543">
                 <ANNOTATION_VALUE>oj</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3769" ANNOTATION_REF="a3758">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3600" ANNOTATION_REF="a3544">
                 <ANNOTATION_VALUE>oj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3770" ANNOTATION_REF="a3759">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2850,7 +2980,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="ft-engT" PARENT_REF="lemma" TIER_ID="gloss-eng">
+    <TIER LINGUISTIC_TYPE_REF="ft-engT" PARENT_REF="lemma@v" PARTICIPANT="Onteri" TIER_ID="gloss-eng@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3604" ANNOTATION_REF="a3492">
                 <ANNOTATION_VALUE>Stallo</ANNOTATION_VALUE>
@@ -2868,7 +2998,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3607" ANNOTATION_REF="a3495">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3771" ANNOTATION_REF="a3749">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2902,6 +3037,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3772" ANNOTATION_REF="a3750">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3614" ANNOTATION_REF="a3502">
                 <ANNOTATION_VALUE>then</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -2918,7 +3058,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3617" ANNOTATION_REF="a3505">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2934,6 +3074,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3620" ANNOTATION_REF="a3508">
                 <ANNOTATION_VALUE>wind</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3773" ANNOTATION_REF="a3751">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2963,12 +3108,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3626" ANNOTATION_REF="a3514">
-                <ANNOTATION_VALUE>hard</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>toughly</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3627" ANNOTATION_REF="a3515">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2978,7 +3123,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3629" ANNOTATION_REF="a3517">
-                <ANNOTATION_VALUE>tired</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>get_lost</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3774" ANNOTATION_REF="a3752">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2989,6 +3139,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3631" ANNOTATION_REF="a3519">
                 <ANNOTATION_VALUE>fear</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3775" ANNOTATION_REF="a3753">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3017,6 +3172,11 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3776" ANNOTATION_REF="a3754">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3637" ANNOTATION_REF="a3525">
                 <ANNOTATION_VALUE>Skolt Saami</ANNOTATION_VALUE>
             </REF_ANNOTATION>
@@ -3024,6 +3184,11 @@
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3638" ANNOTATION_REF="a3526">
                 <ANNOTATION_VALUE>say</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3777" ANNOTATION_REF="a3755">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3062,13 +3227,18 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3778" ANNOTATION_REF="a3756">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3646" ANNOTATION_REF="a3534">
-                <ANNOTATION_VALUE>these</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>this</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3647" ANNOTATION_REF="a3535">
-                <ANNOTATION_VALUE>drive</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>travel</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3078,7 +3248,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3649" ANNOTATION_REF="a3537">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3088,7 +3258,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3651" ANNOTATION_REF="a3539">
-                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3107,13 +3277,28 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3779" ANNOTATION_REF="a3757">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3655" ANNOTATION_REF="a3543">
                 <ANNOTATION_VALUE>oh</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3780" ANNOTATION_REF="a3758">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3656" ANNOTATION_REF="a3544">
                 <ANNOTATION_VALUE>oh</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3781" ANNOTATION_REF="a3759">
+                <ANNOTATION_VALUE>0</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -3132,371 +3317,7 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LINGUISTIC_TYPE_REF="lgT" PARENT_REF="word" TIER_ID="lg">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3660" ANNOTATION_REF="a3425" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3661" ANNOTATION_REF="a3430" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3662" ANNOTATION_REF="a3434" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3663" ANNOTATION_REF="a3454" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3664" ANNOTATION_REF="a3464" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="posT" PARENT_REF="word" TIER_ID="pos">
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3665" ANNOTATION_REF="a3425" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3666" ANNOTATION_REF="a3426" CVE_REF="cveid7">
-                <ANNOTATION_VALUE>Cc</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3667" ANNOTATION_REF="a3427" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3668" ANNOTATION_REF="a3428" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3669" ANNOTATION_REF="a3429" CVE_REF="cveid12">
-                <ANNOTATION_VALUE>Num</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3670" ANNOTATION_REF="a3430" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3671" ANNOTATION_REF="a3431" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3672" ANNOTATION_REF="a3432" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3673" ANNOTATION_REF="a3433" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3674" ANNOTATION_REF="a3434" CVE_REF="cveid18">
-                <ANNOTATION_VALUE>Prop</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3675" ANNOTATION_REF="a3435" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3676" ANNOTATION_REF="a3436" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3677" ANNOTATION_REF="a3437" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3678" ANNOTATION_REF="a3438" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3679" ANNOTATION_REF="a3439" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3680" ANNOTATION_REF="a3440" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3681" ANNOTATION_REF="a3441" CVE_REF="cveid2">
-                <ANNOTATION_VALUE>A</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3682" ANNOTATION_REF="a3442" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3683" ANNOTATION_REF="a3443" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3684" ANNOTATION_REF="a3444" CVE_REF="cveid7">
-                <ANNOTATION_VALUE>Cc</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3685" ANNOTATION_REF="a3445" CVE_REF="cveid17">
-                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3686" ANNOTATION_REF="a3446" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3687" ANNOTATION_REF="a3447" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3688" ANNOTATION_REF="a3448" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3689" ANNOTATION_REF="a3449" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3690" ANNOTATION_REF="a3450" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3691" ANNOTATION_REF="a3451" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3692" ANNOTATION_REF="a3452" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3693" ANNOTATION_REF="a3453" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3694" ANNOTATION_REF="a3454" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3695" ANNOTATION_REF="a3455" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3696" ANNOTATION_REF="a3456" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3697" ANNOTATION_REF="a3457" CVE_REF="cveid8">
-                <ANNOTATION_VALUE>Cs</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3698" ANNOTATION_REF="a3458" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>Det</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3699" ANNOTATION_REF="a3459" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3700" ANNOTATION_REF="a3460" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>Det</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3701" ANNOTATION_REF="a3461" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3702" ANNOTATION_REF="a3462" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3703" ANNOTATION_REF="a3463" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3704" ANNOTATION_REF="a3464" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3705" ANNOTATION_REF="a3465" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3706" ANNOTATION_REF="a3466" CVE_REF="cveid17">
-                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3707" ANNOTATION_REF="a3467" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3708" ANNOTATION_REF="a3468" CVE_REF="cveid5">
-                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3709" ANNOTATION_REF="a3469" CVE_REF="cveid8">
-                <ANNOTATION_VALUE>Cs</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3710" ANNOTATION_REF="a3470" CVE_REF="cveid17">
-                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3711" ANNOTATION_REF="a3471" CVE_REF="cveid17">
-                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3712" ANNOTATION_REF="a3472" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3713" ANNOTATION_REF="a3473" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3714" ANNOTATION_REF="a3474" CVE_REF="cveid9">
-                <ANNOTATION_VALUE>Det</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3715" ANNOTATION_REF="a3475" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3716" ANNOTATION_REF="a3476" CVE_REF="cveid11">
-                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3717" ANNOTATION_REF="a3477" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3718" ANNOTATION_REF="a3478" CVE_REF="cveid18">
-                <ANNOTATION_VALUE>Prop</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3719" ANNOTATION_REF="a3479" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3720" ANNOTATION_REF="a3480" CVE_REF="cveid17">
-                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3721" ANNOTATION_REF="a3481" CVE_REF="cveid14">
-                <ANNOTATION_VALUE>Pcle</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3722" ANNOTATION_REF="a3482" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3723" ANNOTATION_REF="a3483" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3724" ANNOTATION_REF="a3484" CVE_REF="cveid10">
-                <ANNOTATION_VALUE>Interj</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3725" ANNOTATION_REF="a3485" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3726" ANNOTATION_REF="a3486" CVE_REF="cveid10">
-                <ANNOTATION_VALUE>Interj</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3727" ANNOTATION_REF="a3487" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3728" ANNOTATION_REF="a3488" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3729" ANNOTATION_REF="a3489" CVE_REF="cveid2">
-                <ANNOTATION_VALUE>A</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3730" ANNOTATION_REF="a3490" CVE_REF="cveid19">
-                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3731" ANNOTATION_REF="a3491" CVE_REF="cveid6">
-                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-    </TIER>
-    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="noteT" PARENT_REF="word" TIER_ID="comment(Lagercrantz)-cp">
+    <TIER LINGUISTIC_TYPE_REF="noteT" PARENT_REF="word@Onteri" PARTICIPANT="Onteri" TIER_ID="comment(Lagercrantz)@Onteri">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3732" ANNOTATION_REF="a3434">
                 <ANNOTATION_VALUE>*</ANNOTATION_VALUE>
@@ -3509,7 +3330,371 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3734" ANNOTATION_REF="a3478">
-                <ANNOTATION_VALUE>* (nuõrttalaž)</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>* (nuõrttlaž)</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="posT" PARENT_REF="lemma@v" PARTICIPANT="Onteri" TIER_ID="pos@Onteri">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3782" ANNOTATION_REF="a3492" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3783" ANNOTATION_REF="a3493" CVE_REF="cveid7">
+                <ANNOTATION_VALUE>Cc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3784" ANNOTATION_REF="a3494" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3785" ANNOTATION_REF="a3495" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3786" ANNOTATION_REF="a3749" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3787" ANNOTATION_REF="a3496" CVE_REF="cveid12">
+                <ANNOTATION_VALUE>Num</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3788" ANNOTATION_REF="a3497" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3789" ANNOTATION_REF="a3498" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3790" ANNOTATION_REF="a3499" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3791" ANNOTATION_REF="a3500" CVE_REF="cveid5">
+                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3792" ANNOTATION_REF="a3501" CVE_REF="cveid18">
+                <ANNOTATION_VALUE>Prop</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3793" ANNOTATION_REF="a3750" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3794" ANNOTATION_REF="a3502" CVE_REF="cveid5">
+                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3795" ANNOTATION_REF="a3503" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3796" ANNOTATION_REF="a3504" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3797" ANNOTATION_REF="a3505" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3798" ANNOTATION_REF="a3506" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3799" ANNOTATION_REF="a3507" CVE_REF="cveid2">
+                <ANNOTATION_VALUE>A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3800" ANNOTATION_REF="a3508" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3801" ANNOTATION_REF="a3751" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3802" ANNOTATION_REF="a3509" CVE_REF="cveid7">
+                <ANNOTATION_VALUE>Cc</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3803" ANNOTATION_REF="a3510" CVE_REF="cveid17">
+                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3804" ANNOTATION_REF="a3511" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3805" ANNOTATION_REF="a3512" CVE_REF="cveid5">
+                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3806" ANNOTATION_REF="a3513" CVE_REF="cveid5">
+                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3807" ANNOTATION_REF="a3514" CVE_REF="cveid5">
+                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3808" ANNOTATION_REF="a3515" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3809" ANNOTATION_REF="a3516" CVE_REF="cveid5">
+                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3810" ANNOTATION_REF="a3517" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3811" ANNOTATION_REF="a3752" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3812" ANNOTATION_REF="a3518" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3813" ANNOTATION_REF="a3519" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3814" ANNOTATION_REF="a3753" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3815" ANNOTATION_REF="a3520" CVE_REF="cveid8">
+                <ANNOTATION_VALUE>Cs</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3816" ANNOTATION_REF="a3521" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>Det</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3817" ANNOTATION_REF="a3522" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3818" ANNOTATION_REF="a3523" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>Det</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3819" ANNOTATION_REF="a3524" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3820" ANNOTATION_REF="a3754" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3821" ANNOTATION_REF="a3525" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3822" ANNOTATION_REF="a3526" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3823" ANNOTATION_REF="a3755" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3824" ANNOTATION_REF="a3527" CVE_REF="cveid17">
+                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3825" ANNOTATION_REF="a3528" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3826" ANNOTATION_REF="a3529" CVE_REF="cveid5">
+                <ANNOTATION_VALUE>Adv</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3827" ANNOTATION_REF="a3530" CVE_REF="cveid8">
+                <ANNOTATION_VALUE>Cs</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3828" ANNOTATION_REF="a3531" CVE_REF="cveid17">
+                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3829" ANNOTATION_REF="a3532" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>Det</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3830" ANNOTATION_REF="a3533" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3831" ANNOTATION_REF="a3756" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3832" ANNOTATION_REF="a3534" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>Det</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3833" ANNOTATION_REF="a3535" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3834" ANNOTATION_REF="a3536" CVE_REF="cveid11">
+                <ANNOTATION_VALUE>N</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3835" ANNOTATION_REF="a3537" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3836" ANNOTATION_REF="a3538" CVE_REF="cveid18">
+                <ANNOTATION_VALUE>Prop</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3837" ANNOTATION_REF="a3539" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3838" ANNOTATION_REF="a3540" CVE_REF="cveid17">
+                <ANNOTATION_VALUE>Pro</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3839" ANNOTATION_REF="a3541" CVE_REF="cveid14">
+                <ANNOTATION_VALUE>Pcle</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3840" ANNOTATION_REF="a3542" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3841" ANNOTATION_REF="a3757" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3842" ANNOTATION_REF="a3543" CVE_REF="cveid10">
+                <ANNOTATION_VALUE>Interj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3843" ANNOTATION_REF="a3758" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3844" ANNOTATION_REF="a3544" CVE_REF="cveid10">
+                <ANNOTATION_VALUE>Interj</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3845" ANNOTATION_REF="a3759" CVE_REF="cveid6">
+                <ANNOTATION_VALUE>CLB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3846" ANNOTATION_REF="a3545" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3847" ANNOTATION_REF="a3546" CVE_REF="cveid2">
+                <ANNOTATION_VALUE>A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3848" ANNOTATION_REF="a3547" CVE_REF="cveid19">
+                <ANNOTATION_VALUE>V</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="lgT" PARENT_REF="lemma@v" PARTICIPANT="Onteri" TIER_ID="lg(lemma)@Onteri">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3849" ANNOTATION_REF="a3492" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3850" ANNOTATION_REF="a3497" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3851" ANNOTATION_REF="a3501" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3852" ANNOTATION_REF="a3518" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3853" ANNOTATION_REF="a3526" CVE_REF="cveid9">
+                <ANNOTATION_VALUE>sme</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
