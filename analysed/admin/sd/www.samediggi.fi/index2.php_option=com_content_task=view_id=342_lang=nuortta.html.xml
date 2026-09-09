@@ -1,0 +1,161 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Vuõssmõs tâ´vvsää´m&amp;#489;iõllsaž škooul kartt&amp;#489;e´rjj o&amp;#269;andõõ&amp;#273;i</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>40</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=342&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=342_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=342_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=342_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Vuõssmõs>"
+	"vuõssmõs" A Attr @>N #1->3
+	"vuõssmõs" A Ord Attr @>N #1->3
+: 
+"<tâʹvvsääʹmǩiõllsaž>"
+	"tâʹvvsääʹmǩiõllsaž" A Attr @>N #2->3
+: 
+"<škooul>"
+	"škooul" N Pl Nom @SUBJ #3->4
+	"škooul" N Sg Acc @OBJ> #3->4
+	"škooul" N Sg Gen @>N #3->4
+	"škooul" N Sg Nom @SUBJ #3->4
+: 
+"<karttǩeʹrjj>"
+	"karttǩeʹrjj" N Sg Nom @HNOUN #4->0
+: 
+"<očandõõđi>"
+	"očandõõđi" ? @X #5->0
+: 
+"<¶>"
+	"¶" CLB #6->4
+:\n
+"<Vuõssmõs>"
+	"vuõssmõs" A Attr @>N #1->3
+	"vuõssmõs" A Ord Attr @>N #1->3
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #2->3
+: 
+"<škooul>"
+	"škooul" N Sg Nom @SUBJ> #3->5
+: 
+"<karttǩeʹrjj>"
+	"karttǩeʹrjj" N Sg Nom @SUBJ> #4->5
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #5->0
+: 
+"<očndõõttâm>"
+	"očndõõttâd" V Act PrfPrc @X #6->0
+"<.>"
+	"." CLB #7->5
+"<ʹSkuvlla>"
+	"ʹSkuvlla" ? @X #1->0
+: 
+"<kártagirjiʹ>"
+	"kártagirjiʹ" ? @X #2->0
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<škooulneeʹǩǩ>"
+	"škooulneǩ" N Pl Nom @OBJ> #4->8
+	"škooulneǩ" N Sg Acc @OBJ> #4->8
+	"škooulneǩ" N Sg Gen @>N #4->8
+: 
+"<vuâđđkarttǩeʹrjj>"
+	"ǩeʹrjj" N Sg Nom @SUBJ> #5->8
+		"kartt" N Cmp/SgNom Cmp #5->8
+			"vuâđđ" N Cmp/SgNom Cmp #5->8
+	"karttǩeʹrjj" N Sg Nom @SUBJ> #5->8
+		"vuâđđ" N Cmp/SgNom Cmp #5->8
+: 
+"<da>"
+	"da" CC @CNP #6->5
+: 
+"<tõt>"
+	"tõt" Pron Dem Sg Nom @<SUBJ #7->3
+: 
+"<âânn>"
+	"âânn" N Sg Nom @<SUBJ #8->3
+	"ââʹnned" <mv> V TV Ind Prs Sg3 @FMV #8->3
+: 
+"<seʹst>"
+	"seʹst" Adv @<ADVL #9->8
+: 
+"<teâđaid>"
+	"teâtt" N Pl Acc @<OBJ #10->8
+: 
+"<Lääʹddjânnmest>"
+	"Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Sg Loc @<ADVL #11->8
+"<,>"
+	"," CLB #12->11
+: 
+"<Tâʹvvjânnmin>"
+	"Tâʹvvjânnam" N Prop Sem/Plc Sem/Plc Sg Com @<ADVL #13->8
+: 
+"<da>"
+	"da" CC @X #14->0
+: 
+"<jeeʹres>"
+	"jieʹres" A Sg Nom @<SUBJ #15->8
+: 
+"<mäddvuäʹzzin>"
+	"mäddvuäʹzzin" ? @X #16->0
+"<.>"
+	"." CLB #17->3
+: 
+"<Karttǩeʹrjj>"
+	"karttǩeʹrjj" N Sg Nom @SUBJ> #1->2
+: 
+"<ââʹnn>"
+	"ââʹnned" <mv> V TV Err/Orth Ind Prs Sg3 @FMV #2->0
+: 
+"<seʹst>"
+	"seʹst" Adv @<ADVL #3->2
+: 
+"<še>"
+	"še" Pcle @PCLE #4->3
+: 
+"<looǥǥtõõzz>"
+	"looǥǥtõõzz" ? @X #5->0
+: 
+"<pååʹđväʹlddsaž>"
+	"pååʹđväʹlddsaž" ? @X #6->0
+: 
+"<valdiain>"
+	"valdia" N Pl Loc @<ADVL #7->2
+	"valdia" N Sg Com @>ADVL #7->2
+: 
+"<liippeesvuiʹm>"
+	"lipp" N Pl Com PxSg3 @<ADVL #8->2
+: 
+"<da>"
+	"da" CC @X #9->0
+: 
+"<sääʹmǩiõllsa>"
+	"sääʹmǩiõllsaž" A Sg Gen @>N #10->2
+	"sääʹmǩiõllsaž" A Pl Nom @<SUBJ #10->2
+	"sääʹmǩiõllsaž" A Sg Acc @<OBJ #10->2
+: 
+"<ooccâmpääiʹǩ>"
+	"ooccâmpäiʹǩǩ" N Pl Nom @<OBJ #11->10
+	"ooccâmpäiʹǩǩ" N Sg Acc @<OBJ #11->10
+	"ooccâmpäiʹǩǩ" N Sg Gen @<ADVL #11->10
+"<.>"
+	"." CLB #12->2
+: 
+"<Looǥ>"
+	"Looǥ" ? @X #1->0
+: 
+"<lââʹzz>"
+	"lââʹss" N Pl Nom @HNOUN #2->0
+	"lââʹss" N Sg Acc @HNOUN #2->0
+: 
+"<¶>"
+	"¶" CLB #3->2
+:\n
+"<täʹst>"
+	"tät" Pron Dem Sg Loc @HNOUN #1->0
+	"täʹst" Adv @ADVL #1->0
+"<.>"
+	"." CLB #2->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

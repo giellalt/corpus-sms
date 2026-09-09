@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sää´mtee´&amp;#487;&amp;#487;  kultturveä´&amp;#489;&amp;#489;vuõ&amp;#273;i ooccmõš 2011</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>25</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=430&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=430_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=430_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=430_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #1->2
+:  
+"<kultturveäʹǩǩvuõđi>"
+	"veäʹǩǩvuõtt" N Pl Gen @>N #2->3
+		"kulttuur" N Allegro Cmp/SgNom Cmp #2->3
+: 
+"<ooccmõš>"
+	"ooccmõš" N Sg Nom @HNOUN #3->0
+: 
+"<2011>"
+	"2011" Num Arab Sem/Year Sg Nom @HNOUN #4->3
+	"2011" Num Arab Sem/Year Sg Acc @<OBJ #4->3
+	"2011" Num Arab Sem/Year Sg Ill Attr @<ADVL #4->3
+	"2011" Num Arab Sem/Year Sg Loc Attr @<ADVL #4->3
+	"2011" Num Arab Sg Nom @HNOUN #4->3
+	"2011" Num Arab Sg Acc @<OBJ #4->3
+	"2011" Num Arab Sg Ill Attr @<ADVL #4->3
+	"2011" Num Arab Sg Loc Attr @<ADVL #4->3
+: 
+"<¶>"
+	"¶" CLB #5->3
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<čõõđat>"
+	"čõõđted" <mv> V TV Ind Prs Sg3 @FMV #2->0
+: 
+"<sääʹmǩiõllsa>"
+	"sääʹmǩiõllsaž" A Sg Gen @>N #3->4
+	"sääʹmǩiõllsaž" A Pl Nom @<OBJ #3->4
+	"sääʹmǩiõllsaž" A Sg Acc @<OBJ #3->4
+: 
+"<kulttuur>"
+	"kulttuur" N Pl Nom @<OBJ #4->2
+	"kulttuur" N Sg Acc @<OBJ #4->2
+	"kulttuur" N Sg Gen @>N #4->2
+	"kulttuur" N Sg Nom @<SUBJ #4->2
+: 
+"<ooudâsviikkmõʹšše>"
+	"ooudâsviikkmõš" N Sg Ill @<ADVL #5->2
+: 
+"<da>"
+	"da" CC @X #6->0
+: 
+"<sääʹmorganisaatiai>"
+	"sääʹmorganisatio" N Err/Orth Pl Gen @>N #7->8
+: 
+"<tuåimmjumuʹšše>"
+	"tåimmjummuš" N Err/Orth Sg Ill @<ADVL #8->2
+: 
+"<čuäjtum>"
+	"čuäjtum" ? @X #9->0
+: 
+"<mieʹrrtieʹǧǧest>"
+	"mieʹrrteäʹǧǧ" N Sem/Money Sg Loc @<ADVL #10->2
+: 
+"<(>"
+	"(" PUNCT LEFT #11->12
+"<Sääʹm>"
+	"sääʹmm" N Sem/Hum Pl Nom @<SUBJ #12->2
+	"sääʹmm" N Sem/Hum Sg Acc @<OBJ #12->2
+	"sääʹmm" N Sem/Hum Sg Gen @>N #12->2
+: 
+"<kultturmieʹrrteäʹǧǧ>"
+	"teäʹǧǧ" N Sem/Money Sg Nom @<SUBJ #13->2
+		"mieʹrr" N Cmp/SgNom Cmp #13->2
+			"kulttuur" N Allegro Cmp/SgNom Cmp #13->2
+	"mieʹrrteäʹǧǧ" N Sem/Money Sg Nom @<SUBJ #13->2
+		"kulttuur" N Allegro Cmp/SgNom Cmp #13->2
+"<)>"
+	")" PUNCT RIGHT #14->15
+: 
+"<miõttâmnallšem>"
+	"nallšem" Der/A A Attr @>N #15->16
+		"miõttâd" Ex/V Der/NomAct N Cmp/SgGen Cmp #15->16
+: 
+"<veäʹǩǩvuõđid>"
+	"veäʹǩǩvuõtt" N Pl Acc @<OBJ #16->2
+	"veäʹǩǩvuõtt" N Pl Ill @<ADVL #16->2
+: 
+"<ooccâm>"
+	"ooccâm" N Sg Gen @>P #17->18
+: 
+"<diõtt>"
+	"diõtt" Adp Po @<ADVL #18->2
+	"diõtt" Adp Po <gen> @<ADVL #18->2
+"<.>"
+	"." CLB #19->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Ǩiičč>"
+	"ǩiččâd" <mv> V Imprt Sg2 @FMV #1->0
+: 
+"<iʹlmmtõs>"
+	"iʹlmmtõs" N Sg Nom @<SUBJ #2->1
+"<,>"
+	"," CLB #3->2
+: 
+"<blaaŋkid>"
+	"blaaŋkid" ? @X #4->0
+: 
+"<da>"
+	"da" CC @X #5->0
+: 
+"<ooccâmvuäʹppõõzzid>"
+	"vuäʹppõs" N Pl Acc @<OBJ #6->1
+		"ooccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp #6->1
+	"vuäʹppõs" N Pl Ill @<ADVL #6->1
+		"ooccâd" Ex/V Der/NomAct N Cmp/SgGen Cmp #6->1
+	"vuäʹppõs" N Pl Acc @<OBJ #6->1
+		"ooccâm" N Cmp/SgGen Cmp #6->1
+	"vuäʹppõs" N Pl Ill @<ADVL #6->1
+		"ooccâm" N Cmp/SgGen Cmp #6->1
+"<.>"
+	"." CLB #7->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

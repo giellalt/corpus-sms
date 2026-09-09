@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Vuõssnaroodi kuõskki &amp;#269;õõ&amp;#273;tõs</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>52</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=454&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=454_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=454_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=454_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Vuõssnaroodi>"
+	"narod" N Pl Gen @>N #1->3
+		"vuõss" N Cmp/SgNom Cmp #1->3
+: 
+"<kuõskki>"
+	"kuõskki" A Attr @>N #2->3
+: 
+"<čõõđtõs>"
+	"čõõđtõs" N Sg Nom @HNOUN #3->0
+: 
+"<¶>"
+	"¶" CLB #4->3
+:\n
+"<Ålggaaʹššiministeria>"
+	"ålggaaʹššiministeria" N Sem/Org Sg Nom @SUBJ> #1->2
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #2->0
+: 
+"<jåårǥlâttam>"
+	"jåårǥlâʹtted" V Act PrfPrc @X #3->0
+: 
+"<YK:i>"
+	"YK:i" ? @X #4->0
+: 
+"<čõõđtumuužž>"
+	"čõõđtummuš" N Err/Orth Pl Nom @<SUBJ #5->6
+	"čõõđtummuš" N Err/Orth Sg Acc @<OBJ #5->6
+	"čõõđtummuš" N Err/Orth Sg Gen @>N #5->6
+: 
+"<vuõssnaroodi>"
+	"narod" N Pl Gen @>N #6->8
+		"vuõss" N Cmp/SgNom Cmp #6->8
+: 
+"<kuõskki>"
+	"kuõskki" A Attr @>N #7->8
+: 
+"<vuõiggâdvuõđin>"
+	"vuõiggâdvuõtt" N Pl Loc @<ADVL #8->13
+	"vuõiggâdvuõtt" N Sg Com @ADVL> #8->13
+: 
+"<lääʹddǩiõʹlle>"
+	"lääʹddǩiõll" N Sg Ill @ADVL> #9->13
+: 
+"<da>"
+	"da" CC @CVP #10->2
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #11->12
+: 
+"<joortõs>"
+	"joortõs" N Sg Nom @<SUBJ #12->2
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #13->2
+: 
+"<tuâjj>"
+	"tuâjj" N Sg Nom @<SUBJ #14->13
+: 
+"<vueʹlnn>"
+	"vueʹlnn" Adp #15->15
+"<.>"
+	"." CLB #16->2
+: 
+"<Eeʹjjest>"
+	"eeʹjjest" Adv @ADVL> #1->18
+	"eeʹǩǩ" N Sg Loc @ADVL> #1->18
+	"eʹčč" N Sem/Kin Sg Loc @ADVL> #1->18
+: 
+"<2007>"
+	"2007" Num Arab Sem/Year Sg Nom @SUBJ> #2->18
+	"2007" Num Arab Sem/Year Sg Ill Attr @>N #2->18
+	"2007" Num Arab Sem/Year Sg Loc Attr @>N #2->18
+	"2007" Num Arab Sg Nom @SUBJ> #2->18
+	"2007" Num Arab Sg Ill Attr @>N #2->18
+	"2007" Num Arab Sg Loc Attr @>N #2->18
+: 
+"<primmum>"
+	"priimmâd" V Pass PrfPrc @X #3->0
+: 
+"<vuõssnaroodi>"
+	"narod" N Pl Gen @>N #4->6
+		"vuõss" N Cmp/SgNom Cmp #4->6
+: 
+"<kuõskki>"
+	"kuõskki" A Attr @>N #5->6
+: 
+"<čõõđtõs>"
+	"čõõđtõs" N Sg Nom @SUBJ> #6->18
+: 
+"<(>"
+	"(" PUNCT LEFT #7->8
+"<United>"
+	"United" N Prop Sem/Org Attr @>N #8->9
+: 
+"<Nations>"
+	"Nations" N Prop Sem/Org Sg Nom @SUBJ> #9->18
+: 
+"<Declaration>"
+	"Declaration" ? @X #10->0
+: 
+"<on>"
+	"on" ? @X #11->0
+: 
+"<the>"
+	"the" ? @X #12->0
+: 
+"<Rights>"
+	"Rights" ? @X #13->0
+: 
+"<of>"
+	"of" ? @X #14->0
+: 
+"<Indigenous>"
+	"Indigenous" ? @X #15->0
+: 
+"<Peoples>"
+	"Peoples" ? @X #16->0
+"<)>"
+	")" PUNCT RIGHT #17->18
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #18->0
+: 
+"<Lääʹddjânnam>"
+	"Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Sg Gen @>N #19->20
+: 
+"<valdia>"
+	"valdia" N Pl Nom @<SUBJ #20->18
+	"valdia" N Sg Acc @<OBJ #20->18
+	"valdia" N Sg Gen @>N #20->18
+	"valdia" N Sg Nom @<SUBJ #20->18
+: 
+"<õõlǥteei>"
+	"õõlǥteei" A Attr @>N #21->22
+: 
+"<äʹššǩeʹrjj>"
+	"äʹššǩeʹrjj" N Sg Nom @<SUBJ #22->18
+"<.>"
+	"." CLB #23->18
+: 
+"<Vuõssnaroodi>"
+	"narod" N Pl Gen @>N #1->3
+		"vuõss" N Cmp/SgNom Cmp #1->3
+: 
+"<kuõskki>"
+	"kuõskki" A Attr @>N #2->3
+: 
+"<čõõđtõs>"
+	"čõõđtõs" N Sg Nom @SUBJ> #3->4
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #4->0
+: 
+"<politiikklaž>"
+	"politiikklaž" A Attr @>N #5->6
+	"politikk" Ex/N Der/lazh A Attr @>N #5->6
+: 
+"<äʹššǩeʹrjj>"
+	"äʹššǩeʹrjj" N Sg Nom @<SUBJ #6->4
+: 
+"<da>"
+	"da" CC @CNP #7->6
+: 
+"<Lääʹddjânnam>"
+	"Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Sg Acc @<OBJ #8->4
+	"Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Sg Gen @<ADVL #8->4
+	"Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Sg Nom @<SUBJ #8->4
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #9->4
+: 
+"<ooddeld>"
+	"ooddeld" Adv @<ADVL #10->9
+: 
+"<staaneʹmmen>"
+	"staaneed" V Actio Ess @X #11->0
+: 
+"<čõõđtumuužž>"
+	"čõõđtummuš" N Err/Orth Pl Nom @<SUBJ #12->9
+	"čõõđtummuš" N Err/Orth Sg Acc @<OBJ #12->9
+	"čõõđtummuš" N Err/Orth Sg Gen @>N #12->9
+: 
+"<priimmʼmõõžž>"
+	"priimmʼmõš" N Sg Gen @<ADVL #13->9
+	"priimmʼmõš" N Pl Nom @<SUBJ #13->9
+	"priimmʼmõš" N Sg Acc @<OBJ #13->9
+: 
+"<YK:st>"
+	"YK:st" ? @X #14->0
+"<.>"
+	"." CLB #15->4
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sää´mkultturkõõskõs Sajos &amp;#269;okkleemkaggõõttâmpodd</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>33</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=468&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=468_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=468_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=468_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Sääʹmkultturkõõskõs>"
+	"Sääʹmkultturkõõskõs" N Prop Sg Nom @SUBJ #1->0
+: 
+"<Sajos>"
+	"Sajos" N Prop Sem/Plc Sg Nom @<SPRED #2->1
+	"Sajos" N Prop Sem/Sur Sg Nom @<SPRED #2->1
+: 
+"<čokkleemkaggõõttâmpodd>"
+	"čokkleemkaggõõttâmpodd" ? @X #3->0
+: 
+"<¶>"
+	"¶" CLB #4->1
+:\n
+"<Sääʹmkultturkõõskõs>"
+	"Sääʹmkultturkõõskõs" N Prop Sg Nom @SUBJ> #1->4
+: 
+"<Sajos>"
+	"Sajos" N Prop Sem/Plc Sg Gen Allegro @ADVL> #2->4
+	"Sajos" N Prop Sem/Plc Sg Nom @SUBJ> #2->4
+	"Sajos" N Prop Sem/Sur Sg Gen Allegro @ADVL> #2->4
+	"Sajos" N Prop Sem/Sur Sg Nom @SUBJ> #2->4
+: 
+"<čokkleemkaggõõttâmpodd>"
+	"čokkleemkaggõõttâmpodd" ? @X #3->0
+: 
+"<ââʹnet>"
+	"ââʹnned" <mv> V TV Ind Prs Sg4 @FMV #4->0
+: 
+"<põrttraajjâmtuâjjmääddast>"
+	"mädd" N Sg Loc @<ADVL #5->4
+		"tuâjj" N Cmp/SgNom Cmp #5->4
+			"raajjâd" Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->4
+				"põrtt" N Cmp/SgNom Cmp #5->4
+	"mädd" N Sg Loc @<ADVL #5->4
+		"tuâjj" N Cmp/SgNom Cmp #5->4
+			"raajjâd" Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->4
+				"põrtt" N Cmp/SgNom Cmp #5->4
+: 
+"<(>"
+	"(" PUNCT LEFT #6->7
+"<Aanar>"
+	"Aanar" N Prop Sem/Plc Sg Gen @>N #7->9
+"<)>"
+	")" PUNCT RIGHT #8->9
+: 
+"<nelljdpeeiʹv>"
+	"nelljdpeiʹvv" N Pl Nom @<SUBJ #9->4
+	"nelljdpeiʹvv" N Sg Acc @<OBJ #9->4
+	"nelljdpeiʹvv" N Sg Gen @>N #9->4
+: 
+"<njuhččmannu>"
+	"njuhččmään" N Sg Gen @<ADVL #10->4
+	"njuhččmään" N Pl Nom @<SUBJ #10->4
+	"njuhččmään" N Sg Acc @<OBJ #10->4
+: 
+"<14.>"
+	"14" A Arab Ord Attr @>N #11->12
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @<SUBJ #12->4
+	"peiʹvv" N Sg Acc @<OBJ #12->4
+	"peiʹvv" N Sg Gen @<ADVL #12->4
+: 
+"<2011>"
+	"2011" Num Arab Sem/Year Sg Nom @<ADVL #13->4
+	"2011" Num Arab Sem/ID @<ADVL #13->4
+	"2011" Num Arab Sem/Year Sg Acc @<OBJ #13->4
+	"2011" Num Arab Sem/Year Sg Gen @<ADVL #13->4
+	"2011" Num Arab Sem/Year Sg Ill Attr @<ADVL #13->4
+	"2011" Num Arab Sem/Year Sg Loc Attr @<ADVL #13->4
+	"2011" Num Arab Sg Nom @<ADVL #13->4
+	"2011" Num Arab Sg Acc @<OBJ #13->4
+	"2011" Num Arab Sg Gen @<ADVL #13->4
+	"2011" Num Arab Sg Ill Attr @<ADVL #13->4
+	"2011" Num Arab Sg Loc Attr @<ADVL #13->4
+"<.>"
+	"." CLB #14->4
+: 
+"<Podd>"
+	"podd" N Sg Nom @SUBJ> #1->2
+: 
+"<älgg>"
+	"älgg" N Sg Nom @SUBJ> #2->0
+	"äʹlǧǧed" <mv> V Ind Prs Sg3 @FMV #2->0
+: 
+"<põrttraajjâmtuâjjmaddu>"
+	"mädd" N Sg Ill @ADVL> #3->10
+		"tuâjj" N Cmp/SgNom Cmp #3->10
+			"raajjâd" Ex/V TV Der/NomAct N Cmp/SgGen Cmp #3->10
+				"põrtt" N Cmp/SgNom Cmp #3->10
+	"mädd" N Sg Ill @ADVL> #3->10
+		"tuâjj" N Cmp/SgNom Cmp #3->10
+			"raajjâd" Ex/V TV Der/NomAct N Cmp/SgNom Cmp #3->10
+				"põrtt" N Cmp/SgNom Cmp #3->10
+: 
+"<tobdstõõttmõõžžin>"
+	"tobdstõõttmõš" N Pl Loc @<ADVL #4->10
+	"tobdstõõttmõš" N Sg Com @ADVL> #4->10
+: 
+"<čiâss>"
+	"čiâss" N Pl Nom @<SUBJ #5->2
+	"čiâss" N Sg Acc @<OBJ #5->2
+	"čiâss" N Sg Nom @<SUBJ #5->2
+: 
+"<13.30>"
+	"13.30" Num Arab Sem/ID @<ADVL #6->2
+	"13.30" Num Arab Sem/Time-clock Sg Acc @<ADVL #6->2
+	"13.30" Num Arab Sem/Time-clock Sg Gen @<ADVL #6->2
+	"13.30" Num Arab Sem/Time-clock Sg Ill Attr @>N #6->2
+	"13.30" Num Arab Sem/Time-clock Sg Loc Attr @>N #6->2
+	"13.30" Num Arab Sem/Time-clock Sg Nom @<SUBJ #6->2
+: 
+"<da>"
+	"da" CC @CVP #7->2
+: 
+"<veerjlaž>"
+	"veerjlaž" ? @X #8->0
+: 
+"<čokkleemkaggõõttâmprääʹzneǩ>"
+	"čokkleemkaggõõttâmprääʹzneǩ" ? @X #9->0
+: 
+"<älgg>"
+	"älgg" N Sg Nom @<SUBJ #10->2
+	"äʹlǧǧed" <mv> V Ind Prs Sg3 @FMV #10->2
+: 
+"<čiâss>"
+	"čiâss" N Pl Nom @<SUBJ #11->10
+	"čiâss" N Sg Acc @<OBJ #11->10
+	"čiâss" N Sg Nom @<SUBJ #11->10
+: 
+"<14.00>"
+	"14.00" Num Arab Sem/ID @<ADVL #12->10
+	"14.00" Num Arab Sem/Time-clock Sg Acc @<ADVL #12->10
+	"14.00" Num Arab Sem/Time-clock Sg Gen @<ADVL #12->10
+	"14.00" Num Arab Sem/Time-clock Sg Ill Attr @<ADVL #12->10
+	"14.00" Num Arab Sem/Time-clock Sg Loc Attr @<ADVL #12->10
+	"14.00" Num Arab Sem/Time-clock Sg Nom @<SUBJ #12->10
+"<.>"
+	"." CLB #13->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<TEÂĐTÕS>"
+	"teâđtõs" N Sg Nom @HNOUN #1->0
+"<.>"
+	"." CLB #2->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

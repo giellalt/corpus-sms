@@ -1,0 +1,334 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id">
+  <header>
+    <title>Teâđ koronaviruuzz pirr sääʹmǩiõʹlle - Samediggi</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="fin"/>
+    <year>2020</year>
+    <wordcount>71</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samediggi.fi/2020/03/24/tead-koronaviruuzz-pirr-saamkiolle/?lang=nuo</origFileName>
+    <parallel_text xml:lang="fin" location="tietoa_koronaviruksesta_saamen_kielilla.html"/>
+    <parallel_text xml:lang="sme" location="diehtu_koronavirusa_birra_samegillii.html"/>
+    <parallel_text xml:lang="smn" location="tiaduh_koronavirusist_samikielan.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <dependency><![CDATA["<Teâđ>"
+	"teâtt" N Pl Nom @HNOUN #1->0
+	"teâtt" N Sg Acc @HNOUN #1->0
+: 
+"<koronaviruuzz>"
+	"koronaviruuzz" ? @X #2->0
+: 
+"<pirr>"
+	"pirr" Adp Po @ADVL #3->2
+	"pirr" Adp Pr @ADVL #3->2
+: 
+"<sääʹmǩiõʹlle>"
+	"sääʹmǩiõll" N Sg Ill @<ADVL #4->1
+: 
+"<¶>"
+	"¶" CLB #5->1
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<nåårr>"
+	"noorrâd" <mv> V TV Ind Prs Sg3 @FMV #2->0
+: 
+"<tän>"
+	"tät" Pron Dem Sg Acc @<OBJ #3->2
+	"tät" Pron Dem Sg Gen @>N #3->2
+: 
+"<sijddu>"
+	"seidd" N Sg Ill @ADVL> #4->4
+: 
+"<õlmstõttum>"
+	"õlmstâʹtted" V Pass PrfPrc @X #5->0
+: 
+"<vuäppõõzzid>"
+	"vuäppõs" N Pl Acc @<OBJ #6->2
+	"vuäppõs" N Pl Ill @>ADVL #6->2
+: 
+"<da>"
+	"da" CC @CNP #7->6
+: 
+"<teâđtõõzzid>"
+	"teâđtõs" N Pl Acc @<OBJ #8->6
+	"teâđtõs" N Pl Ill @<ADVL #8->6
+: 
+"<koronaviruuzz>"
+	"koronaviruuzz" ? @X #9->0
+: 
+"<pirr>"
+	"pirr" Adp Pr @<ADVL #10->2
+: 
+"<sääʹmǩiõʹlle>"
+	"sääʹmǩiõll" N Sg Ill @<ADVL #11->2
+"<:>"
+	":" CLB #12->2
+: 
+"<¶>"
+	"¶" CLB #13->2
+:\n
+"<Leäk-a>"
+	"leeʹd" <mv> V IV Ind Prs Sg2 Qst/a @FMV #1->0
+: 
+"<ton>"
+	"ton" Pron Pers Sg2 Nom @<SUBJ #2->1
+: 
+"<hoʹhssjam>"
+	"hoʹhssjed" V TV Act PrfPrc @X #3->0
+: 
+"<jeeʹres>"
+	"jieʹres" A Attr @>N #4->6
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #5->6
+: 
+"<vuäppõõzzid>"
+	"vuäppõs" N Pl Acc @<OBJ #6->1
+: 
+"<leʹbe>"
+	"leʹbe" CC @CVP #7->1
+: 
+"<leäk-a>"
+	"leeʹd" <mv> V IV Ind Prs Sg2 Qst/a @FMV #8->1
+: 
+"<teâđtam>"
+	"teâđted" V Act PrfPrc @X #9->0
+: 
+"<sääʹmǩiõʹlle>"
+	"sääʹmǩiõll" N Sg Ill @<ADVL #10->8
+: 
+"<koronavirusvueʹjj>"
+	"koronavirusvueʹjj" ? @X #11->0
+: 
+"<pirr>"
+	"pirr" Adp Po @<ADVL #12->8
+"<?>"
+	"?" CLB #13->1
+: 
+"<Vuõlttâd>"
+	"vuõltteed" <mv> V Imprt Sg2 @FMV #1->0
+: 
+"<teâđ>"
+	"teâtt" N Pl Nom @<SUBJ #2->1
+	"teâtt" N Sg Acc @<OBJ #2->1
+	"teâtt" N Sg Gen @<ADVL #2->1
+: 
+"<tõn>"
+	"tõt" Pron Dem Sg Gen @>P #3->4
+: 
+"<pirr>"
+	"pirr" Adp Po @<ADVL #4->1
+: 
+"<addrõʹsse>"
+	"addrõs" N Sg Ill @<ADVL #5->1
+"<:>"
+	":" CLB #6->1
+: 
+"<tiedotus(at)samediggi.fi>"
+	"tiedotus(at)samediggi.fi" URL #7->7
+: 
+"<.>"
+	"." CLB #8->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Lââʹssteâđ>"
+	"lââʹssteâtt" N Pl Nom @HNOUN #1->0
+	"lââʹssteâtt" N Sg Acc @HNOUN #1->0
+"<:>"
+	":" CLB #2->1
+:  
+"<¶>"
+	"¶" CLB #3->1
+:\n
+"<Ǩiõllstaanpiisar>"
+	"ǩiõllstaanpiisar" N Sem/Hum Sg Gen @>N #1->2
+: 
+"<Anne>"
+	"Anne" N Prop Sem/Fem Sg Gen @>N #2->3
+: 
+"<Kirste>"
+	"Kirste" N Prop Sem/Fem Sg Gen @>N #3->4
+: 
+"<Aikio>"
+	"Aikio" N Prop Sem/Sur Sg Acc @OBJ> #4->7
+	"Aikio" N Prop Sem/Sur Sg Ill @<ADVL #4->7
+	"Aikio" N Prop Sem/Sur Sg Nom @HNOUN #4->7
+"<,>"
+	"," CLB #5->4
+: 
+"<010>"
+	"010" Num Arab Sem/ID @>Num #6->7
+: 
+"<839>"
+	"839" Num Arab Sg Acc @<OBJ #7->0
+	"839" Num Arab Sg Nom @HNOUN #7->0
+	"839" Num Arab Sg Ill Attr @>ADVL #7->0
+: 
+"<3124>"
+	"3124" Num Arab Sg Acc @<OBJ #8->4
+	"3124" Num Arab Sg Nom @HNOUN #8->4
+	"3124" Num Arab Sg Ill Attr @>ADVL #8->4
+	"3124" Num Arab Sg Loc Attr @Num< #8->4
+: 
+"</>"
+	"/" PUNCT MIDDLE #9->10
+: 
+"<040>"
+	"040" Num Arab Sem/ID @>Num #10->11
+: 
+"<707>"
+	"707" Num Arab Sg Acc @<OBJ #11->4
+	"707" Num Arab Sg Nom @HNOUN #11->4
+	"707" Num Arab Sg Ill Attr @>ADVL #11->4
+: 
+"<5626>"
+	"5626" Num Arab Sg Acc @<OBJ #12->4
+	"5626" Num Arab Sg Nom @HNOUN #12->4
+	"5626" Num Arab Sg Ill Attr @<ADVL #12->4
+	"5626" Num Arab Sg Loc Attr @Num< #12->4
+"<,>"
+	"," CLB #13->12
+: 
+"<anne-kirste.aikio(at)samediggi.fi>"
+	"anne-kirste.aikio(at)samediggi.fi" URL #14->14
+: 
+"<¶>"
+	"¶" CLB #15->7
+:\n
+"<Sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #1->5
+: 
+"<da>"
+	"da" CC @X #2->0
+: 
+"<tiõrvâsvuõttpiisar>"
+	"tiõrvâsvuõttpiisar" N Sem/Hum Sg Nom @SUBJ #3->4
+	"tiõrvâsvuõttpiisar" N Sem/Hum Pl Nom @SUBJ #3->4
+	"tiõrvâsvuõttpiisar" N Sem/Hum Sg Acc @OBJ> #3->4
+	"tiõrvâsvuõttpiisar" N Sem/Hum Sg Gen @>N #3->4
+: 
+"<Anne>"
+	"Anne" N Prop Sem/Fem Sg Gen @>N #4->5
+: 
+"<Länsman-Magga>"
+	"Länsman-Magga" N Prop Sem/Sur Sg Acc @OBJ> #5->8
+	"Länsman-Magga" N Prop Sem/Sur Sg Ill @<ADVL #5->8
+	"Länsman-Magga" N Prop Sem/Sur Sg Nom @HNOUN #5->8
+"<,>"
+	"," CLB #6->5
+: 
+"<010>"
+	"010" Num Arab Sem/ID @>Num #7->8
+: 
+"<839>"
+	"839" Num Arab Sg Acc @<OBJ #8->0
+	"839" Num Arab Sg Nom @HNOUN #8->0
+	"839" Num Arab Sg Ill Attr @>ADVL #8->0
+: 
+"<3128>"
+	"3128" Num Arab Sg Acc @<OBJ #9->5
+	"3128" Num Arab Sg Nom @HNOUN #9->5
+	"3128" Num Arab Sg Ill Attr @>ADVL #9->5
+	"3128" Num Arab Sg Loc Attr @Num< #9->5
+: 
+"</>"
+	"/" PUNCT MIDDLE #10->11
+: 
+"<040>"
+	"040" Num Arab Sem/ID @>Num #11->12
+: 
+"<182>"
+	"182" Num Arab Sg Acc @<OBJ #12->5
+	"182" Num Arab Sg Nom @HNOUN #12->5
+	"182" Num Arab Sg Ill Attr @>ADVL #12->5
+: 
+"<9998>"
+	"9998" Num Arab Sg Acc @<OBJ #13->5
+	"9998" Num Arab Sg Nom @HNOUN #13->5
+	"9998" Num Arab Sg Ill Attr @<ADVL #13->5
+	"9998" Num Arab Sg Loc Attr @Num< #13->5
+"<,>"
+	"," CLB #14->13
+: 
+"<anne.lansman-magga(at)samediggi.fi>"
+	"anne.lansman-magga(at)samediggi.fi" URL #15->15
+: 
+"<¶>"
+	"¶" CLB #16->8
+:\n
+"<Saaǥǥtempiisar>"
+	"piisar" N Sg Gen @>N #1->2
+		"saaǥǥted" Ex/V TV Der/NomAct N Cmp/SgGen Cmp #1->2
+: 
+"<Johanna>"
+	"Johann" N Prop Sem/Mal Sg Gen @>N #2->3
+	"Johanna" N Prop Sem/Fem Sg Gen @>N #2->3
+: 
+"<Alatorvinen>"
+	"Alatorvinen" N Prop Sem/Sur Sg Nom @HNOUN #3->0
+"<,>"
+	"," CLB #4->3
+: 
+"<010>"
+	"010" Num Arab Sem/ID @>Num #5->6
+: 
+"<839>"
+	"839" Num Arab Sg Acc @<OBJ #6->3
+	"839" Num Arab Sg Nom @HNOUN #6->3
+	"839" Num Arab Sg Ill Attr @>ADVL #6->3
+: 
+"<3140>"
+	"3140" Num Arab Sg Acc @<OBJ #7->3
+	"3140" Num Arab Sg Nom @HNOUN #7->3
+	"3140" Num Arab Sg Ill Attr @>ADVL #7->3
+	"3140" Num Arab Sg Loc Attr @Num< #7->3
+: 
+"</>"
+	"/" PUNCT MIDDLE #8->9
+: 
+"<040>"
+	"040" Num Arab Sem/ID @>Num #9->10
+: 
+"<663>"
+	"663" Num Arab Sg Acc @<OBJ #10->3
+	"663" Num Arab Sg Nom @HNOUN #10->3
+	"663" Num Arab Sg Ill Attr @>ADVL #10->3
+: 
+"<4493>"
+	"4493" Num Arab Sg Acc @<OBJ #11->3
+	"4493" Num Arab Sg Nom @HNOUN #11->3
+	"4493" Num Arab Sg Ill Attr @<ADVL #11->3
+	"4493" Num Arab Sg Loc Attr @Num< #11->3
+"<,>"
+	"," CLB #12->11
+: 
+"<johanna.alatorvinen(at)samediggi.fi>"
+	"johanna.alatorvinen(at)samediggi.fi" URL #13->13
+: 
+"<¶>"
+	"¶" CLB #14->3
+:\n
+
+]]></dependency>
+  </body>
+</document>

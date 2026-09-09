@@ -1,0 +1,260 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id">
+  <header>
+    <title>Sääʹmteʹǧǧ tuäivat rääuhlõs rosttvid da leklvaž ođđ eeʹjj 2022 - Samediggi</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="fin"/>
+    <year>2021</year>
+    <wordcount>47</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samediggi.fi/2021/12/21/saamtegg-tuaivat-raauhlos-rosttvid-da-leklvaz-odd-eejj-2022/?lang=nuo</origFileName>
+    <parallel_text xml:lang="sme" location="samediggi_savva_rafalas_juovllaid_ja_lihkolas_odda_jagi_2022.html"/>
+    <parallel_text xml:lang="smn" location="samitigge_tuaivut_ravhalijd_juovlaid_ja_luholii_udda_ive_2022.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <dependency><![CDATA["<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<tuäivat>"
+	"tuäivted" <mv> V Ind Prs Sg3 @FMV #2->0
+	"tuäivvad" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<rääuhlõs>"
+	"rääuhlõs" A Attr @>N #3->4
+: 
+"<rosttvid>"
+	"rosttov" N Pl Acc @<OBJ #4->2
+	"rosttov" N Pl Ill @<ADVL #4->2
+: 
+"<da>"
+	"da" CC @X #5->0
+: 
+"<leklvaž>"
+	"leklvaž" A Attr @>N #6->8
+	"leklvaž" A Sg Nom @<SUBJ #6->8
+: 
+"<ođđ>"
+	"oođâs" A Attr @>N #7->8
+: 
+"<eeʹjj>"
+	"eeʹǩǩ" N Sg Gen @<ADVL #8->2
+	"eeʹjj" Adv @<ADVL #8->2
+	"eeʹǩǩ" N Pl Nom @<SUBJ #8->2
+	"eeʹǩǩ" N Sg Acc @<OBJ #8->2
+	"eʹčč" N Sem/Kin Sg Gen @<ADVL #8->2
+	"eʹčč" N Sem/Kin Pl Nom @<SUBJ #8->2
+	"eʹčč" N Sem/Kin Sg Acc @<OBJ #8->2
+: 
+"<2022>"
+	"2022" Num Arab Sem/Year Sg Nom @<ADVL #9->2
+	"2022" Num Arab Sem/ID @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Acc @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Gen @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Ill Attr @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Loc Attr @<ADVL #9->2
+	"2022" Num Arab Sg Nom @<SUBJ #9->2
+	"2022" Num Arab Sg Acc @<ADVL #9->2
+	"2022" Num Arab Sg Gen @<ADVL #9->2
+	"2022" Num Arab Sg Ill Attr @<ADVL #9->2
+	"2022" Num Arab Sg Loc Attr @<ADVL #9->2
+: 
+"<¶>"
+	"¶" CLB #10->2
+:\n
+"<Sámediggi>"
+	"Sámediggi" ? @X #1->0
+: 
+"<sávvá>"
+	"sávvá" ? @X #2->0
+: 
+"<ráfálaš>"
+	"ráfálaš" ? @X #3->0
+: 
+"<juovllaid>"
+	"juovllaid" ? @X #4->0
+: 
+"<ja>"
+	"ja" CC @X #5->0
+: 
+"<lihkolaš>"
+	"lihkolaš" ? @X #6->0
+: 
+"<ođđa>"
+	"ođđa" ? @X #7->0
+: 
+"<jagi>"
+	"jagi" ? @X #8->0
+: 
+"<2022>"
+	"2022" Num Arab Sem/Year Sg Nom @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Acc @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Ill Attr @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Loc Attr @HNOUN #9->0
+	"2022" Num Arab Sg Nom @HNOUN #9->0
+	"2022" Num Arab Sg Acc @HNOUN #9->0
+	"2022" Num Arab Sg Ill Attr @HNOUN #9->0
+	"2022" Num Arab Sg Loc Attr @HNOUN #9->0
+"<!>"
+	"!" CLB #10->9
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sämitigge>"
+	"Sämitigge" ? @X #1->0
+: 
+"<tuáivut>"
+	"tuáivut" ? @X #2->0
+: 
+"<rávhálijd>"
+	"rávhálijd" ? @X #3->0
+: 
+"<juovlâid>"
+	"juovlâid" ? @X #4->0
+: 
+"<já>"
+	"já" ? @X #5->0
+: 
+"<luholii>"
+	"luholii" ? @X #6->0
+: 
+"<uđđâ>"
+	"uđđâ" ? @X #7->0
+: 
+"<ive>"
+	"ive" ? @X #8->0
+: 
+"<2022>"
+	"2022" Num Arab Sem/Year Sg Nom @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Acc @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Ill Attr @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Loc Attr @HNOUN #9->0
+	"2022" Num Arab Sg Nom @HNOUN #9->0
+	"2022" Num Arab Sg Acc @HNOUN #9->0
+	"2022" Num Arab Sg Ill Attr @HNOUN #9->0
+	"2022" Num Arab Sg Loc Attr @HNOUN #9->0
+"<!>"
+	"!" CLB #10->9
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<tuäivat>"
+	"tuäivted" <mv> V Ind Prs Sg3 @FMV #2->0
+	"tuäivvad" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<rääuhlõs>"
+	"rääuhlõs" A Attr @>N #3->4
+: 
+"<rosttvid>"
+	"rosttov" N Pl Acc @<OBJ #4->2
+	"rosttov" N Pl Ill @<ADVL #4->2
+: 
+"<da>"
+	"da" CC @X #5->0
+: 
+"<leklvaž>"
+	"leklvaž" A Attr @>N #6->8
+	"leklvaž" A Sg Nom @<SUBJ #6->8
+: 
+"<ođđ>"
+	"oođâs" A Attr @>N #7->8
+: 
+"<eeʹjj>"
+	"eeʹǩǩ" N Sg Gen @<ADVL #8->2
+	"eeʹjj" Adv @<ADVL #8->2
+	"eeʹǩǩ" N Pl Nom @<SUBJ #8->2
+	"eeʹǩǩ" N Sg Acc @<OBJ #8->2
+	"eʹčč" N Sem/Kin Sg Gen @<ADVL #8->2
+	"eʹčč" N Sem/Kin Pl Nom @<SUBJ #8->2
+	"eʹčč" N Sem/Kin Sg Acc @<OBJ #8->2
+: 
+"<2022>"
+	"2022" Num Arab Sem/Year Sg Nom @<ADVL #9->2
+	"2022" Num Arab Sem/ID @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Acc @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Gen @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Ill Attr @<ADVL #9->2
+	"2022" Num Arab Sem/Year Sg Loc Attr @<ADVL #9->2
+	"2022" Num Arab Sg Nom @<SUBJ #9->2
+	"2022" Num Arab Sg Acc @<ADVL #9->2
+	"2022" Num Arab Sg Gen @<ADVL #9->2
+	"2022" Num Arab Sg Ill Attr @<ADVL #9->2
+	"2022" Num Arab Sg Loc Attr @<ADVL #9->2
+"<!>"
+	"!" CLB #10->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Saamelaiskäräjät>"
+	"Saamelaiskäräjät" ? @X #1->0
+: 
+"<toivottaa>"
+	"toivottaa" ? @X #2->0
+: 
+"<rauhallista>"
+	"rauhallista" ? @X #3->0
+: 
+"<joulua>"
+	"joulua" ? @X #4->0
+: 
+"<ja>"
+	"ja" CC @X #5->0
+: 
+"<onnellista>"
+	"onnellista" ? @X #6->0
+: 
+"<uutta>"
+	"uutta" ? @X #7->0
+: 
+"<vuotta>"
+	"vuotta" ? @X #8->0
+: 
+"<2022>"
+	"2022" Num Arab Sem/Year Sg Nom @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Acc @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Ill Attr @HNOUN #9->0
+	"2022" Num Arab Sem/Year Sg Loc Attr @HNOUN #9->0
+	"2022" Num Arab Sg Nom @HNOUN #9->0
+	"2022" Num Arab Sg Acc @HNOUN #9->0
+	"2022" Num Arab Sg Ill Attr @HNOUN #9->0
+	"2022" Num Arab Sg Loc Attr @HNOUN #9->0
+"<!>"
+	"!" CLB #10->9
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Seasonʼs>"
+	"Seasonʼs" ? @X #1->0
+: 
+"<Greetings>"
+	"Greetings" ? @X #2->0
+"<!>"
+	"!" CLB #3->3
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency>
+  </body>
+</document>

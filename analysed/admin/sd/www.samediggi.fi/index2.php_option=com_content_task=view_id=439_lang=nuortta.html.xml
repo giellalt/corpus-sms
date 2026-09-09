@@ -1,0 +1,515 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Saa´mnuõri &amp;#269;eä´ppvuõ&amp;#273;pei´vv 2011 Uccjoo&amp;#487;&amp;#487;âst</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>73</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=439&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=439_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=439_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=439_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Saaʹmnuõri>"
+	"Saaʹmnuõri" ? @X #1->0
+: 
+"<čeäʹppvuõđpeiʹvv>"
+	"čeäʹppvuõđpeiʹvv" N Sg Nom @HNOUN #2->0
+: 
+"<2011>"
+	"2011" Num Arab Sem/Year Sg Nom @HNOUN #3->2
+	"2011" Num Arab Sem/Year Sg Acc @<OBJ #3->2
+	"2011" Num Arab Sem/Year Sg Ill Attr @<ADVL #3->2
+	"2011" Num Arab Sem/Year Sg Loc Attr @<ADVL #3->2
+	"2011" Num Arab Sg Nom @HNOUN #3->2
+	"2011" Num Arab Sg Acc @<OBJ #3->2
+	"2011" Num Arab Sg Ill Attr @<ADVL #3->2
+	"2011" Num Arab Sg Loc Attr @<ADVL #3->2
+: 
+"<Uccjooǧǧâst>"
+	"Uccjooǧǧâst" ? @X #4->0
+: 
+"<¶>"
+	"¶" CLB #5->2
+:\n
+"<Saaʹmnuõri>"
+	"Saaʹmnuõri" ? @X #1->0
+: 
+"<čeäʹppvuõđpeiʹvv>"
+	"čeäʹppvuõđpeiʹvv" N Sg Nom @SUBJ> #2->3
+: 
+"<riâžžât>"
+	"riâššâd" <mv> V TV Ind Prs Sg4 @FMV #3->0
+: 
+"<31.3.2011>"
+	"31.3.2011" Num Arab Sem/Date Sg Acc @<OBJ #4->5
+	"31.3.2011" Num Arab Sem/Date Sg Gen @>N #4->5
+	"31.3.2011" Num Arab Sem/Date Sg Ill Attr @>N #4->5
+	"31.3.2011" Num Arab Sem/Date Sg Loc Attr @>N #4->5
+	"31.3.2011" Num Arab Sem/Date Sg Nom @>N #4->5
+	"31.3.2011" Num Arab Sem/ID @<ADVL #4->5
+: 
+"<Uccjokknjääʹlm>"
+	"njäʹlmm" N Pl Nom @<OBJ #5->3
+		"Uccjokk" N Prop Sem/Plc Sem/Plc Cmp/SgNom Cmp #5->3
+	"njäʹlmm" N Sg Acc @<OBJ #5->3
+		"Uccjokk" N Prop Sem/Plc Sem/Plc Cmp/SgNom Cmp #5->3
+	"njäʹlmm" N Sg Gen @>N #5->3
+		"Uccjokk" N Prop Sem/Plc Sem/Plc Cmp/SgNom Cmp #5->3
+: 
+"<škooulâst>"
+	"škooul" N Sg Loc @<ADVL #6->3
+"<.>"
+	"." CLB #7->3
+: 
+"<Väʹlddteeʹman>"
+	"Väʹlddteeʹman" ? @X #1->0
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #2->0
+: 
+"<pleässjumuš>"
+	"pleässjummuš" N Sg Nom @<SUBJ #3->2
+"<,>"
+	"," CLB #4->5
+: 
+"<da>"
+	"da" CC @CVP #5->2
+: 
+"<lââʹssen>"
+	"lââʹss" N Ess @ADVL> #6->7
+	"lââʹss" N Pl Nom PxPl1 @<SUBJ #6->7
+	"lââʹss" N Sg Acc PxPl1 @OBJ> #6->7
+	"lââʹss" N Sg Gen PxPl1 @ADVL> #6->7
+	"lââʹssen" Adv @ADVL> #6->7
+	"lââʹssen" Adp #6->7
+: 
+"<riâžžât>"
+	"riâššâd" <mv> V TV Ind Prs Sg4 @FMV #7->2
+: 
+"<jeeʹresnallšem>"
+	"jeeʹresnallšem" A Attr @>N #8->9
+: 
+"<tuâjjpõõrtid>"
+	"tuâjjpõrtt" N Pl Acc @<OBJ #9->7
+"<.>"
+	"." CLB #10->2
+: 
+"<Čeäʹppvuõđpeeiʹvest>"
+	"čeäʹppvuõđpeiʹvv" N Sg Loc @ADVL> #1->2
+: 
+"<vaʹlljeet>"
+	"vaʹlljeed" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<sääʹmnuõri>"
+	"sääʹmnuõrr" N Pl Gen @>N #3->4
+: 
+"<võboršeeʹǩǩid>"
+	"võboršeǩ" N Pl Acc @<OBJ #4->2
+	"võboršeǩ" N Pl Ill @<ADVL #4->2
+:  
+"<Nuõri>"
+	"nuõrr" A Pl Gen @X #5->0
+: 
+"<kulttur>"
+	"kulttur" ? @X #6->0
+: 
+"<MOVES>"
+	"MOVES" ? @X #7->0
+: 
+"<–>"
+	"–" PUNCT MIDDLE #8->9
+"<poʹdde>"
+	"podd" N Sg Ill @<ADVL #9->2
+"<,>"
+	"," CLB #10->11
+: 
+"<kååʹtt>"
+	"kååʹtt" Pron Rel Sg Nom @SUBJ> #11->12
+: 
+"<ââʹnet>"
+	"ââʹnned" <mv> V TV Ind Prs Sg4 @FS-N< #12->9
+: 
+"<Oulust>"
+	"Oulu" N Prop Sem/Plc Sg Loc @<ADVL #13->12
+: 
+"<20.-22.5.2011>"
+	"20.-22.5.2011" Num Arab Sem/Date Sg Acc @<OBJ #14->12
+	"20.-22.5.2011" Num Arab Sem/Date Sg Gen @<ADVL #14->12
+	"20.-22.5.2011" Num Arab Sem/Date Sg Ill Attr @<ADVL #14->12
+	"20.-22.5.2011" Num Arab Sem/Date Sg Loc Attr @<ADVL #14->12
+	"20.-22.5.2011" Num Arab Sem/Date Sg Nom @<SUBJ #14->12
+	"20.-22.5.2011" Num Arab Sem/ID @<ADVL #14->12
+"<.>"
+	"." CLB #15->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<teâđat>"
+	"teâđted" <mv> V Ind Prs Sg3 @FMV #2->0
+: 
+"<škooulid>"
+	"škooul" N Pl Acc @<OBJ #3->2
+	"škooul" N Pl Ill @<ADVL #3->2
+: 
+"<tääʹrǩben>"
+	"täʹrǩǩ" Ex/A Der/Comp A Ess @X #4->0
+: 
+"<riâššmõõžži>"
+	"riâššmõš" N Pl Gen @>P #5->6
+: 
+"<diõtt>"
+	"diõtt" Adp Po @<ADVL #6->2
+	"diõtt" Adp Po <gen> @<ADVL #6->2
+: 
+"<ääiʹjbeäʹlnn>"
+	"ääiʹjbeäʹlnn" Adv @<ADVL #7->2
+"<.>"
+	"." CLB #8->2
+: 
+"<Väʹlddkååʹddlaž>"
+	"väʹlddkåʹdd" Ex/N Der/lazh A Attr @>N #1->2
+: 
+"<čeäʹppvuõđpeeiʹv>"
+	"čeäʹppvuõđpeiʹvv" N Sg Gen @>N #2->3
+	"čeäʹppvuõđpeiʹvv" N Pl Nom @SUBJ #2->3
+	"čeäʹppvuõđpeiʹvv" N Sg Acc @OBJ> #2->3
+: 
+"<šeâttmõõžž>"
+	"šeâttmõš" N Pl Nom @SUBJ> #3->0
+	"šeâttmõš" N Sg Acc @APP-N< #3->0
+"<,>"
+	"," CLB #4->3
+: 
+"<koid>"
+	"kååʹtt" Pron Rel Pl Acc @OBJ> #5->6
+	"kååʹtt" Pron Rel Pl Ill @ADVL> #5->6
+: 
+"<jääʹǩǩtep>"
+	"jääʹǩǩted" <mv> V Ind Prs Pl1 @FS-N< #6->2
+: 
+"<še>"
+	"še" Pcle @PCLE #7->6
+: 
+"<jiiʹjjen>"
+	"jiõčč" Pron Refl Pl1 Acc Err/Orth @<OBJ #8->6
+	"jiõčč" Pron Refl Pl1 Gen Err/Orth @>N #8->6
+: 
+"<vuʹvddčeäʹppvuõđpeeiʹvin>"
+	"peiʹvv" N Pl Loc @<ADVL #9->6
+		"čeäʹppvuõtt" N Cmp/SgGen Cmp #9->6
+			"vuʹvdd" N Cmp/SgNom Cmp #9->6
+	"peiʹvv" N Sg Com @<ADVL #9->6
+		"čeäʹppvuõtt" N Cmp/SgGen Cmp #9->6
+			"vuʹvdd" N Cmp/SgNom Cmp #9->6
+"<,>"
+	"," CLB #10->9
+: 
+"<kaavnak>"
+	"kaavnak" ? @X #11->0
+: 
+"<täʹst>"
+	"tät" Pron Dem Sg Loc @<ADVL #12->6
+	"täʹst" Adv @<ADVL #12->6
+"<:>"
+	":" CLB #13->3
+: 
+"<http://nuorikulttuuri.fi/nuori-kulttuuri-moves-2011/>"
+	"http://nuorikulttuuri.fi/nuori-kulttuuri-moves-2011/" URL #14->14
+: 
+"<¶>"
+	"¶" CLB #15->3
+:\n
+"<Čeäʹppvuõđpeeiʹv>"
+	"čeäʹppvuõđpeiʹvv" N Sg Gen @>N #1->2
+: 
+"<valmštõõlljen>"
+	"valmšted" Ex/V Der/oollyd Ex/V Der/NomAg N Ess @ADVL> #2->5
+	"valmštõõllâd" Ex/V Der/NomAg N Ess @ADVL> #2->5
+: 
+"<sääʹmteeʹǧǧest>"
+	"sääʹmteʹǧǧ" N Sg Loc @ADVL> #3->5
+: 
+"<tuåimmai>"
+	"tåimmai" A Err/Orth Attr @>N #4->5
+: 
+"<mättʼtem-materiaalplaanraajji>"
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Cmp/SgNom Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Pl Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Acc @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Gen @>N #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+	"raajji" N NomAg Sg Nom @HNOUN #5->6
+		"plaan" N Sem/Prod-cogn Cmp/SgGen Cmp #5->6
+			"materiaal" N Err/Orth Cmp/SgGen Cmp #5->6
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #5->6
+: 
+"<Anni>"
+	"Anni" N Prop Sem/Fem Attr @>N #6->7
+: 
+"<Näkkäläjärvi>"
+	"Näkkäläjärvi" N Prop Sem/Plc Sg Gen @X #7->0
+	"Näkkäläjärvi" N Prop Sem/Sur Sg Gen @X #7->0
+: 
+"<(>"
+	"(" PUNCT LEFT #8->9
+"<anni.nakkalajarvi(at)samediggi.fi>"
+	"anni.nakkalajarvi(at)samediggi.fi" URL #9->9
+"<)>"
+	")" PUNCT RIGHT #10->11
+: 
+"<õõutsââʹjest>"
+	"õõutsââʹjest" Adv @<ADVL #11->5
+: 
+"<nuõripiizar>"
+	"nuõripiizar" ? @X #12->0
+: 
+"<Niina>"
+	"Niina" N Prop Sem/Fem Sg Gen @>N #13->14
+: 
+"<Siltalain>"
+	"Siltala" N Prop Sem/Sur Sg Com @<ADVL #14->5
+: 
+"<(>"
+	"(" PUNCT LEFT #15->16
+"<niina.siltala(at)samediggi.fi>"
+	"niina.siltala(at)samediggi.fi" URL #16->16
+"<)>"
+	")" PUNCT RIGHT #17->16
+"<.>"
+	"." CLB #18->18
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Ruäʹvnjaarǥâst>"
+	"Ruäʹvnjargg" N Prop Sem/Plc Sem/Plc Sg Loc @ADVL> #1->6
+: 
+"<riõššum>"
+	"riõššâd" V Pass PrfPrc @X #2->0
+: 
+"<čeäʹppvuõđpeeiʹv>"
+	"čeäʹppvuõđpeiʹvv" N Sg Gen @>N #3->6
+	"čeäʹppvuõđpeiʹvv" N Pl Nom @SUBJ> #3->6
+	"čeäʹppvuõđpeiʹvv" N Sg Acc @OBJ> #3->6
+: 
+"<čiõlǥtõs>"
+	"čiõlǥtõs" N Sg Nom @SUBJ> #4->6
+: 
+"<2010>"
+	"2010" Num Arab Sem/Year Sg Nom @SUBJ> #5->6
+	"2010" Num Arab Sem/Year Sg Ill Attr @>N #5->6
+	"2010" Num Arab Sem/Year Sg Loc Attr @>N #5->6
+	"2010" Num Arab Sg Nom @SUBJ> #5->6
+	"2010" Num Arab Sg Ill Attr @>N #5->6
+	"2010" Num Arab Sg Loc Attr @>N #5->6
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #6->0
+: 
+"<vueiʹnnemnalla>"
+	"vueiʹnned" Ex/V Der/NomAct Der/nalla Adv @<ADVL #7->6
+	"vueiʹnnemnalla" Adv @<ADVL #7->6
+: 
+"<sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #8->6
+	"sääʹmteʹǧǧ" N Pl Nom @<SUBJ #8->6
+	"sääʹmteʹǧǧ" N Sg Acc @<OBJ #8->6
+: 
+"<dommseeidain>"
+	"dommseidd" N Pl Loc @<ADVL #9->6
+	"dommseidd" N Sg Com @<ADVL #9->6
+"<:>"
+	":" CLB #10->6
+: 
+"<Nuõri>"
+	"nuõrr" A Pl Gen @X #11->0
+: 
+"<čeäppvuõđpeiʹvv>"
+	"čeäppvuõđpeiʹvv" ? @X #12->0
+: 
+"<.>"
+	"." CLB #13->6
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

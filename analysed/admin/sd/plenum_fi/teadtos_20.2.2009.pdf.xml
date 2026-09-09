@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2009</year><wordcount>57</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>Teâđtös 20.2.2009.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<TEÂĐTÕS>"
+	"teâđtõs" N Sg Nom @HNOUN #1->0
+: 
+"<20.2.2009>"
+	"20.2.2009" Num Arab Sem/Date Sg Acc @<OBJ #2->1
+	"20.2.2009" Num Arab Sem/Date Sg Ill Attr @<ADVL #2->1
+	"20.2.2009" Num Arab Sem/Date Sg Loc Attr @<ADVL #2->1
+	"20.2.2009" Num Arab Sem/Date Sg Nom @HNOUN #2->1
+: 
+"<¶>"
+	"¶" CLB #3->1
+:\n
+"<Sääʹmteeʹǧǧi>"
+	"sääʹmteʹǧǧ" N Pl Gen @X #1->0
+: 
+"<vuässlaid>"
+	"vuässlaid" ? @X #2->0
+: 
+"<SÄÄʹMTEEʹǦǦI>"
+	"sääʹmteʹǧǧ" N Pl Gen @>N #3->4
+: 
+"<SÅÅBBAR>"
+	"sååbbar" N Sg Nom @SUBJ #4->0
+: 
+"<1/2009>"
+	"1/2009" Num Arab Sem/ID @>N #5->6
+: 
+"<SÅÅBBARÄÄIʼJ>"
+	"äiʹǧǧ" N Pl Nom @<SPRED #6->4
+		"sååbbar" N Cmp/SgNom Cmp #6->4
+	"äiʹǧǧ" N Sg Acc @HNOUN #6->4
+		"sååbbar" N Cmp/SgNom Cmp #6->4
+	"äiʹǧǧ" N Sg Gen @>N #6->4
+		"sååbbar" N Cmp/SgNom Cmp #6->4
+: 
+"<DA>"
+	"da" CC @CNP #7->6
+: 
+"<-PÄÄIʹǨ>"
+	"päiʹǩǩ" N Pl Nom @<SPRED #8->6
+	"päiʹǩǩ" N Sg Acc @<OBJ #8->6
+	"päiʹǩǩ" N Sg Gen @>N #8->6
+		 Cmp/SplitL
+		 Cmp/SplitL
+		 Cmp/SplitL
+: 
+"<MUUTTÂS>"
+	"muuttâs" N Sg Nom @<SPRED #9->0
+	"muuttõs" N Err/Orth Sg Nom @<SPRED #9->0
+:  
+"<¶>"
+	"¶" CLB #10->4
+:\n
+"<Sääʹmteeʹǧǧi>"
+	"sääʹmteʹǧǧ" N Pl Gen @>N #1->2
+: 
+"<sååbbar>"
+	"sååbbar" N Sg Nom @SUBJ> #2->4
+: 
+"<1/2009>"
+	"1/2009" Num Arab Sem/ID @X #3->0
+: 
+"<seeʹrtet>"
+	"seeʹrted" <mv> V Ind Prs Sg4 @FMV #4->0
+: 
+"<saaǥǥjååʹđteei>"
+	"saaǥǥjååʹđteei" N NomAg Sg Nom @<SUBJ #5->4
+	"saaǥǥjååʹđteei" N NomAg Pl Nom @<SUBJ #5->4
+	"saaǥǥjååʹđteei" N NomAg Sg Acc @<OBJ #5->4
+	"saaǥǥjååʹđteei" N NomAg Sg Gen @>N #5->4
+: 
+"<tuʹmmstõõǥǥin>"
+	"tuʹmmstõk" N Pl Loc @<ADVL #6->4
+	"tuʹmmstõk" N Sg Com @ADVL> #6->4
+: 
+"<ââʹnnemnalla>"
+	"ââʹnned" Ex/V TV Der/NomAct Der/nalla Adv @<ADVL #7->4
+	"ââʹnnemnalla" Adv @<ADVL #7->4
+: 
+"<mââibaarǥ>"
+	"mââibargg" N Pl Nom @<SUBJ #8->9
+	"mââibargg" N Sg Acc @<OBJ #8->9
+	"mââibargg" N Sg Gen @>N #8->9
+: 
+"<pâʹzzlâšttammannu>"
+	"mään" N Pl Nom @<SUBJ #9->4
+		"pâʹzzlâšttam" N Cmp/SgGen Err/Orth-missing-hyph Cmp #9->4
+	"mään" N Sg Acc @<OBJ #9->4
+		"pâʹzzlâšttam" N Cmp/SgGen Err/Orth-missing-hyph Cmp #9->4
+	"mään" N Sg Gen @>N #9->4
+		"pâʹzzlâšttam" N Cmp/SgGen Err/Orth-missing-hyph Cmp #9->4
+: 
+"<10.>"
+	"10" A Arab Ord Attr @>N #10->11
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @<SUBJ #11->4
+	"peiʹvv" N Sg Acc @<OBJ #11->4
+	"peiʹvv" N Sg Gen @<ADVL #11->4
+: 
+"<ääʹljeeʹl>"
+	"äʹlǧǧed" V Ger Instr @X #12->0
+: 
+"<čiâss>"
+	"čiâss" N Pl Nom @<SUBJ #13->4
+	"čiâss" N Sg Acc @<OBJ #13->4
+	"čiâss" N Sg Gen @>N #13->4
+	"čiâss" N Sg Nom @<SUBJ #13->4
+: 
+"<10>"
+	"10" A Arab Ord Attr CLBfinal @>N #14->15
+: 
+"<Uccjooǥǥ>"
+	"Uccjokk" N Prop Sem/Plc Sem/Plc Sg Acc @<OBJ #15->4
+	"Uccjokk" N Prop Sem/Plc Sem/Plc Sg Gen @<ADVL #15->4
+: 
+"<hoʹtell>"
+	"hoʹtell" ? @X #16->0
+: 
+"<Luõssjooǥǥâst>"
+	"luõssjokk" N Sem/Plc-water Sg Loc @<ADVL #17->4
+"<.>"
+	"." CLB #18->4
+: 
+"<merk>"
+	"merk" ? @X #1->0
+"<.>"
+	"." CLB #2->2
+:  
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Saaǥǥjååʹđteei>"
+	"saaǥǥjååʹđteei" N NomAg Sg Nom @HNOUN #1->0
+	"saaǥǥjååʹđteei" N NomAg Pl Nom @HNOUN #1->0
+	"saaǥǥjååʹđteei" N NomAg Sg Acc @HNOUN #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+"<Čiõʹlǧǧeei>"
+	"čiõʹlǧǧeei" N NomAg Sg Nom @HNOUN #1->0
+	"čiõʹlǧǧeei" N NomAg Pl Nom @HNOUN #1->0
+	"čiõʹlǧǧeei" N NomAg Sg Acc @HNOUN #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+"<Teâttân>"
+	"Teâttân" ? @X #1->0
+"<:>"
+	":" CLB #2->4
+: 
+"<Sääʹmteeʹǧǧi>"
+	"sääʹmteʹǧǧ" N Pl Gen @>N #3->4
+: 
+"<kåʹddpiisar>"
+	"kåʹddpiisar" N Sem/Hum Sg Nom @HNOUN #4->0
+	"kåʹddpiisar" N Sem/Hum Pl Nom @HNOUN #4->0
+	"kåʹddpiisar" N Sem/Hum Sg Acc @HNOUN #4->0
+: 
+"<¶>"
+	"¶" CLB #5->4
+:\n
+
+]]></dependency></body></document>

@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sää´mnuõri &amp;#269;eäppvuõ&amp;#273;pei´vv Ruä´vnjaar&amp;#485;âst 7.-8.4.2010</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>45</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=351&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=351_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=351_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=351_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Sääʹmnuõri>"
+	"sääʹmnuõrr" N Pl Gen @X #1->0
+: 
+"<čeäppvuõđpeiʹvv>"
+	"čeäppvuõđpeiʹvv" ? @X #2->0
+: 
+"<Ruäʹvnjaarǥâst>"
+	"Ruäʹvnjargg" N Prop Sem/Plc Sem/Plc Sg Loc @ADVL> #3->4
+: 
+"<7.-8.4.2010>"
+	"7.-8.4.2010" Num Arab Sem/Date Sg Acc @HNOUN #4->1
+	"7.-8.4.2010" Num Arab Sem/Date Sg Ill Attr @HNOUN #4->1
+	"7.-8.4.2010" Num Arab Sem/Date Sg Loc Attr @HNOUN #4->1
+	"7.-8.4.2010" Num Arab Sem/Date Sg Nom @HNOUN #4->1
+: 
+"<¶>"
+	"¶" CLB #5->5
+:\n
+"<Sámenuoraid>"
+	"Sámenuoraid" ? @X #1->0
+: 
+"<dáiddadáhpáhus>"
+	"dáiddadáhpáhus" ? @X #2->0
+"</>"
+	"/" PUNCT MIDDLE #3->4
+: 
+"<Sääʹmnuõri>"
+	"sääʹmnuõrr" N Pl Gen @ADVL> #4->7
+: 
+"<kuõiʹttpeeiʹv>"
+	"kuõiʹttpeeiʹv" ? @X #5->0
+: 
+"<čeäppvuõđpeiʹvv>"
+	"čeäppvuõđpeiʹvv" ? @X #6->0
+: 
+"<riâžžât>"
+	"riâššâd" <mv> V TV Ind Prs Sg4 @FMV #7->0
+: 
+"<Ruäʹvnjaarǥâst>"
+	"Ruäʹvnjargg" N Prop Sem/Plc Sem/Plc Sg Loc @<ADVL #8->7
+: 
+"<Nuõripõrtt>"
+	"Nuõripõrtt" ? @X #9->0
+: 
+"<Mondellast>"
+	"Mondellast" ? @X #10->0
+: 
+"<kâskka>"
+	"kâskka" ? @X #11->0
+: 
+"<gåårad>"
+	"gåårad" N Pl Nom @<SUBJ #12->7
+	"gåårad" N Sg Acc @<OBJ #12->7
+	"gåårad" N Sg Gen @>N #12->7
+	"gåårad" N Sg Nom @<SUBJ #12->7
+: 
+"<njuhččmannu>"
+	"njuhččmään" N Sg Gen @<ADVL #13->7
+	"njuhččmään" N Pl Nom @<SUBJ #13->7
+	"njuhččmään" N Sg Acc @<OBJ #13->7
+: 
+"<7.-8.>"
+	"7.-8" A Arab Ord Attr @>N #14->15
+: 
+"<peeiʹvi>"
+	"peiʹvv" N Pl Gen @<ADVL #15->7
+"<.>"
+	"." CLB #16->7
+: 
+"<Väʹlddkåådlaž>"
+	"Väʹlddkåådlaž" ? @X #1->0
+: 
+"<Nuõri>"
+	"nuõrr" A Pl Gen @>N #2->3
+: 
+"<Kulttuur>"
+	"kulttuur" N Pl Nom @SUBJ> #3->7
+	"kulttuur" N Sg Acc @OBJ> #3->7
+	"kulttuur" N Sg Gen @>N #3->7
+	"kulttuur" N Sg Nom @SUBJ> #3->7
+: 
+"<–>"
+	"–" PUNCT MIDDLE #4->5
+: 
+"<poodd>"
+	"podd" N Pl Nom @OBJ> #5->7
+	"podd" N Sg Acc @OBJ> #5->7
+	"podd" N Sg Gen @ADVL> #5->7
+	"poodd" Adp #5->7
+: 
+"<jeät>"
+	"ij" <aux> V Neg Ind Sg4 @FAUX #6->0
+: 
+"<riâššu>"
+	"riâššâd" <mv> V TV Imprt ConNegII @FMV #7->6
+: 
+"<tän>"
+	"tät" Pron Dem Sg Acc @<OBJ #8->7
+	"tät" Pron Dem Sg Gen @>N #8->7
+: 
+"<eeʹjj>"
+	"eeʹǩǩ" N Sg Gen @<ADVL #9->16
+	"eeʹjj" Adv @ADVL> #9->16
+	"eeʹǩǩ" N Sg Acc @<OBJ #9->16
+	"eʹčč" N Sem/Kin Sg Gen @<ADVL #9->16
+	"eʹčč" N Sem/Kin Sg Acc @<OBJ #9->16
+: 
+"<ni>"
+	"ni" Adv @ADVL> #10->16
+	"ni" Pcle Neg @PCLE #10->16
+: 
+"<vooʹps>"
+	"vooʹps" Adv @ADVL> #11->16
+"<,>"
+	"," CLB #12->11
+: 
+"<nääiʹt>"
+	"nääiʹt" Adv @ADVL> #13->16
+: 
+"<Sääʹmnuõri>"
+	"sääʹmnuõrr" N Pl Gen @<ADVL #14->10
+: 
+"<čeäppvuõđpeiʹvv>"
+	"čeäppvuõđpeiʹvv" ? @X #15->0
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #16->7
+: 
+"<pååđnallšem>"
+	"nallšem" Der/A A Attr @>N #17->19
+		"pååđ" Prefix Cmp #17->19
+: 
+"<jiiʹjjes-i>"
+	"jiiʹjjes-i" ? @X #18->0
+: 
+"<peiʹvvpodd>"
+	"podd" N Sg Nom @<SUBJ #19->16
+		"peiʹvv" N Cmp/SgNom Cmp #19->16
+"<.>"
+	"." CLB #20->6
+: 
+"<Čeäppvuõđpeeiʹv>"
+	"Čeäppvuõđpeeiʹv" ? @X #1->0
+: 
+"<teemmân>"
+	"teemmân" ? @X #2->0
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<musiikk>"
+	"musikk" N Pl Nom @<SUBJ #4->3
+	"musikk" N Sg Acc @<OBJ #4->3
+	"musikk" N Sg Gen @<ADVL #4->3
+"<.>"
+	"." CLB #5->3
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmnuõri>"
+	"sääʹmnuõrr" N Pl Gen @X #1->0
+: 
+"<čeäppvuõđpeiʹvv>"
+	"čeäppvuõđpeiʹvv" ? @X #2->0
+: 
+"<TEÄĐTÕS>"
+	"TEÄĐTÕS" ? @X #3->0
+: 
+"<27.1.2010>"
+	"27.1.2010" Num Arab Sem/Date Sg Acc @HNOUN #4->1
+	"27.1.2010" Num Arab Sem/Date Sg Ill Attr @HNOUN #4->1
+	"27.1.2010" Num Arab Sem/Date Sg Loc Attr @HNOUN #4->1
+	"27.1.2010" Num Arab Sem/Date Sg Nom @HNOUN #4->1
+: 
+"<¶>"
+	"¶" CLB #5->5
+:\n
+
+]]></dependency></body></document>

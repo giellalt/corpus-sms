@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sää´mtee´&amp;#487;&amp;#487; vaali 2011 võborse&amp;#489; piijjmõš lij puuttâm</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>26</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=504&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=504_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=504_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=504_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #1->2
+: 
+"<vaali>"
+	"vaal" N Pl Gen @>Num #2->3
+: 
+"<2011>"
+	"2011" Num Arab Sem/Year Sg Nom @SUBJ> #3->6
+	"2011" Num Arab Sem/Year Sg Ill Attr @>N #3->6
+	"2011" Num Arab Sem/Year Sg Loc Attr @>N #3->6
+	"2011" Num Arab Sg Nom @SUBJ> #3->6
+	"2011" Num Arab Sg Ill Attr @>N #3->6
+	"2011" Num Arab Sg Loc Attr @>N #3->6
+: 
+"<võborseǩ>"
+	"võborseǩ" ? @X #4->0
+: 
+"<piijjmõš>"
+	"piijjmõš" N Sg Nom @SUBJ> #5->6
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #6->0
+: 
+"<puuttâm>"
+	"puuttâd" V IV Act PrfPrc @X #7->0
+: 
+"<¶>"
+	"¶" CLB #8->6
+:\n
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #1->2
+: 
+"<vaal>"
+	"vaal" N Pl Nom @SUBJ> #2->3
+	"vaal" N Sg Acc @OBJ> #2->3
+	"vaal" N Sg Gen @ADVL> #2->3
+	"vaal" N Sg Nom @SUBJ> #2->3
+: 
+"<tuåimtet>"
+	"tåimted" <mv> V Err/Orth Ind Prs Sg4 @FMV #3->0
+	"tååimted" <mv> V Err/Orth Ind Prs Sg4 @FMV #3->0
+: 
+"<5.9. - 3>"
+	"5.9.-3" A Arab Ord Attr CLBfinal @<ADVL #4->3
+"<.>"
+	"." CLB #5->3
+"<10.2011>"
+	"10.2011" Num Arab Sem/ID @>N #1->2
+: 
+"<äiʹǧǧen>"
+	"äiʹǧǧ" N Ess @HNOUN #2->0
+	"äiʹǧǧ" N Pl Nom PxPl1 @HNOUN #2->0
+	"äiʹǧǧ" N Sg Acc PxPl1 @HNOUN #2->0
+"<.>"
+	"." CLB #3->2
+:  
+"<Vaal-luʹvddkåʹdd>"
+	"vaal-luʹvddkåʹdd" N Sg Nom @SUBJ> #1->2
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #2->0
+: 
+"<raajjâm>"
+	"raajjâd" V TV Act PrfPrc @X #3->0
+: 
+"<vaalânnsain>"
+	"vaalânnsaž" A Sg Com @>ADVL #4->2
+	"vaalânnsaž" A Pl Loc @<ADVL #4->2
+: 
+"<võboršeeʹǩǩin>"
+	"võboršeǩ" N Pl Loc @<ADVL #5->2
+	"võboršeǩ" N Sg Com @<ADVL #5->2
+: 
+"<võboršeǩloǥstõõǥǥ>"
+	"loǥstõk" N Pl Nom @<SUBJ #6->2
+		"võboršeǩ" N Cmp/SgNom Cmp #6->2
+	"loǥstõk" N Sg Acc @<OBJ #6->2
+		"võboršeǩ" N Cmp/SgNom Cmp #6->2
+	"loǥstõk" N Sg Gen @<ADVL #6->2
+		"võboršeǩ" N Cmp/SgNom Cmp #6->2
+"<.>"
+	"." CLB #7->2
+: 
+"<Võboršeeʹǩǩ>"
+	"võboršeǩ" N Pl Nom @SUBJ> #1->2
+: 
+"<liâ>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #2->0
+: 
+"<õhttseʹžže>"
+	"õhttseʹžže" Adv @<ADVL #3->2
+: 
+"<40.>"
+	"40" A Arab Ord Attr @<ADVL #4->2
+:  
+"<Võboršeǩloǧstõk>"
+	"Võboršeǩloǧstõk" ? @X #5->0
+: 
+"<2011>"
+	"2011" Num Arab Sem/Year Sg Nom @<SUBJ #6->2
+	"2011" Num Arab Sem/ID @<ADVL #6->2
+	"2011" Num Arab Sem/Year Sg Acc @<ADVL #6->2
+	"2011" Num Arab Sem/Year Sg Gen @<ADVL #6->2
+	"2011" Num Arab Sem/Year Sg Ill Attr @<ADVL #6->2
+	"2011" Num Arab Sem/Year Sg Loc Attr @<ADVL #6->2
+	"2011" Num Arab Sg Nom @<SUBJ #6->2
+	"2011" Num Arab Sg Acc @<ADVL #6->2
+	"2011" Num Arab Sg Gen @<ADVL #6->2
+	"2011" Num Arab Sg Ill Attr @<ADVL #6->2
+	"2011" Num Arab Sg Loc Attr @<ADVL #6->2
+: 
+"<¶>"
+	"¶" CLB #7->2
+:\n
+
+]]></dependency></body></document>

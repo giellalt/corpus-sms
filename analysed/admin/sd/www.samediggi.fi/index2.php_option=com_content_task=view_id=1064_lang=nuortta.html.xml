@@ -1,0 +1,209 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sää&amp;#697;mte&amp;#697;&amp;#487;&amp;#487; jue&amp;#697;jji stipee&amp;#697;ndid Sää&amp;#697;mvuu&amp;#697;d škoou&amp;#697;l’jemkõõskõõzzâst valmštõõvvjid</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>49</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=1064&amp;lang=nuortta</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=1064_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=1064_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=1064_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @HNOUN #1->0
+: 
+"<jueʹjji>"
+	"jueʹjji" ? @X #2->0
+: 
+"<stipeeʹndid>"
+	"stipeʹndd" N Pl Acc @<OBJ #3->1
+	"stipeʹndd" N Pl Ill @<ADVL #3->1
+: 
+"<Sääʹmvuuʹd>"
+	"sääʹmvuʹvdd" N Sg Gen @>N #4->3
+	"sääʹmvuʹvdd" N Pl Nom @HNOUN #4->3
+	"sääʹmvuʹvdd" N Sg Acc @<OBJ #4->3
+: 
+"<škoouʹlʼjemkõõskõõzzâst>"
+	"škoouʹlʼjemkõõskõs" N Sg Loc @<ADVL #5->1
+: 
+"<valmštõõvvjid>"
+	"valmštõõvvi" N NomAg Pl Acc @APP-N< #6->4
+	"valmštõõvvi" N NomAg Pl Ill @<ADVL #6->4
+: 
+"<¶>"
+	"¶" CLB #7->1
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->7
+: 
+"<jueʹjji>"
+	"jueʹjji" ? @X #2->0
+: 
+"<stipeeʹndid>"
+	"stipeʹndd" N Pl Acc @OBJ> #3->7
+	"stipeʹndd" N Pl Ill @>ADVL #3->7
+: 
+"<nellja>"
+	"nellj" Num Sg Ill @ADVL> #4->7
+: 
+"<Sääʹmvuuʹd>"
+	"sääʹmvuʹvdd" N Sg Gen @>N #5->7
+	"sääʹmvuʹvdd" N Pl Nom @SUBJ> #5->7
+	"sääʹmvuʹvdd" N Sg Acc @OBJ> #5->7
+: 
+"<škoouʹlʼjemkõõskõõzzâst>"
+	"škoouʹlʼjemkõõskõs" N Sg Loc @N< #6->3
+: 
+"<valmštõõvvi>"
+	"valmštõõvvâd" <mv> V Err/Orth-should-be-grade-minus1 Ind Prt Sg3 @FMV #7->0
+	"valmštõõvvi" N NomAg Pl Nom @HNOUN #7->0
+	"valmštõõvvi" N NomAg Sg Acc @HNOUN #7->0
+	"valmštõõvvi" N NomAg Sg Gen @>A #7->0
+	"valmštõõvvi" N NomAg Sg Nom @HNOUN #7->0
+: 
+"<reʹttev>"
+	"reʹttev" A Pl Nom @<SPRED #8->9
+	"reʹttev" A Sg Acc @<OBJ #8->9
+	"reʹttev" A Sg Gen @>N #8->9
+	"reʹttev" A Sg Nom @<SUBJ #8->9
+: 
+"<sääʹmǩiõl>"
+	"sääʹmǩiõll" N Sg Gen @>N #9->7
+	"sääʹmǩiõll" N Pl Nom @<SUBJ #9->7
+	"sääʹmǩiõll" N Sg Acc @<OBJ #9->7
+: 
+"<mättʹtõõttja>"
+	"mättʹtõõttâd" Ex/V Der/NomAg Ex/N Der/Dimin N Pl Nom @<SUBJ #10->7
+	"mättʹtõõttâd" Ex/V Der/NomAg Ex/N Der/Dimin N Dimin Pl Nom @<SUBJ #10->7
+	"mättʹtõõttâd" Ex/V Der/NomAg Ex/N Der/Dimin N Dimin Sg Acc @APP-N< #10->7
+	"mättʹtõõttâd" Ex/V Der/NomAg Ex/N Der/Dimin N Dimin Sg Gen @<ADVL #10->7
+	"mättʹtõõttâd" Ex/V Der/NomAg N Sg Ill @<ADVL #10->7
+	"mättʹtõõttâd" Ex/V Der/NomAg Ex/N Der/Dimin N Sg Acc @APP-N< #10->7
+	"mättʹtõõttâd" Ex/V Der/NomAg Ex/N Der/Dimin N Sg Gen @<ADVL #10->7
+"<.>"
+	"." CLB #11->7
+: 
+"<Sääʹmvuuʹd>"
+	"sääʹmvuʹvdd" N Sg Gen @>N #1->2
+: 
+"<škoouʹlʼjemkõõskõõzz>"
+	"škoouʹlʼjemkõõskõs" N Pl Nom @SUBJ> #2->4
+	"škoouʹlʼjemkõõskõs" N Sg Acc @OBJ> #2->4
+	"škoouʹlʼjemkõõskõs" N Sg Gen @>N #2->4
+: 
+"<ǩiđđprääʹzneǩ>"
+	"prääʹzneǩ" N Pl Nom @OBJ> #3->4
+		"ǩiđđ" N Cmp/SgNom Cmp #3->4
+	"prääʹzneǩ" N Sg Acc @OBJ> #3->4
+		"ǩiđđ" N Cmp/SgNom Cmp #3->4
+	"prääʹzneǩ" N Sg Gen @ADVL> #3->4
+		"ǩiđđ" N Cmp/SgNom Cmp #3->4
+	"prääʹzneǩ" N Sg Nom @SUBJ> #3->4
+		"ǩiđđ" N Cmp/SgNom Cmp #3->4
+: 
+"<prääzkješ>"
+	"prääzkjed" <mv> V TV Ind Prt Sg4 @FMV #4->0
+: 
+"<seärad>"
+	"seärad" N Pl Nom @<OBJ #5->4
+	"seärad" N Sg Acc @<OBJ #5->4
+	"seärad" N Sg Gen @>N #5->4
+	"seärad" N Sg Nom @<SUBJ #5->4
+: 
+"<ǩieʹssmannu>"
+	"ǩieʹssmään" N Sg Gen @<ADVL #6->4
+	"ǩieʹssmään" N Pl Nom @<SUBJ #6->4
+	"ǩieʹssmään" N Sg Acc @<OBJ #6->4
+: 
+"<kuälmad>"
+	"kuälmad" A Ord Pl Nom @<OBJ #7->4
+	"kuälmad" A Ord Sg Acc @<OBJ #7->4
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @<SUBJ #8->4
+	"peiʹvv" N Sg Acc @<OBJ #8->4
+	"peiʹvv" N Sg Gen @<ADVL #8->4
+"<.>"
+	"." CLB #9->4
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #1->2
+: 
+"<stipeeʹnd>"
+	"stipeʹndd" N Pl Nom @SUBJ> #2->3
+: 
+"<vuåǯǯu>"
+	"vuäǯǯad" <aux> V TV Ind Prt Pl3 @FAUX #3->0
+: 
+"<pueʹtti>"
+	"pueʹtted" V IV Act PrsPrc Sg Nom @SUBJ> #4->5
+	"pueʹtti" N NomAg Sg Nom @SUBJ> #4->5
+	"pueʹtti" A Attr @>N #4->5
+	"pueʹtti" A Sg Acc @OBJ> #4->5
+	"pueʹtti" A Sg Gen @>N #4->5
+	"pueʹtti" A Sg Nom @SUBJ> #4->5
+	"pueʹtti" N NomAg Pl Nom @<SUBJ #4->5
+	"pueʹtti" N NomAg Sg Acc @OBJ> #4->5
+	"pueʹtti" N NomAg Sg Gen @>N #4->5
+: 
+"<mättʼtõõtti>"
+	"mättʼtõõtti" N NomAg Pl Nom @<SUBJ #5->3
+	"mättʼtõõtti" N NomAg Sg Acc @<OBJ #5->3
+	"mättʼtõõtti" N NomAg Sg Gen @<ADVL #5->3
+	"mättʼtõõtti" N NomAg Sg Nom @<SUBJ #5->3
+	"mättʼtõõttâd" <mv> V Err/Orth-should-be-grade-minus1 Ind Prt Sg3 @FMV #5->3
+"<:>"
+	":" CLB #6->3
+: 
+"<¶>"
+	"¶" CLB #7->3
+:\n
+"<Tâʹvvsääʹm>"
+	"tâʹvvsääʹmm" N Sg Gen @>N #1->3
+	"tâʹvvsääʹmm" N Pl Nom @SUBJ #1->3
+"<:>"
+	":" CLB #2->4
+: 
+"<Markus>"
+	"Markus" N Prop Sem/Mal Attr @>N #3->4
+: 
+"<Laiti>"
+	"Laiti" N Prop Sem/Sur Sg Nom @HNOUN #4->0
+	"Laiti" N Prop Sem/Sur Sg Acc @HNOUN #4->0
+: 
+"<¶>"
+	"¶" CLB #5->4
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<tuäivv>"
+	"tuäivv" N Sg Nom @HNOUN #2->0
+	"tuäivvad" <mv> V Ind Prs Sg3 @FMV #2->0
+: 
+"<leekk>"
+	"lekk" N Sg Gen @>N #3->2
+	"lekk" N Pl Nom @<SUBJ #3->2
+	"lekk" N Sg Acc @<OBJ #3->2
+: 
+"<da>"
+	"da" CC @X #4->0
+: 
+"<šiõǥǥ>"
+	"šiõǥǥ" A Attr @>N #5->6
+: 
+"<ǩieʹssluõvâsvuõđ>"
+	"ǩieʹssluõvâsvuõtt" N Pl Nom @<SUBJ #6->2
+	"ǩieʹssluõvâsvuõtt" N Sg Acc @<OBJ #6->2
+	"ǩieʹssluõvâsvuõtt" N Sg Gen @<ADVL #6->2
+: 
+"<tiʹjjid>"
+	"ton" Pron Pers Pl2 Acc @<OBJ #7->2
+	"ton" Pron Pers Pl2 Ill @<ADVL #7->2
+: 
+"<pukid>"
+	"puk" Pron Pl Acc @<OBJ #8->2
+	"puk" Pron Pl Ill @<ADVL #8->2
+"<!>"
+	"!" CLB #9->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

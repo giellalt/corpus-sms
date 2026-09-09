@@ -1,0 +1,147 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Parlamenttvaal ââ´net juõ´&amp;#489;&amp;#489; neelljad ee´jj</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>32</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=461&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=461_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=461_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=461_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Parlamenttvaal>"
+	"Parlamenttvaal" ? @X #1->0
+: 
+"<ââʹnet>"
+	"ââʹnned" <mv> V TV Ind Prs Sg4 @FMV #2->0
+	"ââʹnted" <mv> V Imprt Sg2 @FMV #2->0
+: 
+"<juõʹǩǩ>"
+	"juõʹǩǩ" Pron Attr @X #3->0
+: 
+"<neelljad>"
+	"neelljad" A Ord Sg Nom @<SUBJ #4->2
+	"neelljad" A Ord Pl Nom @<SUBJ #4->2
+	"neelljad" A Ord Sg Acc @<OBJ #4->2
+: 
+"<eeʹjj>"
+	"eeʹǩǩ" N Sg Gen @<ADVL #5->2
+	"eeʹjj" Adv @<ADVL #5->2
+	"eeʹǩǩ" N Pl Nom @<SUBJ #5->2
+	"eeʹǩǩ" N Sg Acc @<OBJ #5->2
+	"eʹčč" N Sem/Kin Sg Gen @<ADVL #5->2
+	"eʹčč" N Sem/Kin Pl Nom @<SUBJ #5->2
+	"eʹčč" N Sem/Kin Sg Acc @<OBJ #5->2
+: 
+"<¶>"
+	"¶" CLB #6->2
+:\n
+"<Vaalin>"
+	"vaal" N Pl Loc @ADVL> #1->2
+	"vaal" N Sg Com @ADVL> #1->2
+: 
+"<vaʹlljeet>"
+	"vaʹlljeed" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<200>"
+	"200" Num Arab Sg Gen @<ADVL #3->5
+	"200" Num Arab Sem/ID @<ADVL #3->5
+	"200" Num Arab Sg Acc @OBJ> #3->5
+	"200" Num Arab Sg Nom @<ADVL #3->5
+	"200" Num Arab Sg Ill Attr @ADVL> #3->5
+	"200" Num Arab Sg Loc Attr @ADVL> #3->5
+: 
+"<parlamentneʹǩǩed>"
+	"parlamentneʹǩǩed" ? @X #4->0
+: 
+"<tuʹmmjet>"
+	"tuʹmmjed" <mv> V TV Ind Prs Sg4 @FMV #5->2
+: 
+"<õhttsaž>"
+	"õhttsaž" A Sg Nom @<SUBJ #6->5
+: 
+"<aaššid>"
+	"aaššid" ? @X #7->0
+"<.>"
+	"." CLB #8->2
+: 
+"<Eeʹjj>"
+	"eeʹǩǩ" N Sg Gen @ADVL> #1->4
+	"eeʹjj" Adv @ADVL> #1->4
+	"eeʹǩǩ" N Pl Nom @SUBJ> #1->4
+	"eeʹǩǩ" N Sg Acc @OBJ> #1->4
+	"eʹčč" N Sem/Kin Sg Gen @ADVL> #1->4
+	"eʹčč" N Sem/Kin Pl Nom @SUBJ> #1->4
+	"eʹčč" N Sem/Kin Sg Acc @OBJ> #1->4
+: 
+"<2011>"
+	"2011" Num Arab Sem/Year Sg Nom @SUBJ> #2->4
+	"2011" Num Arab Sem/Year Sg Acc @OBJ> #2->4
+	"2011" Num Arab Sem/Year Sg Ill Attr @>N #2->4
+	"2011" Num Arab Sem/Year Sg Loc Attr @>N #2->4
+	"2011" Num Arab Sg Nom @SUBJ> #2->4
+	"2011" Num Arab Sg Acc @OBJ> #2->4
+	"2011" Num Arab Sg Ill Attr @>N #2->4
+	"2011" Num Arab Sg Loc Attr @>N #2->4
+: 
+"<parlamenttvaal>"
+	"parlamenttvaal" ? @X #3->0
+: 
+"<riâžžât>"
+	"riâššâd" <mv> V TV Ind Prs Sg4 @FMV #4->0
+: 
+"<pâʹsspeeiʹv>"
+	"pâʹsspeiʹvv" N Pl Nom @<OBJ #5->4
+	"pâʹsspeiʹvv" N Sg Acc @<OBJ #5->4
+: 
+"<17.4.2011>"
+	"17.4.2011" Num Arab Sem/Date Sg Acc @<OBJ #6->4
+	"17.4.2011" Num Arab Sem/Date Sg Gen @<ADVL #6->4
+	"17.4.2011" Num Arab Sem/Date Sg Ill Attr @<ADVL #6->4
+	"17.4.2011" Num Arab Sem/Date Sg Loc Attr @<ADVL #6->4
+	"17.4.2011" Num Arab Sem/Date Sg Nom @<ADVL #6->4
+	"17.4.2011" Num Arab Sem/ID @<ADVL #6->4
+"<.>"
+	"." CLB #7->4
+: 
+"<Lââʹssteâđaid>"
+	"lââʹssteâtt" N Pl Acc @HNOUN #1->0
+	"lââʹssteâtt" N Pl Ill @<ADVL #1->0
+: 
+"<vaal.fi>"
+	"vaal.fi" URL #2->2
+: 
+"<–>"
+	"–" PUNCT MIDDLE #3->4
+: 
+"<seeidast>"
+	"seidd" N Sg Loc @<ADVL #4->1
+: 
+"<pâʹjjǩeeʹjrtõõzzâst>"
+	"pâʹjjǩeeʹjrtõõzzâst" ? @X #5->0
+:  
+"<leʹbe>"
+	"leʹbe" CC @X #6->0
+: 
+"<¶>"
+	"¶" CLB #7->1
+:\n
+"<täʹst>"
+	"tät" Pron Dem Sg Loc @>N #1->3
+	"täʹst" Adv @ADVL> #1->3
+: 
+"<vuõigg>"
+	"vuõigg" A Attr @>N #2->3
+	"vuõiǥâs" A Attr @>N #2->3
+: 
+"<liiŋkâst>"
+	"liŋkk" N Sg Loc @HNOUN #3->0
+: 
+"<¶>"
+	"¶" CLB #4->3
+:\n
+"<(>"
+	"(" PUNCT LEFT #1->2
+"<PDF-teâttõs>"
+	"PDF-teâttõs" ? @X #2->0
+"<)>"
+	")" PUNCT RIGHT #3->2
+"<.>"
+	"." CLB #4->4
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

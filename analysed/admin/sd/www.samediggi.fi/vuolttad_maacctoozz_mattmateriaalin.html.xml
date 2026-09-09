@@ -1,0 +1,266 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id">
+  <header>
+    <title>Vuõlttâd maacctõõzz mättmateriaalin - Samediggi</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="fin"/>
+    <year>2019</year>
+    <wordcount>52</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samediggi.fi/vuolttad-maacctoozz-mattmateriaalin/?lang=nuo</origFileName>
+    <parallel_text xml:lang="fin" location="laheta_palautetta_oppimateriaaleista.html"/>
+    <parallel_text xml:lang="sme" location="sadde_mahcahaga_oahppamaterialain.html"/>
+    <parallel_text xml:lang="smn" location="vuolgat_macattas_oppamateriaalijn.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <dependency><![CDATA["<Vuõlttâd>"
+	"vuõltteed" <mv> V Imprt Sg2 @FMV #1->0
+: 
+"<maacctõõzz>"
+	"maacctõs" N Pl Nom @<SUBJ #2->1
+	"maacctõs" N Sg Acc @<OBJ #2->1
+	"maacctõs" N Sg Gen @>N #2->1
+: 
+"<mättmateriaalin>"
+	"mättmateriaal" N Pl Loc @<ADVL #3->1
+	"mättmateriaal" N Sg Com @<ADVL #3->1
+: 
+"<¶>"
+	"¶" CLB #4->1
+:\n
+"<Lie-a>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 Qst/a @FMV #1->0
+: 
+"<tuʹst>"
+	"ton" Pron Pers Sg2 Loc @<ADVL #2->1
+: 
+"<jurddi>"
+	"juurd" N Pl Nom @<SUBJ #3->1
+	"juurd" N Sg Acc @<OBJ #3->1
+	"juurd" N Sg Gen @>N #3->1
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #4->5
+: 
+"<mättmateriaaltuâj>"
+	"mättmateriaaltuâjj" N Sg Gen @>N #5->1
+	"mättmateriaaltuâjj" N Pl Nom @<SUBJ #5->1
+	"mättmateriaaltuâjj" N Sg Acc @<OBJ #5->1
+: 
+"<ooudâsviikkâm>"
+	"ooudâsviikkâd" Ex/V TV Der/NomAct N Sg Gen @>P #6->7
+: 
+"<diõtt>"
+	"diõtt" Adp Po @<ADVL #7->1
+	"diõtt" Adp Po <gen> @<ADVL #7->1
+"<?>"
+	"?" CLB #8->1
+: 
+"<Leäk-a>"
+	"leeʹd" <mv> V IV Ind Prs Sg2 Qst/a @FMV #1->0
+: 
+"<vuâmmšam>"
+	"vuâmmšed" V Act PrfPrc @X #2->0
+: 
+"<teevvamtaarbid>"
+	"tarbb" N Pl Acc @<OBJ #3->5
+		"teevvad" V Actio Cmp/SgGen Cmp #3->5
+	"tarbb" N Pl Ill @ADVL> #3->5
+		"teevvad" V Actio Cmp/SgGen Cmp #3->5
+: 
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @<ADVL #4->1
+	"sääʹmteʹǧǧ" N Pl Nom @<SUBJ #4->1
+	"sääʹmteʹǧǧ" N Sg Acc @<OBJ #4->1
+: 
+"<puuʹtʼtam>"
+	"puuʹtʼted" <mv> V Ind Prs Sg1 @FMV #5->1
+: 
+"<mättmateriaalâst>"
+	"mättmateriaal" N Sg Loc @<ADVL #6->5
+"<?>"
+	"?" CLB #7->1
+: 
+"<Väʹlddep>"
+	"väʹldded" <mv> V TV Imprt Pl1 @FMV #1->0
+	"väʹldded" <mv> V TV Ind Prs Pl1 @FMV #1->0
+: 
+"<miõlsteen>"
+	"miõll" N Largo Sg Loc PxPl1 @<ADVL #2->1
+	"miõll" N Sg Loc PxPl1 @<ADVL #2->1
+: 
+"<vuâstta>"
+	"vuâstt" N Err/GenreLeudd Sg Nom @<SUBJ #3->1
+	"vuâstta" Adp Pr @<ADVL #3->1
+	"vuâstta" Adv @<ADVL #3->1
+: 
+"<maacctõõzz>"
+	"maacctõs" N Pl Nom @<OBJ #4->1
+	"maacctõs" N Sg Acc @<OBJ #4->1
+	"maacctõs" N Sg Gen @P< #4->1
+"<,>"
+	"," CLB #5->6
+: 
+"<što>"
+	"što" CS @CVP #6->7
+: 
+"<vueiʹttep>"
+	"vueiʹtted" <aux> V TV Ind Prs Pl1 @FS-<ADVL #7->1
+: 
+"<ooudâsviikkâd>"
+	"ooudâsviikkâd" <mv> V TV Inf @FS-IMV #8->7
+: 
+"<mättmateriaali>"
+	"mättmateriaal" N Pl Gen @>N #9->10
+: 
+"<siiskõõzz>"
+	"siiskõs" N Pl Nom @<SUBJ #10->7
+	"siiskõs" N Sg Acc @<OBJ #10->7
+	"siiskõs" N Sg Gen @<ADVL #10->7
+"<,>"
+	"," CLB #11->6
+: 
+"<teevvad>"
+	"teevvad" <mv> V Imprt Pl2 @FMV #12->8
+	"teevvad" <mv> V Inf @FS-IMV #12->8
+: 
+"<vueiʹtlvaž>"
+	"vueiʹtlvaž" A Attr @>N #13->14
+: 
+"<vââǥǥid>"
+	"vââǥǥ" N N Pl Acc @<OBJ #14->12
+	"vââǥǥ" N N Pl Ill @<ADVL #14->12
+: 
+"<da>"
+	"da" CC @X #15->0
+: 
+"<puuʹtʼted>"
+	"puuʹtʼted" V Inf @X #16->0
+: 
+"<nåkam>"
+	"nåkkam" Pron Attr @>N #17->12
+	"nåkkam" Pron Pl Nom @<SUBJ #17->12
+	"nåkkam" Pron Sg Acc @<OBJ #17->12
+	"nåkkam" Pron Sg Gen @>N #17->12
+	"nåkkam" Pron Sg Nom @<SUBJ #17->12
+: 
+"<materiaalid>"
+	"materiaal" N Pl Acc @<OBJ #18->12
+	"materiaal" N Pl Ill @>ADVL #18->12
+"<,>"
+	"," CLB #19->6
+: 
+"<koid>"
+	"kååʹtt" Pron Rel Pl Acc @OBJ> #20->22
+	"kååʹtt" Pron Rel Pl Ill @ADVL> #20->22
+: 
+"<sääʹm-mättʼtõõzzâst>"
+	"sääʹm-mättʼtõs" N Sg Loc @ADVL> #21->22
+: 
+"<taarbšet>"
+	"taarbšed" <mv> V Ind Prs Sg4 @FS-N< #22->18
+"<.>"
+	"." CLB #23->1
+"<Väʹlddep>"
+	"väʹldded" <mv> V TV Imprt Pl1 @FMV #1->0
+	"väʹldded" <mv> V TV Ind Prs Pl1 @FMV #1->0
+: 
+"<vuâstta>"
+	"vuâstt" N Err/GenreLeudd Sg Nom @<SUBJ #2->1
+	"vuâstta" Adp Pr @<ADVL #2->1
+	"vuâstta" Adv @ADVL> #2->1
+: 
+"<eʹtǩǩõõzzid>"
+	"eʹtǩǩõs" N Pl Acc @<OBJ #3->20
+	"eʹtǩǩõs" N Pl Ill @ADVL> #3->20
+: 
+"<ođđ>"
+	"oođâs" A Attr @>N #4->5
+: 
+"<mättmateriaalân>"
+	"mättmateriaal" N Ess @<OPRED #5->3
+	"mättmateriaal" N Pl Nom PxPl1 @<SUBJ #5->3
+	"mättmateriaal" N Sg Acc PxPl1 @<OBJ #5->3
+	"mättmateriaal" N Sg Gen PxPl1 @>N #5->3
+"<,>"
+	"," CLB #6->5
+: 
+"<eʹtǩǩõõzzid>"
+	"eʹtǩǩõs" N Pl Acc @OBJ> #7->20
+	"eʹtǩǩõs" N Pl Ill @ADVL> #7->20
+: 
+"<ǩiõttǩeeʹrjteeʹjen>"
+	"ǩiõttǩeeʹrjteei" N NomAg Ess @<OPRED #8->7
+"<,>"
+	"," CLB #9->8
+: 
+"<kartteeʹjen>"
+	"kartteei" N NomAg Ess @<OPRED #10->8
+"<,>"
+	"," CLB #11->10
+: 
+"<graaflaž>"
+	"graaflaž" A Attr @>N #12->13
+: 
+"<plaaneeʹjen>"
+	"plaaneei" N NomAg Ess @<OPRED #13->8
+"<,>"
+	"," CLB #14->13
+: 
+"<čõõđtemnääʹllen>"
+	"nääʹll" N Ess @<OPRED #15->8
+		"čõõđted" Ex/V TV Der/NomAct N Cmp/SgGen Cmp #15->8
+	"nääʹll" N Pl Nom PxPl1 @<SUBJ #15->8
+		"čõõđted" Ex/V TV Der/NomAct N Cmp/SgGen Cmp #15->8
+	"nääʹll" N Sg Acc PxPl1 @OBJ> #15->8
+		"čõõđted" Ex/V TV Der/NomAct N Cmp/SgGen Cmp #15->8
+	"nääʹll" N Sg Gen PxPl1 @>N #15->8
+		"čõõđted" Ex/V TV Der/NomAct N Cmp/SgGen Cmp #15->8
+: 
+"<da>"
+	"da" CC @CNP #16->15
+: 
+"<jurddjid>"
+	"juurd" N Pl Acc @<OBJ #17->20
+	"juurd" N Pl Ill @ADVL> #17->20
+"<,>"
+	"," CLB #18->17
+: 
+"<mäʹhtt>"
+	"mäʹhtt" Adv @ADVL> #19->20
+: 
+"<vuäǯǯap>"
+	"vuäǯǯad" <mv> V TV Ind Prs Pl1 @FMV #20->1
+: 
+"<sääʹmkulttuur>"
+	"sääʹmkulttuur" N Sg Gen @>N #21->23
+: 
+"<mieʹldd>"
+	"mieʹldd" Adp #22->22
+: 
+"<materiaalid>"
+	"materiaal" N Pl Acc @<OBJ #23->20
+"<.>"
+	"." CLB #24->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency>
+  </body>
+</document>

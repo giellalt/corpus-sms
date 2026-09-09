@@ -1,0 +1,285 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Perstak-a tõn mätt’tem-materialtuâjast?</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>50</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=806&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=806_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=806_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=806_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Perstak-a>"
+	"persted" <mv> V Ind Prs Sg2 Qst/a @FMV #1->0
+: 
+"<tõn>"
+	"tõt" Pron Dem Sg Acc @<OBJ #2->1
+	"tõt" Pron Dem Sg Gen @>N #2->1
+: 
+"<mättʼtem-materialtuâjast>"
+	"tuâjj" N Sg Loc @<ADVL #3->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->1
+			"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #3->1
+	"tuâjj" N Sg Loc @<ADVL #3->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->1
+			"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #3->1
+	"tuâjj" N Sg Loc @<ADVL #3->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->1
+			"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #3->1
+	"tuâjj" N Sg Loc @<ADVL #3->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->1
+			"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #3->1
+"<?>"
+	"?" CLB #4->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<rääjj>"
+	"raajjâd" <mv> V TV Ind Prs Sg3 @FMV #2->0
+: 
+"<škoouli>"
+	"škooul" N Pl Gen @>P #3->4
+: 
+"<diõtt>"
+	"diõtt" Adp Po @<ADVL #4->2
+	"diõtt" Adp Po <gen> @<ADVL #4->2
+: 
+"<mättʼtem-materiaalid>"
+	"materiaal" N Pl Acc @<OBJ #5->2
+		"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->2
+	"materiaal" N Pl Ill @<ADVL #5->2
+		"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #5->2
+	"materiaal" N Pl Acc @<OBJ #5->2
+		"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->2
+	"materiaal" N Pl Ill @<ADVL #5->2
+		"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #5->2
+"<.>"
+	"." CLB #6->2
+: 
+"<Tän>"
+	"tät" Pron Dem Sg Gen @>N #1->2
+: 
+"<tuâjast>"
+	"tuâjj" N Sg Loc @ADVL> #2->3
+:  
+"<taarbšep>"
+	"taarbšed" <mv> V Ind Prs Pl1 @FMV #3->0
+: 
+"<mättʼtem-materiaali>"
+	"materiaal" N Pl Gen @>N #4->5
+		"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #4->5
+	"materiaal" N Pl Gen @>N #4->5
+		"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #4->5
+: 
+"<tuejjeeʹjid>"
+	"tuejjeei" N NomAg Pl Acc @<OBJ #5->3
+	"tuejjeei" N NomAg Pl Ill @<ADVL #5->3
+"<.>"
+	"." CLB #6->3
+: 
+"<Perstak-a>"
+	"persted" <mv> V Ind Prs Sg2 Qst/a @FMV #1->0
+: 
+"<tõn>"
+	"tõt" Pron Dem Sg Acc @<OBJ #2->1
+: 
+"<mäkam>"
+	"mäkam" ? @X #3->0
+: 
+"<tuâjast>"
+	"tuâjj" N Sg Loc @<ADVL #4->1
+"<?>"
+	"?" CLB #5->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Materiaalid>"
+	"materiaal" N Pl Acc @OBJ> #1->2
+	"materiaal" N Pl Ill @ADVL> #1->2
+: 
+"<valmštet>"
+	"valmšted" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<škooulʹjem>"
+	"škooulʹjem" ? @X #3->0
+"<->"
+	"-" PUNCT MIDDLE #4->5
+: 
+"<da>"
+	"da" CC @X #5->0
+: 
+"<mättʼtem-material-luʹvddkååʹdd>"
+	"kåʹdd" N Pl Nom @SUBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #6->12
+	"kåʹdd" N Sg Acc @OBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #6->12
+	"kåʹdd" N Sg Gen @ADVL> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #6->12
+	"kåʹdd" N Pl Nom @SUBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #6->12
+	"kåʹdd" N Sg Acc @OBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #6->12
+	"kåʹdd" N Sg Gen @ADVL> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #6->12
+	"kåʹdd" N Pl Nom @SUBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #6->12
+	"kåʹdd" N Sg Acc @OBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #6->12
+	"kåʹdd" N Sg Gen @ADVL> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #6->12
+	"kåʹdd" N Pl Nom @SUBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #6->12
+	"kåʹdd" N Sg Acc @OBJ> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #6->12
+	"kåʹdd" N Sg Gen @ADVL> #6->12
+		"luʹvdd" N Cmp/SgNom Cmp #6->12
+			"materiaal" N Err/Orth Cmp/SgNom Cmp #6->12
+				"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #6->12
+: 
+"<priimmâm>"
+	"priimmâd" V Act PrfPrc @X #7->0
+: 
+"<puuʹtʼtõsplaan>"
+	"plaan" N Sem/Prod-cogn Pl Nom @SUBJ> #8->12
+		"puuʹtʼtõs" N Cmp/SgNom Cmp #8->12
+	"plaan" N Sem/Prod-cogn Sg Acc @OBJ> #8->12
+		"puuʹtʼtõs" N Cmp/SgNom Cmp #8->12
+	"plaan" N Sem/Prod-cogn Sg Gen @ADVL> #8->12
+		"puuʹtʼtõs" N Cmp/SgNom Cmp #8->12
+	"plaan" N Sem/Prod-cogn Sg Nom @SUBJ> #8->12
+		"puuʹtʼtõs" N Cmp/SgNom Cmp #8->12
+: 
+"<mieʹlddlânji>"
+	"meâldlânji" Adv @ADVL> #9->12
+"<,>"
+	"," CLB #10->9
+: 
+"<leâʹša>"
+	"leâša" Adv Err/Orth @ADVL> #11->12
+: 
+"<väʹlddep>"
+	"väʹldded" <mv> V TV Ind Prs Pl1 @FMV #12->2
+: 
+"<vuâstta>"
+	"vuâstt" N Err/GenreLeudd Sg Nom @<SUBJ #13->12
+	"vuâstta" Adp Pr @<ADVL #13->12
+	"vuâstta" Adv @<ADVL #13->12
+: 
+"<šiõǥǥ>"
+	"šiõǥǥ" A Attr @>N #14->15
+: 
+"<jurddjid>"
+	"juurd" N Pl Acc @<OBJ #15->12
+	"juurd" N Pl Ill @>ADVL #15->12
+: 
+"<da>"
+	"da" CC @CNP #16->15
+: 
+"<eʹtǩǩõõzzid>"
+	"eʹtǩǩõs" N Pl Acc @<OBJ #17->15
+	"eʹtǩǩõs" N Pl Ill @<ADVL #17->15
+"<.>"
+	"." CLB #18->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Jõs>"
+	"jõs" CS @CVP #1->2
+: 
+"<perstak>"
+	"persted" <mv> V Ind Prs Sg2 @FS-ADVL> #2->5
+: 
+"<mättʼtem-materialtuâjast>"
+	"tuâjj" N Sg Loc @<ADVL #3->2
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->2
+			"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #3->2
+	"tuâjj" N Sg Loc @<ADVL #3->2
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->2
+			"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #3->2
+	"tuâjj" N Sg Loc @<ADVL #3->2
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->2
+			"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #3->2
+	"tuâjj" N Sg Loc @<ADVL #3->2
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #3->2
+			"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #3->2
+"<,>"
+	"," CLB #4->1
+: 
+"<vääʹld>"
+	"väʹldd" N Sg Gen @>N #5->8
+	"väʹldd" N Pl Nom @<SUBJ #5->8
+	"väʹldd" N Sg Acc @<OBJ #5->8
+	"väʹldded" <mv> V TV Imprt Sg2 @FS-ADVL> #5->8
+: 
+"<õhttvuõđ>"
+	"õhttvuõtt" N Pl Nom @<OBJ #6->8
+	"õhttvuõtt" N Sg Acc @<OBJ #6->8
+	"õhttvuõtt" N Sg Gen @>N #6->8
+: 
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #7->8
+	"sääʹmteʹǧǧ" N Pl Nom @<OBJ #7->8
+	"sääʹmteʹǧǧ" N Sg Acc @<OBJ #7->8
+: 
+"<škoouʹlʼjem->"
+	"škoouʹlʼjed" Ex/V TV Der/NomAct N Cmp/SgGen Cmp/SplitR @>N #8->8
+	"škoouʹlʼjed" Ex/V TV Der/NomAct N Cmp/SgNom Cmp/SplitR @>N #8->8
+: 
+"<da>"
+	"da" CC @X #9->0
+: 
+"<mättʹtem-materialkonttra>"
+	"mättʹtem-materialkonttra" ? @X #10->0
+"<.>"
+	"." CLB #11->11
+: 
+"<Lââʹssteâđaid>"
+	"lââʹssteâtt" N Pl Acc @HNOUN #1->0
+	"lââʹssteâtt" N Pl Ill @<ADVL #1->0
+: 
+"<vuâǯǯak>"
+	"vuâǯǯak" ? @X #2->0
+: 
+"<ouddm.>"
+	"ouddm." Hom1 Adv ABBR @<ADVL #3->1
+: 
+"<mättʼtem-materialpiisrest>"
+	"piisar" N Sg Loc @<ADVL #4->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #4->1
+			"mättʼted" Ex/V Der/NomAct N Cmp/SgGen Cmp #4->1
+	"piisar" N Sg Loc @<ADVL #4->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #4->1
+			"mättʼted" Ex/V Der/NomAct N Cmp/SgNom Cmp #4->1
+	"piisar" N Sg Loc @<ADVL #4->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #4->1
+			"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #4->1
+	"piisar" N Sg Loc @<ADVL #4->1
+		"materiaal" N Err/Orth Cmp/SgNom Cmp #4->1
+			"mäʹtted" Ex/V Der/jed Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp #4->1
+"<.>"
+	"." CLB #5->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

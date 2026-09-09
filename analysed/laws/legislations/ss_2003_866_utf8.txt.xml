@@ -1,0 +1,458 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title/><genre code="laws"/><author><unknown/></author><wordcount>106</wordcount><conversion_status type="standard"/><availability><free/></availability><multilingual/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Nr>"
+	"nr" N ABBR @X #1->0
+: 
+"<866>"
+	"866" Num Arab Sg Nom @SUBJ> #2->7
+: 
+"<Riikksåbbar>"
+	"riikksååbbar" N Pl Nom @OBJ> #3->7
+	"riikksååbbar" N Sg Acc @OBJ> #3->7
+	"riikksååbbar" N Sg Gen @>N #3->7
+: 
+"<asetõs>"
+	"asetõs" N Sg Nom @SUBJ> #4->7
+: 
+"<kuäʹcǩǩmi>"
+	"kuäʹcǩǩem" N Pl Gen @>N #5->6
+: 
+"<puäʒʒtallu>"
+	"puäʒʒtääll" N Sg Ill @ADVL> #6->7
+: 
+"<tueʹjjääm>"
+	"tuejjeed" <mv> V TV Ind Prs Sg1 @FMV #7->0
+: 
+"<skääđai>"
+	"skääđđ" N Pl Gen @<ADVL #8->7
+: 
+"<koʹrvvemest>"
+	"koʹrvvemest" ? @X #9->0
+: 
+"<uʹvddum>"
+	"uʹvdded" V TV Err/Orth Pass PrfPrc @X #10->0
+: 
+"<riikksåbbar>"
+	"riikksååbbar" N Pl Nom @<SUBJ #11->7
+	"riikksååbbar" N Sg Acc @<OBJ #11->7
+	"riikksååbbar" N Sg Gen @>N #11->7
+: 
+"<asetõõzz>"
+	"asetõs" N Pl Nom @<OBJ #12->7
+	"asetõs" N Sg Acc @<OBJ #12->7
+: 
+"<3>"
+	"3" Num Arab Sg Nom @<ADVL #13->7
+	"3" Num Arab Sem/Time-clock Sg Nom @<ADVL #13->7
+: 
+"<§:z>"
+	"§" N ABBR N Pl Nom @<OBJ #14->7
+	"§" N ABBR N Sg Acc @<OBJ #14->7
+	"§" N ABBR N Sg Gen @>N #14->7
+: 
+"<muʹttmest>"
+	"muʹtted" Ex/V TV Der/NomAct N Sg Loc @<ADVL #15->7
+: 
+"<Uʹvvdum>"
+	"Uʹvvdum" ? @X #16->0
+: 
+"<Heʹlssnest>"
+	"Heʹlssen" N Prop Sem/Plc Sem/Plc Sg Loc @<ADVL #17->7
+: 
+"<kålggmannu>"
+	"kålggmään" N Pl Nom @<SUBJ #18->7
+	"kålggmään" N Sg Acc @<OBJ #18->7
+	"kålggmään" N Sg Gen @<ADVL #18->7
+: 
+"<15>"
+	"15" Num Arab Sg Nom @<ADVL #19->7
+	"15" Num Arab Sem/Time-clock Sg Nom @<ADVL #19->7
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @<SUBJ #20->7
+	"peiʹvv" N Sg Acc @<OBJ #20->7
+	"peiʹvv" N Sg Gen @<ADVL #20->7
+: 
+"<2003>"
+	"2003" Num Arab Sem/Year Sg Nom @>N #21->22
+	"2003" Num Arab Sem/ID @<ADVL #21->22
+	"2003" Num Arab Sem/Year Sg Acc @<OBJ #21->22
+	"2003" Num Arab Sem/Year Sg Gen @>N #21->22
+	"2003" Num Arab Sem/Year Sg Ill Attr @>N #21->22
+	"2003" Num Arab Sem/Year Sg Loc Attr @>N #21->22
+	"2003" Num Arab Sg Nom @>N #21->22
+	"2003" Num Arab Sg Acc @<OBJ #21->22
+	"2003" Num Arab Sg Gen @>N #21->22
+	"2003" Num Arab Sg Ill Attr @>N #21->22
+	"2003" Num Arab Sg Loc Attr @>N #21->22
+: 
+"<Riikksåbbar>"
+	"riikksååbbar" N Pl Nom @<OBJ #22->7
+	"riikksååbbar" N Sg Acc @<OBJ #22->7
+	"riikksååbbar" N Sg Gen @>N #22->7
+: 
+"<tuʹmmstõõǥǥ>"
+	"tuʹmmstõk" N Sg Gen @Num< #23->23
+: 
+"<mieʹldd>"
+	"mieʹldd" Adp #24->24
+"<,>"
+	"," CLB #25->26
+: 
+"<kååʹtt>"
+	"kååʹtt" Pron Rel Sg Nom @<SUBJ #26->7
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FS-N< #27->23
+: 
+"<rajjum>"
+	"raajjâd" V TV Pass PrfPrc @X #28->0
+: 
+"<pirrõsministeeria>"
+	"ministeria" N Sem/Org Pl Nom @<SUBJ #29->27
+		"pirrõs" N Cmp/SgNom Cmp #29->27
+	"ministeria" N Sem/Org Sg Acc @<OBJ #29->27
+		"pirrõs" N Cmp/SgNom Cmp #29->27
+	"ministeria" N Sem/Org Sg Gen @<ADVL #29->27
+		"pirrõs" N Cmp/SgNom Cmp #29->27
+	"ministeria" N Sem/Org Sg Nom @<SUBJ #29->27
+		"pirrõs" N Cmp/SgNom Cmp #29->27
+: 
+"<čuäʹjtõõzzâst>"
+	"čuäʹjtõõzzâst" ? @X #30->0
+"<,>"
+	"," CLB #31->56
+: 
+"<muʹtteet>"
+	"muʹtteet" ? @X #32->0
+: 
+"<kuäʹcǩǩmi>"
+	"kuäʹcǩǩem" N Pl Gen @>N #33->34
+: 
+"<puäʒʒtallu>"
+	"puäʒʒtääll" N Sg Ill @ADVL> #34->68
+: 
+"<tueʹjjääm>"
+	"tuejjeed" V TV Act PrfPrc @X #35->0
+: 
+"<skääđai>"
+	"skääđđ" N Pl Gen @<ADVL #36->27
+: 
+"<koʹrvvemest>"
+	"koʹrvvemest" ? @X #37->0
+: 
+"<ođđeeʹjjmannu>"
+	"ođđeeʹjjmäänn" N Sg Ill @ADVL> #38->27
+	"ođđeeʹjjmään" N Pl Nom @<SUBJ #38->27
+	"ođđeeʹjjmään" N Sg Acc @<OBJ #38->27
+	"ođđeeʹjjmään" N Sg Gen @<ADVL #38->27
+: 
+"<3>"
+	"3" Num Arab Sg Nom @<SUBJ #39->27
+	"3" Num Arab Sem/Time-clock Sg Nom @<SUBJ #39->27
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @<SUBJ #40->27
+	"peiʹvv" N Sg Acc @<OBJ #40->27
+	"peiʹvv" N Sg Gen @<ADVL #40->27
+: 
+"<v>"
+	"V" Num Rom Sg Nom @<SUBJ #41->27
+: 
+"<2002>"
+	"2002" Num Arab Sem/Year Sg Nom @<ADVL #42->27
+	"2002" Num Arab Sem/ID @<ADVL #42->27
+	"2002" Num Arab Sem/Year Sg Acc @<ADVL #42->27
+	"2002" Num Arab Sem/Year Sg Gen @<ADVL #42->27
+	"2002" Num Arab Sem/Year Sg Ill Attr @>N #42->27
+	"2002" Num Arab Sem/Year Sg Loc Attr @>N #42->27
+	"2002" Num Arab Sg Nom @<SUBJ #42->27
+	"2002" Num Arab Sg Acc @<ADVL #42->27
+	"2002" Num Arab Sg Gen @<ADVL #42->27
+	"2002" Num Arab Sg Ill Attr @>N #42->27
+	"2002" Num Arab Sg Loc Attr @>N #42->27
+: 
+"<uʹvddum>"
+	"uʹvdded" V TV Err/Orth Pass PrfPrc @X #43->0
+: 
+"<asetõõzz>"
+	"asetõs" N Pl Nom @<SUBJ #44->27
+	"asetõs" N Sg Acc @<OBJ #44->27
+	"asetõs" N Sg Gen @>N #44->27
+: 
+"<(>"
+	"(" PUNCT LEFT #45->46
+"<8/2002>"
+	"8/2002" Num Arab Sem/ID @<ADVL #46->27
+"<)>"
+	")" PUNCT RIGHT #47->48
+: 
+"<3>"
+	"3" Num Arab Sg Nom @<SUBJ #48->27
+	"3" Num Arab Sem/Time-clock Sg Nom @<SUBJ #48->27
+: 
+"<§:z>"
+	"§" N ABBR N Pl Nom @<SUBJ #49->27
+	"§" N ABBR N Sg Acc @<OBJ #49->27
+: 
+"<1>"
+	"1" Num Arab Sg Nom @<SUBJ #50->27
+	"1" Num Arab Sem/Time-clock Sg Nom @<SUBJ #50->27
+: 
+"<momentt>"
+	"momentt" N Sg Nom @<SUBJ #51->27
+"<,>"
+	"," CLB #52->56
+: 
+"<nåkamnallšem>"
+	"nåkamnallšem" A Sg Nom @<SUBJ #53->51
+: 
+"<ko>"
+	"ko" CS @CVP #54->56
+: 
+"<tõt>"
+	"tõt" Pron Dem Sg Nom @SUBJ> #55->56
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FS-<ADVL #56->27
+: 
+"<asetõõzzâst>"
+	"asetõs" N Sg Loc @<ADVL #57->56
+: 
+"<868/2002>"
+	"868/2002" Num Arab Sem/ID @<ADVL #58->56
+"<,>"
+	"," CLB #59->54
+: 
+"<näkamnalla>"
+	"näkamnalla" ? @X #60->0
+"<:>"
+	":" CLB #61->7
+: 
+"<3>"
+	"3" Num Arab Sg Nom @<SUBJ #62->56
+	"3" Num Arab Sem/Time-clock Sg Nom @<SUBJ #62->56
+: 
+"<§>"
+	"§" N Symbol Sg Nom @SUBJ> #63->68
+: 
+"<Koʹrvvõõzz>"
+	"koʹrvvõs" N Pl Nom @SUBJ> #64->68
+	"koʹrvvõs" N Sg Acc @OBJ> #64->68
+	"koʹrvvõs" N Sg Gen @>N #64->68
+: 
+"<mieʹrr>"
+	"mieʹrr" N Sg Nom @SUBJ> #65->68
+: 
+"<Koʹrvvõõzz>"
+	"koʹrvvõs" N Pl Nom @SUBJ> #66->67
+	"koʹrvvõs" N Sg Acc @OBJ> #66->67
+	"koʹrvvõs" N Sg Gen @>N #66->67
+: 
+"<teäʹǧǧmeäʹr>"
+	"teäʹǧǧmieʹrr" N Sem/Money Sg Gen @>N #67->68
+	"teäʹǧǧmieʹrr" N Sem/Money Pl Nom @SUBJ> #67->68
+	"teäʹǧǧmieʹrr" N Sem/Money Sg Acc @OBJ> #67->68
+: 
+"<vuâđđan>"
+	"vuâđđ" N Ess @SPRED> #68->56
+	"vuâđđ" N Pl Nom PxSg1 @SUBJ> #68->56
+	"vuâđđ" N Sg Acc PxSg1 @OBJ> #68->56
+	"vuâđđ" N Sg Gen PxSg1 @ADVL> #68->56
+	"vuâđđned" <mv> V Ind Prs Sg3 @FMV #68->56
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #69->7
+: 
+"<laʹsǩǩeemnallšem>"
+	"laʹsǩǩeemnallšem" A Attr @>N #70->71
+: 
+"<skääđ>"
+	"skääđđ" N Pl Nom @<SUBJ #71->69
+	"skääđđ" N Sg Acc @<OBJ #71->69
+	"skääđđ" N Sg Gen @>N #71->69
+: 
+"<ärvv>"
+	"ärvv" N Sg Nom @<SUBJ #72->69
+: 
+"<ǩeârdduum>"
+	"ǩeârdduum" ? @X #73->0
+: 
+"<2>"
+	"2" A Arab Ord Attr CLBfinal @<ADVL #74->69
+: 
+"<momenttist>"
+	"momenttist" ? @X #75->0
+"<,>"
+	"," CLB #76->54
+: 
+"<4>"
+	"4" Num Arab Sg Nom @<SUBJ #77->69
+	"4" Num Arab Sem/Time-clock Sg Nom @<SUBJ #77->69
+: 
+"<§:z>"
+	"§" N ABBR N Pl Nom @<SUBJ #78->69
+	"§" N ABBR N Sg Acc @<OBJ #78->69
+: 
+"<2>"
+	"2" Num Arab Sg Nom @<SUBJ #79->69
+	"2" Num Arab Sem/Time-clock Sg Nom @<SUBJ #79->69
+: 
+"<momenttist>"
+	"momenttist" ? @X #80->0
+: 
+"<leʹbe>"
+	"leʹbe" CC @X #81->0
+: 
+"<5>"
+	"5" Num Arab Sg Nom @<SUBJ #82->69
+	"5" Num Arab Sem/Time-clock Sg Nom @<SUBJ #82->69
+: 
+"<§:z>"
+	"§" N ABBR N Pl Nom @<SUBJ #83->69
+	"§" N ABBR N Sg Acc @<OBJ #83->69
+: 
+"<1>"
+	"1" Num Arab Sg Nom @<SUBJ #84->69
+	"1" Num Arab Sem/Time-clock Sg Nom @<SUBJ #84->69
+: 
+"<momenttist>"
+	"momenttist" ? @X #85->0
+: 
+"<mieʹrruum>"
+	"mieʹrreed" V Pass PrfPrc @X #86->0
+: 
+"<ǩeârddõõzzin>"
+	"ǩeârddõs" N Pl Loc @<ADVL #87->82
+	"ǩeârddõs" N Sg Com @<ADVL #87->82
+"<.>"
+	"." CLB #88->7
+: 
+"<Laʹsǩǩeemnallšem>"
+	"laʹsǩǩeemnallšem" A Attr @>N #1->2
+: 
+"<skääđ>"
+	"skääđđ" N Pl Nom @SUBJ> #2->6
+	"skääđđ" N Sg Acc @OBJ> #2->6
+	"skääđđ" N Sg Gen @>N #2->6
+: 
+"<ärvv>"
+	"ärvv" N Sg Nom @SUBJ> #3->6
+: 
+"<ǩeârddõõzzin>"
+	"ǩeârddõs" N Pl Loc @ADVL> #4->6
+	"ǩeârddõs" N Sg Com @ADVL> #4->6
+: 
+"<õhtt>"
+	"õhtt" Num Sg Nom @SUBJ> #5->6
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #6->0
+: 
+"<562>"
+	"562" Num Arab Sg Gen @<ADVL #7->6
+	"562" Num Arab Sem/ID @<ADVL #7->6
+	"562" Num Arab Sg Acc @<ADVL #7->6
+	"562" Num Arab Sg Nom @<SUBJ #7->6
+	"562" Num Arab Sg Ill Attr @<ADVL #7->6
+	"562" Num Arab Sg Loc Attr @<ADVL #7->6
+: 
+"<eurrod>"
+	"eurrod" ? @X #8->0
+"<.>"
+	"." CLB #9->6
+: 
+"<Tät>"
+	"tät" Pron Dem Sg Nom @SUBJ> #1->3
+: 
+"<asetõs>"
+	"asetõs" N Sg Nom @SUBJ> #2->3
+: 
+"<šâdd>"
+	"šâdd" N Sg Nom @HNOUN #3->0
+	"šõddâd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<viõʹǩǩe>"
+	"viõkk" N Sg Ill @<ADVL #4->3
+: 
+"<kålggmannu>"
+	"kålggmään" N Pl Nom @<SUBJ #5->3
+	"kålggmään" N Sg Acc @<OBJ #5->3
+	"kålggmään" N Sg Gen @<ADVL #5->3
+: 
+"<30>"
+	"30" Num Arab Sg Nom @<SUBJ #6->3
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @<SUBJ #7->3
+	"peiʹvv" N Sg Acc @<OBJ #7->3
+	"peiʹvv" N Sg Gen @<ADVL #7->3
+: 
+"<2003>"
+	"2003" Num Arab Sem/Year Sg Nom @<ADVL #8->3
+	"2003" Num Arab Sem/ID @<ADVL #8->3
+	"2003" Num Arab Sem/Year Sg Acc @<ADVL #8->3
+	"2003" Num Arab Sem/Year Sg Gen @<ADVL #8->3
+	"2003" Num Arab Sem/Year Sg Ill Attr @<ADVL #8->3
+	"2003" Num Arab Sem/Year Sg Loc Attr @<ADVL #8->3
+	"2003" Num Arab Sg Nom @<SUBJ #8->3
+	"2003" Num Arab Sg Acc @<ADVL #8->3
+	"2003" Num Arab Sg Gen @<ADVL #8->3
+	"2003" Num Arab Sg Ill Attr @<ADVL #8->3
+	"2003" Num Arab Sg Loc Attr @<ADVL #8->3
+"<.>"
+	"." CLB #9->3
+: 
+"<Heʹlssnest>"
+	"Heʹlssen" N Prop Sem/Plc Sem/Plc Sg Loc @ADVL> #1->2
+: 
+"<kålggmannu>"
+	"kålggmään" N Pl Nom @HNOUN #2->3
+	"kålggmään" N Sg Acc @OBJ> #2->3
+: 
+"<15>"
+	"15" Num Arab Sg Nom @HNOUN #3->0
+	"15" Num Arab Sem/Time-clock Sg Nom @HNOUN #3->0
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @HNOUN #4->2
+	"peiʹvv" N Sg Acc @<OBJ #4->2
+: 
+"<2003>"
+	"2003" Num Arab Sem/Year Sg Nom @>N #5->6
+	"2003" Num Arab Sem/Year Sg Acc @<OBJ #5->6
+	"2003" Num Arab Sem/Year Sg Ill Attr @>N #5->6
+	"2003" Num Arab Sem/Year Sg Loc Attr @>N #5->6
+	"2003" Num Arab Sg Nom @>N #5->6
+	"2003" Num Arab Sg Acc @<OBJ #5->6
+	"2003" Num Arab Sg Gen @>N #5->6
+	"2003" Num Arab Sg Ill Attr @>N #5->6
+	"2003" Num Arab Sg Loc Attr @>N #5->6
+: 
+"<Pirrõsminister>"
+	"pirrõsminister" N Sem/Hum Sg Nom @>N #6->7
+: 
+"<Jan-Erik>"
+	"Jan-Erik" N Prop Sem/Mal Sg Gen Allegro @X #7->0
+: 
+"<Enestam>"
+	"Enestam" ? @X #8->0
+: 
+"<Halltõspiisar>"
+	"halltõspiisar" N Sem/Hum Sg Nom @>N #9->7
+	"halltõspiisar" N Sem/Hum Pl Nom @HNOUN #9->7
+	"halltõspiisar" N Sem/Hum Sg Acc @<OBJ #9->7
+	"halltõspiisar" N Sem/Hum Sg Gen @>N #9->7
+: 
+"<Satu>"
+	"Satu" N Prop Sem/Fem Sg Gen @>N #10->11
+: 
+"<Sundberg>"
+	"Sundberg" N Prop Sem/Sur Sg Acc @APP-N< #11->9
+	"Sundberg" N Prop Sem/Sur Sg Nom @HNOUN #11->9
+: 
+"<¶>"
+	"¶" CLB #12->3
+:\n
+
+]]></dependency></body></document>

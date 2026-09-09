@@ -1,0 +1,232 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Kultturseminar</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>51</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=656&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=656_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=656_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=656_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Kultturseminar>"
+	"seminaar" N Sem/Event Err/Orth Sg Nom @HNOUN #1->0
+		"kulttuur" N Allegro Cmp/SgNom Cmp #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+"<26.11.2012>"
+	"26.11.2012" Num Arab Sem/Date Sg Ill Attr @>N #1->7
+	"26.11.2012" Num Arab Sem/Date Sg Loc Attr @>N #1->7
+"<,>"
+	"," CLB #2->1
+: 
+"<ääʹljeeʹl>"
+	"äʹlǧǧed" V Ger Instr @X #3->0
+: 
+"<čiâss>"
+	"čiâss" N Pl Nom @X #4->5
+	"čiâss" N Sg Acc @X #4->5
+	"čiâss" N Sg Gen @>Num #4->5
+	"čiâss" N Sg Nom @X #4->5
+: 
+"<9.45>"
+	"9.45" Num Arab Sem/Time-clock Sg Gen @>N #5->1
+	"9.45" Num Arab Sem/Time-clock Sg Ill Attr @>N #5->1
+	"9.45" Num Arab Sem/Time-clock Sg Loc Attr @>N #5->1
+	"9.45" Num Arab Sem/Time-clock Sg Nom @>N #5->1
+"<,>"
+	"," CLB #6->5
+: 
+"<Sääʹmkultturkõõskõs>"
+	"Sääʹmkultturkõõskõs" N Prop Sg Nom @X #7->0
+: 
+"<Sajos>"
+	"Sajos" N Prop Sem/Plc Sg Gen Allegro @>N #8->1
+	"Sajos" N Prop Sem/Sur Sg Gen Allegro @>N #8->1
+"<,>"
+	"," CLB #9->8
+: 
+"<Aanar>"
+	"Aanar" N Prop Sem/Plc Sg Acc @X #10->0
+	"Aanar" N Prop Sem/Plc Sg Gen @X #10->0
+	"Aanar" N Prop Sem/Plc Sg Nom @X #10->0
+: 
+"<¶>"
+	"¶" CLB #11->11
+:\n
+"<Kåččap>"
+	"kåččad" <mv> V Imprt Pl1 @FMV #1->0
+	"kåččad" <mv> V Ind Prs Pl1 @FMV #1->0
+: 
+"<pukid>"
+	"puk" Pron Pl Acc @<OBJ #2->1
+	"puk" Pron Pl Ill @>ADVL #2->1
+: 
+"<sääʹmtuåimmjeeʹjid>"
+	"sääʹmtåimmjeei" N Err/Orth NomAg Pl Ill @<ADVL #3->1
+	"sääʹmtåimmjeei" N Err/Orth NomAg Pl Acc @<OBJ #3->1
+: 
+"<smiõttâd>"
+	"smiõttâd" V Inf @X #4->0
+: 
+"<puõʹttiääiʹj>"
+	"puõʹttiäiʹǧǧ" N Pl Nom @<SUBJ #5->1
+	"puõʹttiäiʹǧǧ" N Sg Acc @<OBJ #5->1
+	"puõʹttiäiʹǧǧ" N Sg Gen @>N #5->1
+: 
+"<teäddceäkldõõzzid>"
+	"teäddceäkldõs" N Pl Acc @<OBJ #6->1
+	"teäddceäkldõs" N Pl Ill @<ADVL #6->1
+: 
+"<da>"
+	"da" CC @X #7->0
+: 
+"<ooudâsviikkâd>"
+	"ooudâsviikkâd" V TV Inf @X #8->0
+: 
+"<veäʹǩǩtieʹǧǧi>"
+	"veäʹǩǩteäʹǧǧ" N Sem/Money Pl Gen @X #9->0
+: 
+"<tillõõvvmõõžž>"
+	"tillõõvvmõõžž" ? @X #10->0
+: 
+"<õhttsažkååʹdd>"
+	"õhttsažkåʹdd" N Pl Nom @<SUBJ #11->1
+	"õhttsažkåʹdd" N Sg Acc @<OBJ #11->1
+	"õhttsažkåʹdd" N Sg Gen @>N #11->1
+: 
+"<vääžnai>"
+	"vääžnai" A Attr @>N #12->13
+: 
+"<haʹŋǩǩõõzzid>"
+	"haʹŋǩǩõs" N Pl Acc @APP-N< #13->1
+	"haʹŋǩǩõs" N Pl Ill @<ADVL #13->1
+"<.>"
+	"." CLB #14->1
+: 
+"<Seminaar>"
+	"seminaar" N Sem/Event Sg Gen @>N #1->2
+: 
+"<tueʹlespeiʹvv>"
+	"tueʹlespeiʹvv" N Sg Nom @SUBJ> #2->3
+: 
+"<ouddan>"
+	"ouddned" <mv> V Ind Prs Sg3 @FMV #3->0
+: 
+"<čeäppneeʹǩǩid>"
+	"čeäppneǩ" N Sem/Hum Pl Acc @OBJ> #4->14
+	"čeäppneǩ" N Sem/Hum Pl Ill @ADVL> #4->14
+: 
+"<vääžnai>"
+	"vääžnai" A Attr @>N #5->6
+: 
+"<ooccâm-mõõntõõllmõõžž>"
+	"ooccâm-mõõntõõllmõš" N Sg Gen @>N #6->11
+	"ooccâm-mõõntõõllmõš" N Pl Nom @<SUBJ #6->11
+	"ooccâm-mõõntõõllmõš" N Sg Acc @OBJ> #6->11
+: 
+"<di>"
+	"di" CC @CNP #7->6
+: 
+"<kultturmieʹrrtieʹǧǧ>"
+	"teäʹǧǧ" N Sem/Money Sg Gen @>N #8->6
+		"mieʹrr" N Cmp/SgNom Cmp #8->6
+			"kulttuur" N Allegro Cmp/SgNom Cmp #8->6
+	"teäʹǧǧ" N Sem/Money Pl Nom @<SUBJ #8->6
+		"mieʹrr" N Cmp/SgNom Cmp #8->6
+			"kulttuur" N Allegro Cmp/SgNom Cmp #8->6
+	"teäʹǧǧ" N Sem/Money Sg Acc @OBJ> #8->6
+		"mieʹrr" N Cmp/SgNom Cmp #8->6
+			"kulttuur" N Allegro Cmp/SgNom Cmp #8->6
+	"mieʹrrteäʹǧǧ" N Sem/Money Sg Gen @>N #8->6
+		"kulttuur" N Allegro Cmp/SgNom Cmp #8->6
+	"mieʹrrteäʹǧǧ" N Sem/Money Pl Nom @<SUBJ #8->6
+		"kulttuur" N Allegro Cmp/SgNom Cmp #8->6
+	"mieʹrrteäʹǧǧ" N Sem/Money Sg Acc @OBJ> #8->6
+		"kulttuur" N Allegro Cmp/SgNom Cmp #8->6
+: 
+"<teknlaž>"
+	"teknlaž" A Attr @>N #9->10
+: 
+"<vuäʹpstõõzzi>"
+	"vuäʹpstõs" N Pl Gen @>P #10->11
+: 
+"<pirr>"
+	"pirr" Adp Po @<ADVL #11->3
+: 
+"<di>"
+	"di" CC @CVP #12->3
+: 
+"<lââʹssen>"
+	"lââʹss" N Ess @ADVL> #13->14
+	"lââʹss" N Pl Nom PxPl1 @<SUBJ #13->14
+	"lââʹss" N Sg Acc PxPl1 @OBJ> #13->14
+	"lââʹss" N Sg Gen PxPl1 @ADVL> #13->14
+	"lââʹssen" Adv @ADVL> #13->14
+	"lââʹssen" Adp #13->14
+: 
+"<kuulât>"
+	"kuullâd" <mv> V TV Ind Prs Sg4 @FMV #14->3
+: 
+"<jeeʹres>"
+	"jieʹres" A Attr @>N #15->16
+: 
+"<teäggtemkruuggi>"
+	"kruugg" N Pl Gen @>P #16->17
+		"teäggted" Ex/V Der/NomAct N Cmp/SgGen Cmp #16->17
+: 
+"<pirr>"
+	"pirr" Adp Po @<ADVL #17->14
+: 
+"<da>"
+	"da" CC @CVP #18->14
+: 
+"<jeäʹǩǩespeeiʹv>"
+	"jeäʹǩǩespeiʹvv" N Pl Nom @<SUBJ #19->20
+	"jeäʹǩǩespeiʹvv" N Sg Acc @<OBJ #19->20
+	"jeäʹǩǩespeiʹvv" N Sg Gen @ADVL> #19->20
+: 
+"<altteep>"
+	"altteed" <mv> V Ind Prs Pl1 @FMV #20->3
+: 
+"<valštõõllâm>"
+	"valštõõllâm" ? @X #21->0
+: 
+"<vueʹlnn>"
+	"vueʹlnn" Adp #22->22
+: 
+"<åårrai>"
+	"åårrai" A Attr @>N #23->24
+: 
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #24->20
+	"sääʹmteʹǧǧ" N Pl Nom @<SUBJ #24->20
+	"sääʹmteʹǧǧ" N Sg Acc @<OBJ #24->20
+: 
+"<">"
+	""" PUNCT #25->26
+"<čeäppõs->"
+	"čeäppõs" N Cmp/SgNom Cmp/SplitR @>N #26->28
+"<,>"
+	"," CLB #27->26
+: 
+"<ǩiõtt-tuâjj>"
+	"ǩiõtt-tuâjj" N Sg Nom @<SUBJ #28->20
+: 
+"<da>"
+	"da" CC @CNP #29->28
+: 
+"<kultturpolitiikklaž>"
+	"politikk" Ex/N Der/lazh A Sg Nom @<SUBJ #30->28
+		"kulttuur" N Allegro Cmp/SgNom Cmp #30->28
+: 
+"<">"
+	""" PUNCT #31->31
+"<->"
+	"-" PUNCT MIDDLE #32->33
+"<programmhämmsest>"
+	"programmhämmsest" ? @X #33->0
+"<.>"
+	"." CLB #34->3
+: 
+"<Programm>"
+	"programm" N Sg Nom @HNOUN #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+
+]]></dependency></body></document>

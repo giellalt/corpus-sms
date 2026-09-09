@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Sää´mlää´ǩǩ - ELY-keskus</title><genre code="admin"/><author><unknown/></author><wordcount>34</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.ely-keskus.fi/fi/web/ely-saame/kolttalaki</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Sääʹmlääʹǩǩ>"
+	"sääʹmlääʹǩǩ" N Sg Nom @HNOUN #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+"<Sääʹmlääʹjj>"
+	"sääʹmlääʹǩǩ" N Sg Gen @>N #1->2
+: 
+"<täävtõssân>"
+	"täävtõs" N Ess @ADVL> #2->3
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<ooudâsviikkâd>"
+	"ooudâsviikkâd" V TV Inf @X #4->0
+: 
+"<sääʹm-meer>"
+	"sääʹm-meer" N Sg Nom @<SUBJ #5->3
+	"sääʹm-meer" N Pl Nom @<SUBJ #5->3
+	"sääʹm-meer" N Sg Acc @<OBJ #5->3
+	"sääʹm-meer" N Sg Gen @>N #5->3
+: 
+"<da>"
+	"da" CC @X #6->0
+: 
+"<–>"
+	"–" PUNCT MIDDLE #7->8
+"<vuuʹd>"
+	"vuʹvdd" N Pl Nom @<SUBJ #8->9
+	"vuʹvdd" N Sg Gen @>N #8->9
+: 
+"<jieʹllemåårrmõõžžid>"
+	"jieʹllemåårrmõš" N Pl Ill @>ADVL #9->11
+: 
+"<da>"
+	"da" CC @CNP #10->9
+: 
+"<piʹrǧǧeemvuäittmõõžžid>"
+	"piʹrǧǧeemvuäittmõš" N Pl Ill @<ADVL #11->3
+: 
+"<di>"
+	"di" CC @X #12->0
+: 
+"<ruõkkâd>"
+	"ruõkkâd" V Inf @X #13->0
+: 
+"<da>"
+	"da" CC @X #14->0
+: 
+"<ooudâsjuäʹtǩǩed>"
+	"ooudâsjuäʹtǩǩed" ? @X #15->0
+: 
+"<da>"
+	"da" CC @X #16->0
+: 
+"<ooudâsviikkâd>"
+	"ooudâsviikkâd" V TV Inf @X #17->0
+: 
+"<sääʹmkulttuur>"
+	"sääʹmkulttuur" N Sg Nom @X #18->0
+	"sääʹmkulttuur" N Pl Nom @X #18->0
+	"sääʹmkulttuur" N Sg Acc @X #18->0
+	"sääʹmkulttuur" N Sg Gen @X #18->0
+"<.>"
+	"." CLB #19->3
+: 
+"<Lääʹjj>"
+	"lääʹǩǩ" N Pl Nom @SUBJ> #1->2
+	"lääʹǩǩ" N Sg Acc @OBJ> #1->2
+	"lääʹǩǩ" N Sg Gen @ADVL> #1->2
+: 
+"<suåvvtet>"
+	"suåvted" <mv> V Err/Orth Ind Prs Sg4 @FMV #2->0
+: 
+"<sääʹmvuuʹdest>"
+	"sääʹmvuʹvdd" N Sg Loc @<ADVL #3->2
+"<,>"
+	"," CLB #4->3
+: 
+"<koozz>"
+	"koss" Hom2 N Pl Nom @<SUBJ #5->2
+: 
+"<koʹlle>"
+	"kuullâd" <mv> V TV Ind Prs Pl3 @FMV #6->2
+: 
+"<Njauddâm>"
+	"Njauddâm" N Prop Sem/Plc Sem/Plc Sg Gen @>N #7->10
+: 
+"<da>"
+	"da" CC @CNP #8->7
+: 
+"<Njeäʹllem-Keväjääuʹr>"
+	"Keväjäuʹrr" N Prop Sem/Plc Sem/Plc Sg Acc @<OBJ #9->10
+		"Njeäʹllem" N Prop Sem/Plc Sem/Plc Cmp #9->10
+	"Keväjäuʹrr" N Prop Sem/Plc Sem/Plc Sg Gen @>N #9->10
+		"Njeäʹllem" N Prop Sem/Plc Sem/Plc Cmp #9->10
+: 
+"<siidvuuʹd>"
+	"vuʹvdd" N Sg Gen @>N #10->11
+		"sijdd" N Cmp/SgGen Cmp #10->11
+	"vuʹvdd" N Pl Nom @<SUBJ #10->11
+		"sijdd" N Cmp/SgGen Cmp #10->11
+	"vuʹvdd" N Sg Acc @<OBJ #10->11
+		"sijdd" N Cmp/SgGen Cmp #10->11
+	"vuʹvdd" N Sg Gen @>N #10->11
+		"sijdd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #10->11
+	"vuʹvdd" N Pl Nom @<SUBJ #10->11
+		"sijdd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #10->11
+	"vuʹvdd" N Sg Acc @<OBJ #10->11
+		"sijdd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #10->11
+: 
+"<Aanar>"
+	"Aanar" N Prop Sem/Plc Sg Gen @>N #11->12
+: 
+"<kååʹddest>"
+	"kåʹdd" N Sg Loc @<ADVL #12->6
+"<.>"
+	"." CLB #13->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Škoou´l’jumuš leäi tän alggmeerfoorum riõššum såbbar ä´ššen</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>296</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=472&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=472_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=472_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=472_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Škoouʹlʼjumuš>"
+	"škoouʹlʼjummuš" N Sg Nom @SUBJ> #1->2
+: 
+"<leäi>"
+	"leeʹd" <mv> V IV Ind Prt Sg3 @FMV #2->0
+: 
+"<tän>"
+	"tät" Pron Dem Sg Acc @<OBJ #3->2
+: 
+"<alggmeerfoorum>"
+	"alggmeerfoorum" ? @X #4->0
+: 
+"<riõššum>"
+	"riõššâd" V Pass PrfPrc @X #5->0
+: 
+"<såbbar>"
+	"sååbbar" N Pl Nom @<SUBJ #6->2
+	"sååbbar" N Sg Acc @<OBJ #6->2
+	"sååbbar" N Sg Gen @>N #6->2
+: 
+"<äʹššen>"
+	"äʹšš" N Ess @<SPRED #7->2
+: 
+"<¶>"
+	"¶" CLB #8->2
+:\n
+"<Lääʹddjânnam>"
+	"Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Pl Nom @SUBJ> #1->12
+: 
+"<da>"
+	"da" CC @X #2->0
+: 
+"<Ecuadoor>"
+	"Ecuadoor" ? @X #3->0
+: 
+"<põõšši>"
+	"põõšši" A Attr @>N #4->5
+: 
+"<eeʹttkâʹsttõõzz>"
+	"eeʹttkâʹsttõs" N Pl Nom @SUBJ> #5->12
+"<,>"
+	"," CLB #6->5
+: 
+"<Ecuadoor>"
+	"Ecuadoor" ? @X #7->0
+: 
+"<kultturpreeddanministeria>"
+	"ministeria" N Sem/Org Pl Nom @OBJ> #8->12
+		"preeddan" N Cmp/SgGen Cmp #8->12
+			"kulttuur" N Allegro Cmp/SgNom Cmp #8->12
+: 
+"<di>"
+	"di" CC @CNP #9->8
+: 
+"<Lääʹddjânnam>"
+	"Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Pl Nom @OBJ> #10->8
+: 
+"<sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #11->12
+: 
+"<rieʹšše>"
+	"riâššâd" <mv> V TV Ind Prt Pl3 @FMV #12->0
+: 
+"<õõutsââʹjest>"
+	"õõutsââʹjest" Adv @<ADVL #13->12
+: 
+"<ÕM:i>"
+	"ÕM:i" ? @X #14->0
+: 
+"<alggmeerfoorum>"
+	"alggmeerfoorum" ? @X #15->0
+: 
+"<10.>"
+	"10" A Arab Ord Attr @>N #16->17
+: 
+"<såbbar>"
+	"sååbbar" N Pl Nom @<SUBJ #17->12
+	"sååbbar" N Sg Acc @<OBJ #17->12
+	"sååbbar" N Sg Gen @<ADVL #17->12
+"<,>"
+	"," CLB #18->19
+: 
+"<koonn>"
+	"kååʹtt" Pron Rel Sg Gen @>N #19->20
+: 
+"<äʹššen>"
+	"äʹšš" N Ess @SPRED> #20->21
+: 
+"<leʹjje>"
+	"leeʹd" <mv> V IV Ind Prt Pl3 @FS-N< #21->17
+: 
+"<alggmeerai>"
+	"alggmeer" N Pl Gen @>N #22->23
+: 
+"<škoouʹlʼjumuš>"
+	"škoouʹlʼjummuš" N Sg Nom @<SUBJ #23->21
+: 
+"<da>"
+	"da" CC @CNP #24->23
+: 
+"<vuõiggâdvuõtt>"
+	"vuõiggâdvuõtt" N Sg Nom @<SUBJ #25->23
+: 
+"<vuässõõttâd>"
+	"vuässõõttâd" V Inf @X #26->0
+: 
+"<tuʹmmstõktuõjju>"
+	"tuʹmmstõktuâjj" N Sg Ill @<ADVL #27->25
+"<.>"
+	"." CLB #28->12
+: 
+"<Såbbrõõššâmpoodd>"
+	"podd" N Sg Gen @ADVL> #1->2
+		"såbbrõõššâd" Ex/V Der/NomAct N Cmp/SgGen Cmp #1->2
+	"podd" N Pl Nom @SUBJ> #1->2
+		"såbbrõõššâd" Ex/V Der/NomAct N Cmp/SgGen Cmp #1->2
+	"podd" N Sg Acc @OBJ> #1->2
+		"såbbrõõššâd" Ex/V Der/NomAct N Cmp/SgGen Cmp #1->2
+: 
+"<rieʹššeš>"
+	"riâššâd" <mv> V TV Ind Prt Sg4 @FMV #2->0
+: 
+"<New>"
+	"New" ? @X #3->0
+: 
+"<Yorkist>"
+	"Yorkist" ? @X #4->0
+: 
+"<nelljdpeeiʹv>"
+	"nelljdpeiʹvv" N Pl Nom @<SUBJ #5->2
+	"nelljdpeiʹvv" N Sg Acc @<OBJ #5->2
+	"nelljdpeiʹvv" N Sg Gen @>N #5->2
+: 
+"<vueʹssmannu>"
+	"vueʹssmään" N Sg Gen @<ADVL #6->2
+	"vueʹssmään" N Pl Nom @<SUBJ #6->2
+	"vueʹssmään" N Sg Acc @<OBJ #6->2
+: 
+"<19.>"
+	"19" A Arab Ord Attr @>N #7->8
+: 
+"<peeiʹv>"
+	"peiʹvv" N Pl Nom @<SUBJ #8->2
+	"peiʹvv" N Sg Acc @<OBJ #8->2
+	"peiʹvv" N Sg Gen @<ADVL #8->2
+"<.>"
+	"." CLB #9->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sååbbarpoodd>"
+	"podd" N Sg Gen @>N #1->2
+		"sååbbar" N Cmp/SgNom Cmp #1->2
+: 
+"<oođâs>"
+	"oođâs" N Sg Nom @SUBJ> #2->3
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<lääʹddǩiõʹlle>"
+	"lääʹddǩiõll" N Sg Ill @<ADVL #4->3
+"<:>"
+	":" CLB #5->3
+: 
+"<¶>"
+	"¶" CLB #6->3
+:\n
+
+]]></dependency></body></document>

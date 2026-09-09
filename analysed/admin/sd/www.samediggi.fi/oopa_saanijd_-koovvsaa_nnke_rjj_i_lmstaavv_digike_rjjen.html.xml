@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id">
+  <header>
+    <title>Oopâ saanijd -koovvsääʹnnǩeʹrjj iʹlmstââvv digiǩeʹrjjen - Samediggi</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="fin"/>
+    <year>2020</year>
+    <wordcount>77</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samediggi.fi/2020/10/22/oopa-saanijd-koovvsaannkerjj-ilmstaavv-digikerjjen/?lang=nuo</origFileName>
+    <parallel_text xml:lang="fin" location="oopa_saanijd_-kuvasanakirja_ilmestyy_digikirjana.html"/>
+    <parallel_text xml:lang="sme" location="oopa_saanijd_-govvasatnegirji_almmustuvva_digigirjin.html"/>
+    <parallel_text xml:lang="smn" location="oopa_saanijd_-kovesanikirje_almostuva_digikirjen.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <dependency><![CDATA["<Oopâ>"
+	"Oopâ" ? @X #1->0
+: 
+"<saanijd>"
+	"saanijd" ? @X #2->0
+: 
+"<->"
+	"-" PUNCT MIDDLE #3->4
+"<koovvsääʹnnǩeʹrjj>"
+	"sääʹnnǩeʹrjj" N Sg Nom @SUBJ> #4->5
+		"kovv" N Cmp/SgGen Cmp #4->5
+: 
+"<iʹlmstââvv>"
+	"iʹlmstõõvvâd" <mv> V Ind Prs Sg3 @FMV #5->0
+: 
+"<digiǩeʹrjjen>"
+	"digiǩeʹrjjen" ? @X #6->0
+: 
+"<¶>"
+	"¶" CLB #7->5
+:\n
+"<Peäggtum>"
+	"peäggted" V Pass PrfPrc @X #1->0
+: 
+"<Oopâ>"
+	"Oopâ" ? @X #2->0
+: 
+"<saanijd>"
+	"saanijd" ? @X #3->0
+: 
+"<->"
+	"-" PUNCT MIDDLE #4->5
+"<koovvsääʹnnǩeʹrjj>"
+	"sääʹnnǩeʹrjj" N Sg Nom @SUBJ> #5->6
+		"kovv" N Cmp/SgGen Cmp #5->6
+: 
+"<iʹlmstââvv>"
+	"iʹlmstõõvvâd" <mv> V Ind Prs Sg3 @FMV #6->0
+: 
+"<ååʹn>"
+	"ååʹn" Adv Sem/Time Sem/Time @<ADVL #7->6
+: 
+"<digihääʹmest>"
+	"digihääʹmest" ? @X #8->0
+"<.>"
+	"." CLB #9->6
+: 
+"<Vuõssǩeeʹrj>"
+	"ǩeʹrjj" N Sg Gen @>N #1->2
+		"vuõss" N Cmp/SgNom Cmp #1->2
+: 
+"<raajji>"
+	"raajji" N NomAg Sg Nom @SUBJ> #2->3
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<Matti>"
+	"Matti" N Prop Sem/Mal Attr @>N #4->5
+: 
+"<Morottaja>"
+	"Morottaja" N Prop Sem/Sur Sg Gen @>N #5->12
+: 
+"<da>"
+	"da" CC @CNP #6->5
+: 
+"<ǩeeʹrj>"
+	"ǩeʹrjj" N Pl Nom @<SUBJ #7->3
+	"ǩeʹrjj" N Sg Acc @<OBJ #7->3
+	"ǩeʹrjj" N Sg Gen @<ADVL #7->3
+: 
+"<koovid>"
+	"kooppâd" <mv> V Ind Prt Pl2 @FMV #8->3
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #9->3
+: 
+"<pirstam>"
+	"piirsted" V Act PrfPrc @X #10->0
+	"pirsted" V Act PrfPrc @X #10->0
+: 
+"<Sirpa>"
+	"Sirpa" N Prop Sem/Fem Sg Gen @>N #11->12
+: 
+"<Seppänen>"
+	"Seppänen" N Prop Sem/Sur Sg Nom @<SUBJ #12->9
+"<.>"
+	"." CLB #13->3
+: 
+"<Matti>"
+	"Matti" N Prop Sem/Mal Sg Gen @>N #1->2
+: 
+"<Morottaja>"
+	"Morottaja" N Prop Sem/Sur Sg Nom @SUBJ> #2->3
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<še>"
+	"še" Pcle @PCLE #4->3
+: 
+"<digiǩeeʹrj>"
+	"digiǩeeʹrj" ? @X #5->0
+: 
+"<saani>"
+	"saan" N Pl Gen @>N #6->7
+: 
+"<lookkjen>"
+	"lookki" N NomAg Ess @<SPRED #7->3
+"<.>"
+	"." CLB #8->3
+: 
+"<Digiǩeeʹrjest>"
+	"Digiǩeeʹrjest" ? @X #1->0
+: 
+"<lie>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #2->0
+: 
+"<õnnum>"
+	"ââʹnned" V TV Pass PrfPrc @X #3->0
+: 
+"<alggǩeeʹrj>"
+	"ǩeʹrjj" N Pl Nom @<SUBJ #4->2
+		"algg" N Cmp/SgNom Cmp #4->2
+	"ǩeʹrjj" N Sg Acc @<OBJ #4->2
+		"algg" N Cmp/SgNom Cmp #4->2
+	"ǩeʹrjj" N Sg Gen @<ADVL #4->2
+		"algg" N Cmp/SgNom Cmp #4->2
+: 
+"<koov>"
+	"kooppâd" <mv> V Imprt Sg2 @FMV #5->2
+: 
+"<da>"
+	"da" CC @X #6->0
+: 
+"<teeʹkst>"
+	"teʹkstt" N Pl Nom @<SUBJ #7->5
+	"teʹkstt" N Sg Acc @<OBJ #7->5
+	"teʹkstt" N Sg Gen @<ADVL #7->5
+"<.>"
+	"." CLB #8->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Digiǩerjja>"
+	"Digiǩerjja" ? @X #1->0
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #2->0
+: 
+"<koovi>"
+	"kooppâd" <mv> V Ind Prt Sg3 @FMV #3->2
+: 
+"<da>"
+	"da" CC @X #4->0
+: 
+"<teeʹkst>"
+	"teʹkstt" N Pl Nom @<SUBJ #5->3
+	"teʹkstt" N Sg Acc @<OBJ #5->3
+	"teʹkstt" N Sg Gen @>N #5->3
+: 
+"<lââʹssen>"
+	"lââʹss" N Ess @<SPRED #6->3
+	"lââʹssen" Adv @ADVL> #6->3
+	"lââʹssen" Adp #6->3
+: 
+"<lââʹzztum>"
+	"lââʹzzted" V Pass PrfPrc @X #7->0
+: 
+"<jiõnn>"
+	"jiõnn" N Sg Nom @<SUBJ #8->3
+"<.>"
+	"." CLB #9->2
+: 
+"<Ååʹn>"
+	"ååʹn" Adv Sem/Time Sem/Time @ADVL> #1->2
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #2->0
+: 
+"<vueiʹttemvuõtt>"
+	"vueiʹttemvuõtt" N Sg Nom @<SUBJ #3->2
+: 
+"<mättʼtõõllâd>"
+	"mättʼtõõllâd" V Inf @X #4->0
+: 
+"<še>"
+	"še" Pcle @PCLE #5->4
+: 
+"<saani>"
+	"saan" N Pl Gen @>N #6->7
+: 
+"<jiõnnummuž>"
+	"jiõnnummuš" N Pl Nom @<SUBJ #7->2
+	"jiõnnummuš" N Sg Acc @<OBJ #7->2
+"<.>"
+	"." CLB #8->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Digiǩeeʹrj>"
+	"Digiǩeeʹrj" ? @X #1->0
+: 
+"<teeknlaž>"
+	"teeknlaž" A Attr @>N #2->3
+: 
+"<tuejast>"
+	"tuejj" N Sg Loc @ADVL> #3->7
+: 
+"<da>"
+	"da" CC @X #4->0
+: 
+"<saani>"
+	"saan" N Pl Gen @ADVL> #5->7
+: 
+"<jiõntummžset>"
+	"jiõntummžset" ? @X #6->0
+: 
+"<vaʹsttee>"
+	"vaʹstteed" <mv> V Ind Prs Pl3 @FMV #7->0
+	"vaʹstteed" <mv> V Ind Prt Pl3 @FMV #7->0
+: 
+"<Anne>"
+	"Anne" N Prop Sem/Fem Sg Gen @>N #8->9
+: 
+"<Seipiharju>"
+	"Seipiharju" N Prop Sem/Sur Sg Gen @>N #9->12
+: 
+"<da>"
+	"da" CC @CNP #10->9
+: 
+"<Miina>"
+	"Miina" N Prop Sem/Fem Sg Gen @>N #11->9
+: 
+"<Seurujärvi>"
+	"Seurujärvi" N Prop Sem/Plc Sg Acc @<OBJ #12->7
+	"Seurujärvi" N Prop Sem/Plc Sg Gen @<ADVL #12->7
+	"Seurujärvi" N Prop Sem/Plc Sg Nom @<SUBJ #12->7
+	"Seurujärvi" N Prop Sem/Sur Sg Nom @<SUBJ #12->7
+	"Seurujärvi" N Prop Sem/Sur Sg Acc @<OBJ #12->7
+	"Seurujärvi" N Prop Sem/Sur Sg Gen @<ADVL #12->7
+"<.>"
+	"." CLB #13->7
+: 
+"<Jiõnnliânti>"
+	"jiõnnliântt" N Pl Gen @>N #1->2
+: 
+"<čuõppmest>"
+	"čuõppâd" Ex/V Der/NomAct N Sg Loc @ADVL> #2->6
+: 
+"<da>"
+	"da" CC @X #3->0
+: 
+"<jiõni>"
+	"jiõnn" N Pl Gen @>N #4->5
+: 
+"<ǩiõttʼtõõllmest>"
+	"ǩiõttʼtõõllâd" Ex/V Der/NomAct N Sg Loc @ADVL> #5->6
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #6->0
+: 
+"<vaʹsttääm>"
+	"vaʹstteed" V Act PrfPrc @X #7->0
+: 
+"<Janne>"
+	"Janne" N Prop Sem/Fem Sg Gen @>N #8->9
+	"Janne" N Prop Sem/Mal Sg Gen @>N #8->9
+: 
+"<Lappalainen>"
+	"Lappalainen" N Prop Sem/Sur Sg Nom @<SUBJ #9->6
+"<.>"
+	"." CLB #10->6
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #1->2
+: 
+"<mättmateriaal>"
+	"mättmateriaal" N Sg Nom @HNOUN #2->0
+	"mättmateriaal" N Pl Nom @HNOUN #2->0
+	"mättmateriaal" N Sg Acc @HNOUN #2->0
+: 
+"<¶>"
+	"¶" CLB #3->2
+:\n
+"<https://www.samediggi.fi/tuote/oopa-saanijd-jienakirje/>"
+	"https://www.samediggi.fi/tuote/oopa-saanijd-jienakirje/" URL #1->1
+: 
+"<¶>"
+	"¶" CLB #2->2
+:\n
+
+]]></dependency>
+  </body>
+</document>

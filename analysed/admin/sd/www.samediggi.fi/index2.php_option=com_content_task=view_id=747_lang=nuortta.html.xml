@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Samediggi - Saamelaiskäräjät - Sää´mte´&amp;#487;&amp;#487; da Enontekiö kå´dd ka´rttje tâ´vvsää´m &amp;#489;iõllpie´zz taarb</title><genre code="admin"/><author><unknown/></author><translator><unknown/></translator><translated_from xml:lang="fin"/><wordcount>39</wordcount><conversion_status type="standard"/><availability><free/></availability><submitter name="Børre Gaup" email="albbas@gmail.com"/><multilingual><language xml:lang="fin"/></multilingual><origFileName>http://www.samediggi.fi/index2.php?option=com_content&amp;task=view&amp;id=747&amp;lang=nuortta.html</origFileName><parallel_text xml:lang="fin" location="index2.php_option=com_content_task=view_id=747_lang=finnish.html"/><parallel_text xml:lang="sme" location="index2.php_option=com_content_task=view_id=747_lang=davvi.html"/><parallel_text xml:lang="smn" location="index2.php_option=com_content_task=view_id=747_lang=anaras.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->4
+: 
+"<da>"
+	"da" CC @CNP #2->1
+: 
+"<Enontekiö>"
+	"Enontekiö" N Prop Sem/Plc Err/Orth Sg Gen @>N #3->4
+	"Enontekiö" N Prop Sem/Sur Err/Orth Sg Gen @>N #3->4
+: 
+"<kåʹdd>"
+	"kåʹdd" N Sg Nom @SUBJ> #4->5
+	"kåʹdded" <mv> V Err/Orth Ind Prs Sg3 @FMV #4->5
+: 
+"<kaʹrttje>"
+	"kaʹrttjed" <mv> V Ind Prs Pl3 @FMV #5->0
+	"kaʹrttjed" <mv> V Ind Prt Pl3 @FMV #5->0
+: 
+"<tâʹvvsääʹm>"
+	"tâʹvvsääʹmm" N Sg Gen @>N #6->7
+	"tâʹvvsääʹmm" N Pl Nom @<SUBJ #6->7
+	"tâʹvvsääʹmm" N Sg Acc @<OBJ #6->7
+: 
+"<ǩiõllpieʹzz>"
+	"ǩiõllpieʹss" N Pl Nom @<SUBJ #7->5
+	"ǩiõllpieʹss" N Sg Acc @<OBJ #7->5
+	"ǩiõllpieʹss" N Sg Gen @>N #7->5
+: 
+"<taarb>"
+	"tarbb" N Pl Nom @<SUBJ #8->5
+	"tarbb" N Sg Acc @APP-N< #8->5
+	"tarbb" N Sg Gen @<ADVL #8->5
+: 
+"<¶>"
+	"¶" CLB #9->5
+:\n
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<ååcc>"
+	"ooccâd" <mv> V Ind Prs Sg3 @FMV #2->0
+: 
+"<mättʼtõs->"
+	"mättʼtõs" N Cmp/SgNom Cmp/SplitR @>N #3->10
+: 
+"<da>"
+	"da" CC @X #4->0
+: 
+"<kultturministeriast>"
+	"ministeria" N Sem/Org Sg Loc @<ADVL #5->2
+		"kulttuur" N Allegro Cmp/SgNom Cmp #5->2
+: 
+"<riikkveäʹǩǩvuõđ>"
+	"riikkveäʹǩǩvuõtt" N Pl Nom @<SUBJ #6->7
+	"riikkveäʹǩǩvuõtt" N Sg Acc @<OBJ #6->7
+	"riikkveäʹǩǩvuõtt" N Sg Gen @>N #6->7
+: 
+"<ǩiõllpieʹss->"
+	"ǩiõllpieʹss" N Cmp/SgNom Cmp/SplitR @>N #7->9
+: 
+"<da>"
+	"da" CC @X #8->0
+: 
+"<ǩiõll-laauǥsieʹbrrtuåimmjumuužž>"
+	"tåimmjummuš" N Err/Orth Sg Gen @>P #9->10
+		"seäʹbrr" N Cmp/SgNom Cmp #9->10
+			"laauǥ" N Cmp/SgNom Cmp #9->10
+				"ǩiõll" N Cmp/SgNom Cmp #9->10
+	"tåimmjummuš" N Err/Orth Sg Gen @>P #9->10
+		"seäʹbrr" N Cmp/SgNom Cmp #9->10
+			"laugg" N Cmp/SgGen Cmp #9->10
+				"ǩiõll" N Cmp/SgNom Cmp #9->10
+	"tåimmjummuš" N Err/Orth Sg Gen @>P #9->10
+		"seäʹbrr" N Cmp/SgNom Cmp #9->10
+			"ǩiõll-laauǥ" N Cmp/SgNom Cmp #9->10
+: 
+"<diõtt>"
+	"diõtt" Adp Po @<ADVL #10->2
+	"diõtt" Adp Po <gen> @<ADVL #10->2
+"<.>"
+	"." CLB #11->2
+: 
+"<Puõʹtti>"
+	"pueʹtted" V IV Act PrsPrc Pl Nom @SUBJ> #1->2
+	"pueʹtted" V IV Act PrsPrc Sg Nom @SUBJ> #1->2
+	"puõʹtti" N NomAg Sg Nom @SUBJ> #1->2
+	"puõʹtti" A Sg Acc @OBJ> #1->2
+	"puõʹtti" A Sg Nom @SUBJ> #1->2
+	"puõʹtti" N NomAg Pl Nom @SUBJ> #1->2
+	"puõʹtti" N NomAg Sg Acc @OBJ> #1->2
+	"puõʹtti" N NomAg Sg Gen @ADVL> #1->2
+: 
+"<tuåimmjem>"
+	"tåimmjed" <mv> V Err/Orth Ind Prt Sg1 @FMV #2->0
+: 
+"<plaanumuužž>"
+	"plaaneed" Ex/V Err/Orth Der/musj N Sg Gen @>P #3->4
+: 
+"<diõtt>"
+	"diõtt" Adp Po @<ADVL #4->2
+	"diõtt" Adp Po <gen> @<ADVL #4->2
+: 
+"<Sääʹmteʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Nom @<SUBJ #5->2
+: 
+"<da>"
+	"da" CC @CNP #6->5
+: 
+"<Enontekiö>"
+	"Enontekiö" N Prop Sem/Plc Err/Orth Sg Gen @>N #7->8
+	"Enontekiö" N Prop Sem/Sur Err/Orth Sg Gen @>N #7->8
+: 
+"<kåʹdd>"
+	"kåʹdd" N Sg Nom @<SUBJ #8->2
+	"kåʹdded" <mv> V Err/Orth Ind Prs Sg3 @FMV #8->2
+: 
+"<kaʹrttje>"
+	"kaʹrttjed" <mv> V Ind Prs Pl3 @FMV #9->2
+	"kaʹrttjed" <mv> V Ind Prt Pl3 @FMV #9->2
+:  
+"<sääʹmpiârrji>"
+	"sääʹmpiâr" N Pl Gen @<ADVL #10->9
+: 
+"<haaʹleemvuõđ>"
+	"haaʹleemvuõđ" ? @X #11->0
+: 
+"<vuässõõttâd>"
+	"vuässõõttâd" V Inf @X #12->0
+: 
+"<tâʹvvsääʹmǩiõllsaž>"
+	"tâʹvvsääʹmǩiõllsaž" A Attr @>N #13->14
+: 
+"<ǩiõllpieʹsstuåimmjumuʹšše>"
+	"tåimmjummuš" N Err/Orth Sg Ill @<ADVL #14->9
+		"peäʹss" N Cmp/SgGen Cmp #14->9
+			"ǩiõll" N Cmp/SgNom Cmp #14->9
+: 
+"<Enontekiö>"
+	"Enontekiö" N Prop Sem/Plc Err/Orth Sg Gen @>N #15->16
+	"Enontekiö" N Prop Sem/Sur Err/Orth Sg Gen @>N #15->16
+: 
+"<kååʹdd>"
+	"kåʹdd" N Sg Gen @>N #16->9
+	"kåʹdd" N Pl Nom @<SUBJ #16->9
+	"kåʹdd" N Sg Acc @<OBJ #16->9
+: 
+"<vuuʹdest>"
+	"vuʹvdd" N Sg Loc @<ADVL #17->9
+"<.>"
+	"." CLB #18->2
+:  
+"<Noor>"
+	"noorrâd" <mv> V TV Imprt Sg2 @FMV #1->0
+: 
+"<kõõjjõõzz>"
+	"kõõjjõs" N Pl Nom @<OBJ #2->1
+	"kõõjjõs" N Sg Acc @<OBJ #2->1
+	"kõõjjõs" N Sg Gen @<ADVL #2->1
+: 
+"<liâdǥ>"
+	"liâdǥ" ? @X #3->0
+: 
+"<¶>"
+	"¶" CLB #4->1
+:\n
+"<täʹst>"
+	"tät" Pron Dem Sg Loc @HNOUN #1->0
+	"täʹst" Adv @ADVL #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+
+]]></dependency></body></document>

@@ -1,0 +1,524 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title/><genre code="admin"/><author><unknown/></author><year>2024</year><wordcount>146</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>Sakael32024_julkinen_asialista.pdf</origFileName><metadata><uncomplete/></metadata><version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<SÁMEDIGGI>"
+	"SÁMEDIGGI" ? @X #1->0
+: 
+"<¶>"
+	"¶" CLB #2->2
+:\n
+"<ÄʹŠŠLISTT>"
+	"äʹššlistt" N Sg Nom @HNOUN #1->0
+: 
+"<3/2024>"
+	"3/2024" Num Arab Sem/ID @X #2->0
+:  
+"<¶>"
+	"¶" CLB #3->1
+:\n
+"<SÄÄʹMTEʹǦǦ>"
+	"sääʹmteʹǧǧ" N Sg Nom @HNOUN #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #1->2
+: 
+"<sååbbar>"
+	"sååbbar" N Sg Nom @SUBJ #2->0
+: 
+"<19.6.2024>"
+	"19.6.2024" Num Arab Sem/Date Sg Acc @HNOUN #3->2
+	"19.6.2024" Num Arab Sem/Date Sg Ill Attr @<ADVL #3->2
+	"19.6.2024" Num Arab Sem/Date Sg Loc Attr @>N #3->2
+	"19.6.2024" Num Arab Sem/Date Sg Nom @<SPRED #3->2
+: 
+"<seidd>"
+	"seidd" N Sg Nom @<SPRED #4->3
+: 
+"<4>"
+	"4" Num Arab Sem/Time-clock Sg Loc Attr @<ADVL #5->3
+	"4" Num Arab Sem/Time-clock Sg Acc @<OBJ #5->3
+	"4" Num Arab Sem/Time-clock Sg Ill Attr @>ADVL #5->3
+	"4" Num Arab Sg Acc @<OBJ #5->3
+	"4" Num Arab Sg Ill Attr @>ADVL #5->3
+	"4" Num Arab Sg Loc Attr @<ADVL #5->3
+: 
+"<(>"
+	"(" PUNCT LEFT #6->7
+"<23>"
+	"23" Num Arab Sem/Time-clock Sg Loc Attr @<ADVL #7->3
+	"23" Num Arab Sem/Time-clock Sg Acc @<OBJ #7->3
+	"23" Num Arab Sem/Time-clock Sg Ill Attr @<ADVL #7->3
+	"23" Num Arab Sg Acc @<OBJ #7->3
+	"23" Num Arab Sg Ill Attr @<ADVL #7->3
+	"23" Num Arab Sg Loc Attr @<ADVL #7->3
+"<)>"
+	")" PUNCT RIGHT #8->7
+:  
+"<¶>"
+	"¶" CLB #9->2
+:\n
+"<Halltõõzz>"
+	"halltõs" N Sg Gen @>N #1->2
+: 
+"<eʹtǩǩõs>"
+	"eʹtǩǩõs" N Sg Nom @HNOUN #2->0
+"<:>"
+	":" CLB #3->2
+:  
+"<¶>"
+	"¶" CLB #4->2
+:\n
+"<Priimât>"
+	"priimmâd" <mv> V Ind Prs Sg4 @FMV #1->0
+: 
+"<tän>"
+	"tät" Pron Dem Sg Acc @>N #2->3
+	"tät" Pron Dem Sg Gen @>N #2->3
+: 
+"<aaʹšši>"
+	"äʹšš" N Pl Gen @>N #3->4
+: 
+"<ǩiõttʼtõõllâmjäʹrjstõõzz>"
+	"ǩiõttʼtõõllâmjäʹrjstõs" N Pl Nom @<SUBJ #4->1
+	"ǩiõttʼtõõllâmjäʹrjstõs" N Sg Acc @<OBJ #4->1
+	"ǩiõttʼtõõllâmjäʹrjstõs" N Sg Gen @>N #4->1
+"<:>"
+	":" CLB #5->1
+: 
+"<5>"
+	"5" Num Arab Sg Nom @X #6->0
+	"5" Num Arab Sem/Time-clock Sg Nom @X #6->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #7->0
+: 
+"<Lappi>"
+	"Lappi" N Prop Sem/Plc Sg Gen @>N #8->9
+	"Lappi" N Prop Sem/Sur Sg Gen @>N #8->9
+: 
+"<pååʹles-stroiʹttel>"
+	"strooiʹtel" N Sg Gen @>N #9->10
+		"pååʹles" N Cmp/SgNom Cmp #9->10
+: 
+"<läittmõš>"
+	"läittmõš" N Sg Nom @X #10->0
+: 
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #11->12
+: 
+"<halltõõzz>"
+	"halltõs" N Sg Gen @>N #12->13
+: 
+"<tuʹmmstõõǥǥ>"
+	"tuʹmmstõk" N Sg Gen @>P #13->14
+: 
+"<ǩeeʹjjest>"
+	"ǩeeʹjjest" Adp Po @<ADVL #14->1
+: 
+"<(>"
+	"(" PUNCT LEFT #15->16
+: 
+"<peeitast>"
+	"peitt" N Sg Loc @<ADVL #16->1
+: 
+"<ââʹnnem>"
+	"ââʹnned" V TV Actio @X #17->0
+: 
+"<vuâllsaž>"
+	"vueʹll" Ex/N Der/sazh A Attr @X #18->0
+: 
+"<JulkL>"
+	"JulkL" ? @X #19->0
+: 
+"<24.1>"
+	"24.1." Num Arab Sem/Date Sg Acc CLBfinal @<ADVL #20->1
+	"24.1." Num Arab Sem/Date Sg Nom CLBfinal @>N #20->1
+: 
+"<§ 3>"
+	"§ 3" Num Arab Sem/ID @>N #21->22
+: 
+"<päiʹǩǩ>"
+	"päiʹǩǩ" N Sg Nom @X #22->0
+"<)>"
+	")" PUNCT RIGHT #23->24
+: 
+"<6>"
+	"6" Num Arab Sg Nom @X #24->0
+	"6" Num Arab Sem/Time-clock Sg Nom @X #24->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #25->0
+: 
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #26->29
+: 
+"<eeʹjj>"
+	"eeʹjj" Adv @ADVL> #27->27
+: 
+"<2023>"
+	"2023" Num Arab Sem/Year Sg Nom @>N #28->29
+	"2023" Num Arab Sem/Year Sg Acc @>N #28->29
+	"2023" Num Arab Sem/Year Sg Gen @>N #28->29
+	"2023" Num Arab Sem/Year Sg Ill Attr @>N #28->29
+	"2023" Num Arab Sem/Year Sg Loc Attr @>N #28->29
+	"2023" Num Arab Sg Nom @>N #28->29
+	"2023" Num Arab Sg Acc @>N #28->29
+	"2023" Num Arab Sg Gen @>N #28->29
+	"2023" Num Arab Sg Ill Attr @>N #28->29
+	"2023" Num Arab Sg Loc Attr @>N #28->29
+: 
+"<tiillčiõlǥtõõzz>"
+	"tiillčiõlǥtõs" N Sg Gen @>N #29->30
+: 
+"<priimmʼmõš>"
+	"priimmʼmõš" N Sg Nom @X #30->0
+: 
+"<7>"
+	"7" Num Arab Sg Nom @X #31->0
+	"7" Num Arab Sem/Time-clock Sg Nom @X #31->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #32->0
+: 
+"<Eʹtǩǩõs>"
+	"eʹtǩǩõs" N Sg Nom @X #33->0
+: 
+"<sääʹmǩiõllsai>"
+	"sääʹmǩiõllsaž" A Pl Gen @>N #34->35
+: 
+"<õuddpeâmmkääzzkõõzzi>"
+	"kääzzkõs" N Sem/Act Pl Gen @>N #35->36
+		"ouddpeâmm" N Cmp/SgGen Cmp #35->36
+: 
+"<staanmõʹšše>"
+	"staanmõš" N Sg Ill @ADVL> #36->36
+: 
+"<da>"
+	"da" CC @CNP #37->36
+: 
+"<õõudummša>"
+	"õõudummuš" N Sg Ill @ADVL> #38->36
+: 
+"<eeʹjj>"
+	"eeʹjj" Adv @ADVL> #39->39
+: 
+"<2026>"
+	"2026" Num Arab Sem/Year Sg Nom @>N #40->1
+	"2026" Num Arab Sem/Year Sg Acc @<ADVL #40->1
+	"2026" Num Arab Sg Nom @>N #40->1
+: 
+"<8>"
+	"8" Num Arab Sg Nom @X #41->0
+	"8" Num Arab Sem/Time-clock Sg Nom @X #41->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #42->0
+: 
+"<Eʹtǩǩõs>"
+	"eʹtǩǩõs" N Sg Nom @X #43->0
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #44->45
+: 
+"<mättmateriaal>"
+	"mättmateriaal" N Sg Gen @>N #45->47
+: 
+"<puuʹtʼtem>"
+	"puʹhtted" Ex/V Der/Car A Attr @>N #46->47
+: 
+"<vääras>"
+	"väärr" N Sg Gen PxSg3 @>N #47->51
+: 
+"<eeʹjj>"
+	"eeʹjj" Adv @ADVL> #48->48
+: 
+"<2026>"
+	"2026" Num Arab Sem/Year Sg Nom @>N #49->1
+	"2026" Num Arab Sem/Year Sg Acc @<ADVL #49->1
+	"2026" Num Arab Sg Nom @>N #49->1
+: 
+"<9>"
+	"9" Num Arab Sg Nom @X #50->0
+	"9" Num Arab Sem/Time-clock Sg Nom @X #50->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #51->0
+: 
+"<Eʹtǩǩõs>"
+	"eʹtǩǩõs" N Sg Nom @X #52->0
+: 
+"<sääʹm>"
+	"sääʹmm" N Sem/Hum Sg Gen @>N #53->54
+: 
+"<kulttuurmieʹrrteäʹǧǧen>"
+	"kulttuurmieʹrrteäʹǧǧ" N Sem/Money Ess @<SPRED #54->1
+: 
+"<eeʹjjest>"
+	"eeʹjjest" Adv @ADVL> #55->1
+	"eeʹǩǩ" N Sg Loc @<ADVL #55->1
+	"eʹčč" N Sem/Kin Sg Loc @<ADVL #55->1
+: 
+"<2026>"
+	"2026" Num Arab Sem/Year Sg Nom @>N #56->1
+	"2026" Num Arab Sem/Year Sg Acc @<ADVL #56->1
+	"2026" Num Arab Sg Nom @>N #56->1
+: 
+"<10>"
+	"10" Num Arab Sg Nom @X #57->0
+	"10" Num Arab Sem/Time-clock Sg Nom @X #57->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #58->0
+: 
+"<Eʹtǩǩõs>"
+	"eʹtǩǩõs" N Sg Nom @X #59->0
+: 
+"<sääʹm>"
+	"sääʹmm" N Sem/Hum Sg Gen @>N #60->61
+: 
+"<čeäppõõzz>"
+	"čeäppõs" N Sg Gen @>N #61->64
+: 
+"<da>"
+	"da" CC @CNP #62->61
+: 
+"<kulttuur>"
+	"kulttuur" N Sg Gen @>N #63->61
+: 
+"<õõudummša>"
+	"õõudummuš" N Sg Ill @ADVL> #64->64
+: 
+"<eeʹjjest>"
+	"eeʹjjest" Adv @ADVL> #65->1
+	"eeʹǩǩ" N Sg Loc @<ADVL #65->1
+	"eʹčč" N Sem/Kin Sg Loc @<ADVL #65->1
+: 
+"<2026>"
+	"2026" Num Arab Sem/Year Sg Nom @>N #66->1
+	"2026" Num Arab Sem/Year Sg Acc @<ADVL #66->1
+	"2026" Num Arab Sg Nom @>N #66->1
+: 
+"<11>"
+	"11" Num Arab Sg Nom @X #67->0
+	"11" Num Arab Sem/Time-clock Sg Nom @X #67->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #68->0
+: 
+"<Eʹtǩǩõs>"
+	"eʹtǩǩõs" N Sg Nom @X #69->0
+: 
+"<säʹmmlai>"
+	"säʹmmlaž" A Pl Gen @>N #70->73
+	"säʹmmlaž" N Sem/Hum Pl Gen @>N #70->73
+: 
+"<sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #71->74
+: 
+"<da>"
+	"da" CC @X #72->0
+: 
+"<tiõrvâsvuõttkääzzkõõzzi>"
+	"tiõrvâsvuõttkääzzkõs" N Sem/Act Pl Gen @>N #73->74
+: 
+"<staanmõʹšše>"
+	"staanmõš" N Sg Ill @ADVL> #74->74
+: 
+"<da>"
+	"da" CC @CNP #75->74
+: 
+"<õõudummša>"
+	"õõudummuš" N Sg Ill @ADVL> #76->74
+: 
+"<eeʹjj>"
+	"eeʹjj" Adv @ADVL> #77->77
+: 
+"<2026>"
+	"2026" Num Arab Sem/Year Sg Nom @>N #78->1
+	"2026" Num Arab Sem/Year Sg Acc @<ADVL #78->1
+	"2026" Num Arab Sg Nom @>N #78->1
+: 
+"<12>"
+	"12" Num Arab Sg Nom @X #79->0
+	"12" Num Arab Sem/Time-clock Sg Nom @X #79->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #80->0
+: 
+"<Janne>"
+	"Janne" N Prop Sem/Fem Sg Gen @>N #81->82
+	"Janne" N Prop Sem/Mal Sg Gen @>N #81->82
+: 
+"<Hirvasvuopio>"
+	"Hirvasvuopio" N Prop Sem/Plc Sg Gen @>N #82->83
+: 
+"<alttõs>"
+	"alttõs" N Sg Nom @X #83->0
+: 
+"<tuâjjriâššmõõžž>"
+	"tuâjjriâššmõš" N Sg Gen @>Num #84->85
+	"tuâjjriâššmõš" N Pl Nom @X #84->85
+	"tuâjjriâššmõš" N Sg Acc @X #84->85
+: 
+"<55>"
+	"55" Num Arab Sg Nom @X #85->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #86->0
+: 
+"<muʹttma>"
+	"muʹtted" Ex/V TV Der/NomAct N Sg Ill @ADVL> #87->87
+: 
+"<13>"
+	"13" Num Arab Sg Nom @X #88->0
+	"13" Num Arab Sem/Time-clock Sg Nom @X #88->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #89->0
+: 
+"<Inka>"
+	"Inka" N Prop Sem/Fem Sg Gen @>N #90->91
+: 
+"<Musta>"
+	"Musta" N Prop Sem/Sur Sg Gen @>N #91->92
+: 
+"<alttõs>"
+	"alttõs" N Sg Nom @X #92->0
+: 
+"<tuâjjriâššmõõžž>"
+	"tuâjjriâššmõš" N Sg Gen @>Num #93->94
+	"tuâjjriâššmõš" N Pl Nom @X #93->94
+	"tuâjjriâššmõš" N Sg Acc @X #93->94
+: 
+"<92>"
+	"92" Num Arab Sg Nom @X #94->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #95->0
+: 
+"<muʹttma>"
+	"muʹtted" Ex/V TV Der/NomAct N Sg Ill @<ADVL #96->1
+: 
+"<14>"
+	"14" Num Arab Sg Nom @X #97->0
+	"14" Num Arab Sem/Time-clock Sg Nom @X #97->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #98->0
+: 
+"<Roni>"
+	"Roni" N Prop Sem/Ani Sg Gen @>N #99->100
+: 
+"<Virtanen>"
+	"Virtanen" N Prop Sem/Sur Sg Nom @X #100->0
+: 
+"<čåuddõõttâmiʹlmmtõs>"
+	"iʹlmmtõs" N Sg Nom @X #101->0
+		"čåuddõõttâd" Ex/V IV Der/NomAct N Cmp/SgGen Cmp #101->0
+	"iʹlmmtõs" N Sg Nom @X #101->0
+		"čåuʹdded" Ex/V Der/oottyd Ex/V IV Der/NomAct N Cmp/SgGen Cmp #101->0
+: 
+"<nuõrisuåvtõõzz>"
+	"nuõrisuåvtõs" N Sg Gen @>N #102->103
+: 
+"<vuäzzlažvuõđâst>"
+	"vuäzzlažvuõtt" N Sg Loc @<ADVL #103->1
+: 
+"<da>"
+	"da" CC @X #104->0
+: 
+"<ođđ>"
+	"oođâs" A Attr @>A #105->106
+: 
+"<vuäzzla>"
+	"vueʹss" Hom2 Ex/N Der/lazh A Sg Gen @>N #106->107
+	"vuäzzlaž" N Sg Gen @>N #106->107
+	"vuäzzlaž" A Sg Gen @>N #106->107
+: 
+"<nõõmummuš>"
+	"nõõmummuš" N Sg Nom @X #107->0
+: 
+"<15>"
+	"15" Num Arab Sg Nom @X #108->0
+	"15" Num Arab Sem/Time-clock Sg Nom @X #108->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #109->0
+: 
+"<Säʹmmlai>"
+	"säʹmmlaž" A Pl Gen @>N #110->111
+	"säʹmmlaž" N Sem/Hum Pl Gen @>N #110->111
+: 
+"<äimmõsmuttsa>"
+	"äimmõsmuuttâs" N Sg Ill @<ADVL #111->1
+: 
+"<šiõttlõõvvmõš>"
+	"šiõttlõõvvmõš" N Sg Nom @X #112->0
+: 
+"<16>"
+	"16" Num Arab Sg Nom @X #113->0
+	"16" Num Arab Sem/Time-clock Sg Nom @X #113->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #114->0
+: 
+"<Jeeʹres>"
+	"jieʹres" A Sg Nom @X #115->0
+: 
+"<õuʹdde>"
+	"õuʹdde" Adv @<ADVL #116->1
+: 
+"<pueʹtti>"
+	"pueʹtti" A Attr @>N #117->118
+: 
+"<ääʹšš>"
+	"äʹšš" N Pl Nom @X #118->119
+	"äʹšš" N Sg Acc @X #118->119
+	"äʹšš" N Sg Gen @>Num #118->119
+: 
+"<17>"
+	"17" Num Arab Sg Nom @X #119->0
+	"17" Num Arab Sem/Time-clock Sg Nom @X #119->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #120->0
+: 
+"<Iʹlmmtõsääʹšš>"
+	"äʹšš" N Pl Nom @X #121->122
+		"iʹlmmtõs" N Cmp/SgNom Cmp #121->122
+	"äʹšš" N Sg Acc @X #121->122
+		"iʹlmmtõs" N Cmp/SgNom Cmp #121->122
+	"äʹšš" N Sg Gen @>Num #121->122
+		"iʹlmmtõs" N Cmp/SgNom Cmp #121->122
+: 
+"<18>"
+	"18" Num Arab Sg Nom @X #122->0
+	"18" Num Arab Sem/Time-clock Sg Nom @X #122->0
+: 
+"<§>"
+	"§" N Symbol Sg Nom @X #123->0
+: 
+"<Såbbar>"
+	"sååbbar" N Sg Gen @>N #124->125
+: 
+"<jõskkmõš>"
+	"jõskkmõš" N Sg Nom @X #125->0
+:  
+"<¶>"
+	"¶" CLB #126->1
+:\n
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #1->2
+: 
+"<tuʹmmstõk>"
+	"tuʹmmstõk" N Sg Nom @HNOUN #2->0
+"<:>"
+	":" CLB #3->2
+:  
+"<¶>"
+	"¶" CLB #4->2
+:\n
+
+]]></dependency></body></document>

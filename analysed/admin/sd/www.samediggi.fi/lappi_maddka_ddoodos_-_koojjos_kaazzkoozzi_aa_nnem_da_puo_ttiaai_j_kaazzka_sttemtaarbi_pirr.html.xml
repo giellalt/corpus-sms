@@ -1,0 +1,355 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id">
+  <header>
+    <title>Lappi mäddkåʹddoođõs - Kõõjjõs kääzzkõõzzi ââʹnnem da puõʹttiääiʹj kääzzkâʹsttemtaarbi pirr - Samediggi</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="fin"/>
+    <year>2018</year>
+    <wordcount>78</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samediggi.fi/2018/06/04/lappi-maddkaddoodos-koojjos/?lang=nuo</origFileName>
+    <parallel_text xml:lang="fin" location="lappi_maakuntauudistus_-_kysely_palvelujen_kaytosta_ja_tulevaisuuden_palvelutarpeista.html"/>
+    <parallel_text xml:lang="sme" location="lappi_eanagoddeodastus_-_jearahallan_balvalusaid_geavaheamis_ja_boahttevuoda_balvalandarbbuin.html"/>
+    <parallel_text xml:lang="smn" location="lappi_eennamkoddeudasmittem_-_koijadallam_palvalusai_kevttimist_ja_puatteevuoda_palvalustaarbuin.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <dependency><![CDATA["<Lappi>"
+	"Lappi" N Prop Sem/Plc Sg Gen @>N #1->2
+	"Lappi" N Prop Sem/Sur Sg Gen @>N #1->2
+: 
+"<mäddkåʹddoođõs>"
+	"oođõs" N Sg Nom @SUBJ #2->0
+		"kåʹdd" N Cmp/SgNom Cmp #2->0
+			"mädd" N Cmp/SgNom Cmp #2->0
+	"oođõs" N Sg Nom @SUBJ #2->0
+		"mäddkåʹdd" N Cmp/SgNom Cmp #2->0
+: 
+"<–>"
+	"–" PUNCT MIDDLE #3->4
+: 
+"<Kõõjjõs>"
+	"kõõjjõs" N Sg Nom @<SPRED #4->2
+: 
+"<kääzzkõõzzi>"
+	"kääzzkõs" N Sem/Act Pl Gen @X #5->0
+: 
+"<ââʹnnem>"
+	"ââʹnned" V TV Actio @X #6->0
+: 
+"<da>"
+	"da" CC @X #7->0
+: 
+"<puõʹttiääiʹj>"
+	"puõʹttiäiʹǧǧ" N Sg Gen @>N #8->9
+: 
+"<kääzzkâʹsttemtaarbi>"
+	"tarbb" N Pl Gen @>P #9->10
+		"kääzzkâʹstted" Ex/V Der/NomAct N Cmp/SgGen Cmp #9->10
+: 
+"<pirr>"
+	"pirr" Adp Po @ADVL #10->7
+: 
+"<¶>"
+	"¶" CLB #11->2
+:\n
+"<Kõõjjõõzz>"
+	"kõõjjõs" N Sg Gen @>N #1->2
+: 
+"<mieʹrren>"
+	"mieʹrr" N Ess @ADVL> #2->3
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #3->0
+: 
+"<noorrâd>"
+	"noorrâd" V TV Inf @X #4->0
+: 
+"<teâđ>"
+	"teâtt" N Pl Nom @<SUBJ #5->6
+	"teâtt" N Sg Acc @<OBJ #5->6
+	"teâtt" N Sg Gen @>N #5->6
+: 
+"<Lappi>"
+	"Lappi" N Prop Sem/Plc Sg Gen @>N #6->7
+	"Lappi" N Prop Sem/Sur Sg Gen @>N #6->7
+: 
+"<mäddkååʹdd>"
+	"mäddkåʹdd" N Sg Gen @>N #7->3
+	"mäddkåʹdd" N Pl Nom @<SUBJ #7->3
+	"mäddkåʹdd" N Sg Acc @<OBJ #7->3
+: 
+"<jeälsteeʹjin>"
+	"jälsted" Ex/V Der/NomAg N NomAg Pl Loc @<ADVL #8->3
+	"jälsted" Ex/V Der/NomAg N NomAg Sg Com @ADVL> #8->3
+: 
+"<ǩiõččlâsttmõõžži>"
+	"ǩiõččlâsttmõš" N Pl Gen @>P #9->10
+: 
+"<pirr>"
+	"pirr" Adp Po @<ADVL #10->3
+: 
+"<sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #11->19
+: 
+"<da>"
+	"da" CC @X #12->0
+: 
+"<tiõrvâsvuõttkääzzkõõzzin>"
+	"tiõrvâsvuõttkääzzkõs" N Sem/Act Pl Loc @<ADVL #13->3
+	"tiõrvâsvuõttkääzzkõs" N Sem/Act Sg Com @>ADVL #13->3
+"<,>"
+	"," CLB #14->13
+: 
+"<kääzzkâʹsttemtaarbin>"
+	"tarbb" N Pl Loc @<ADVL #15->3
+		"kääzzkâʹstted" Ex/V Der/NomAct N Cmp/SgGen Cmp #15->3
+	"tarbb" N Sg Com @>ADVL #15->3
+		"kääzzkâʹstted" Ex/V Der/NomAct N Cmp/SgGen Cmp #15->3
+: 
+"<da>"
+	"da" CC @CNP #16->15
+: 
+"<vuârddmõõžžin>"
+	"vuârddmõš" N Pl Loc @<ADVL #17->3
+	"vuârddmõš" N Sg Com @ADVL> #17->3
+: 
+"<mäddkååʹdd>"
+	"mäddkåʹdd" N Sg Gen @>N #18->19
+	"mäddkåʹdd" N Pl Nom @<SUBJ #18->19
+	"mäddkåʹdd" N Sg Acc @<OBJ #18->19
+: 
+"<kääzzkâʹsttemlåppõõzz>"
+	"låppõs" N Pl Nom @<SUBJ #19->3
+		"kääzzkâʹstted" Ex/V Der/NomAct N Cmp/SgGen Cmp #19->3
+	"låppõs" N Sg Acc @<OBJ #19->3
+		"kääzzkâʹstted" Ex/V Der/NomAct N Cmp/SgGen Cmp #19->3
+	"låppõs" N Sg Gen @>N #19->3
+		"kääzzkâʹstted" Ex/V Der/NomAct N Cmp/SgGen Cmp #19->3
+: 
+"<raajjâm>"
+	"raajjâd" Ex/V TV Der/NomAct N Sg Gen @>P #20->21
+: 
+"<diõtt>"
+	"diõtt" Adp Po @<ADVL #21->3
+	"diõtt" Adp Po <gen> @<ADVL #21->3
+"<.>"
+	"." CLB #22->3
+: 
+"<Teâđaid>"
+	"teâtt" N Pl Acc @OBJ> #1->2
+	"teâtt" N Pl Ill @ADVL> #1->2
+: 
+"<ǩiõttʼtõõlât>"
+	"ǩiõttʼtõõllâd" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<peittsest>"
+	"peeitas" N Sg Loc @<ADVL #3->2
+: 
+"<da>"
+	"da" CC @CVP #4->2
+: 
+"<kõõjjõʹsse>"
+	"kõõjjõs" N Sg Ill @ADVL> #5->6
+: 
+"<vaʹstteet>"
+	"vaʹstteed" <mv> V Ind Prs Sg4 @FMV #6->2
+: 
+"<nõõmteʹmen>"
+	"nõõmted" V Actio Ess @X #7->0
+"<,>"
+	"," CLB #8->13
+: 
+"<nuʹtt>"
+	"nuʹtt" Adv @<ADVL #9->6
+	"nuʹtt" Pcle @PCLE #9->6
+: 
+"<što>"
+	"što" CS @CVP #10->13
+: 
+"<vaʹstteei>"
+	"vaʹstteei" A Attr @>N #11->12
+: 
+"<persoon>"
+	"person" N Pl Nom @SUBJ> #12->13
+	"person" N Sg Acc @OBJ> #12->13
+	"person" N Sg Gen @ADVL> #12->13
+: 
+"<ij>"
+	"ij" <aux> V Neg Ind Sg3 @FS-<ADVL #13->6
+: 
+"<puäʹđ>"
+	"pueʹtted" <mv> V IV Ind Prs ConNeg @FMV #14->2
+: 
+"<õlmmsa>"
+	"õlmmsa" Adv @<ADVL #15->14
+"<.>"
+	"." CLB #16->2
+: 
+"<Kõõjjõõzzâst>"
+	"kõõjjõs" N Sg Loc @ADVL> #1->2
+: 
+"<lie>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #2->0
+: 
+"<10>"
+	"10" A Arab Ord Attr CLBfinal @>N #3->4
+: 
+"<kõõččmõššâd>"
+	"kõõččmõš" N Sg Nom PxPl2 @<SUBJ #4->2
+: 
+"<da>"
+	"da" CC @CVP #5->2
+: 
+"<tõõzz>"
+	"tõt" Pron Dem Sg Ill @ADVL> #6->8
+: 
+"<vaʹsttummuš>"
+	"vaʹstteed" Ex/V Der/musj N Sg Nom @<SUBJ #7->2
+: 
+"<veekk>"
+	"viikkâd" <mv> V TV Ind Prs Sg3 @FMV #8->2
+: 
+"<nuʹtt>"
+	"nuʹtt" Adv @<ADVL #9->8
+	"nuʹtt" Pcle @PCLE #9->8
+: 
+"<15>"
+	"15" A Arab Ord Attr CLBfinal @>N #10->11
+: 
+"<minuuttâd>"
+	"minutt" N Pl Nom PxPl2 @<SUBJ #11->8
+	"minutt" N Sg Acc PxPl2 @<OBJ #11->8
+	"minutt" N Sg Gen PxPl2 @<ADVL #11->8
+"<.>"
+	"." CLB #12->2
+: 
+"<Puåđõõzzi>"
+	"puåđõs" N Pl Gen @>P #1->2
+: 
+"<pirr>"
+	"pirr" Adp Po @ADVL> #2->3
+: 
+"<mušttlep>"
+	"mušttled" <mv> V TV Ind Prs Pl1 @FMV #3->0
+: 
+"<eeʹjj>"
+	"eeʹǩǩ" N Sg Gen @<ADVL #4->3
+	"eeʹjj" Adv @<ADVL #4->3
+	"eeʹǩǩ" N Pl Nom @<SUBJ #4->3
+	"eeʹǩǩ" N Sg Acc @<OBJ #4->3
+	"eʹčč" N Sem/Kin Sg Gen @<ADVL #4->3
+	"eʹčč" N Sem/Kin Pl Nom @<SUBJ #4->3
+	"eʹčč" N Sem/Kin Sg Acc @<OBJ #4->3
+: 
+"<2018>"
+	"2018" Num Arab Sem/Year Sg Nom @<ADVL #5->3
+	"2018" Num Arab Sem/ID @<ADVL #5->3
+	"2018" Num Arab Sem/Year Sg Acc @<OBJ #5->3
+	"2018" Num Arab Sem/Year Sg Gen @<ADVL #5->3
+	"2018" Num Arab Sem/Year Sg Ill Attr @>N #5->3
+	"2018" Num Arab Sem/Year Sg Loc Attr @>N #5->3
+	"2018" Num Arab Sg Nom @<ADVL #5->3
+	"2018" Num Arab Sg Acc @<OBJ #5->3
+	"2018" Num Arab Sg Gen @>N #5->3
+	"2018" Num Arab Sg Ill Attr @>N #5->3
+	"2018" Num Arab Sg Loc Attr @>N #5->3
+: 
+"<äiʹǧǧen>"
+	"äiʹǧǧ" N Ess @<OPRED #6->5
+"<.>"
+	"." CLB #7->3
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Späʹssbõõššâp>"
+	"späʹssbõõššâd" <mv> V Imprt Pl1 @FMV #1->0
+	"späʹssbõõššâd" <mv> V Ind Prs Pl1 @FMV #1->0
+: 
+"<čuuʹt>"
+	"čuuʹt" Adv @<ADVL #2->1
+: 
+"<juʹn>"
+	"juʹn" Adv Sem/Time Sem/Time @<ADVL #3->1
+: 
+"<ooudǩiõʹtte>"
+	"ooudǩiõʹtte" Adv @<ADVL #4->1
+: 
+"<tuu>"
+	"ton" Pron Pers Sg2 Acc @<OBJ #5->1
+	"ton" Pron Pers Sg2 Gen @>N #5->1
+: 
+"<vaʹsttõõzz>"
+	"vaʹsttõs" N Pl Nom @<SUBJ #6->1
+	"vaʹsttõs" N Sg Acc @<OBJ #6->1
+	"vaʹsttõs" N Sg Gen @<ADVL #6->1
+: 
+"<ooudâst>"
+	"ooudâst" Adp #7->7
+"<.>"
+	"." CLB #8->1
+: 
+"<Lappi>"
+	"Lappi" N Prop Sem/Plc Sg Gen @>N #1->2
+	"Lappi" N Prop Sem/Sur Sg Gen @>N #1->2
+: 
+"<mäddkååʹdd>"
+	"mäddkåʹdd" N Sg Gen @>N #2->3
+	"mäddkåʹdd" N Pl Nom @SUBJ #2->3
+	"mäddkåʹdd" N Sg Acc @OBJ> #2->3
+: 
+"<vuässadvuõtttuâjj-joukk>"
+	"joukk" N Sg Nom @HNOUN #3->0
+		"tuâjj" N Cmp/SgNom Cmp #3->0
+			"vuässadvuõtt" N Cmp/SgNom Err/Orth-missing-hyph Cmp #3->0
+	"tuâjj-joukk" N Sg Nom @HNOUN #3->0
+		"vuässadvuõtt" N Cmp/SgNom Err/Orth-missing-hyph Cmp #3->0
+"<.>"
+	"." CLB #4->3
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Kõõjjõs>"
+	"kõõjjõs" N Sg Nom @X #1->0
+: 
+"<kääzzkõõzzi>"
+	"kääzzkõs" N Sem/Act Pl Gen @X #2->0
+: 
+"<ââʹnnem>"
+	"ââʹnned" V TV Actio @X #3->0
+: 
+"<da>"
+	"da" CC @X #4->0
+: 
+"<puõʹttiääiʹj>"
+	"puõʹttiäiʹǧǧ" N Sg Gen @>N #5->6
+: 
+"<kääzzkâʹsttemtaarbi>"
+	"tarbb" N Pl Gen @>P #6->7
+		"kääzzkâʹstted" Ex/V Der/NomAct N Cmp/SgGen Cmp #6->7
+: 
+"<pirr>"
+	"pirr" Adp Po @ADVL #7->4
+: 
+"<¶>"
+	"¶" CLB #8->7
+:\n
+
+]]></dependency>
+  </body>
+</document>

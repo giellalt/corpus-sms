@@ -1,0 +1,264 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Aanarnorldõk - INARI.FI</title><genre code="admin"/><author><unknown/></author><wordcount>68</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.inari.fi/se/se/kaazzkoozz/cuovtemkaazzkoozz/kerjjporttkaazzkoozz/aanarnorldok.html</origFileName><parallel_text xml:lang="sme" location="anarcoakkaldat.html"/><parallel_text xml:lang="smn" location="aanaarcuagaldah.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Aanarnorldõk>"
+	"norldõk" N Sg Nom @SUBJ> #1->2
+		"Aanar" N Prop Sem/Plc Cmp/SgGen Cmp #1->2
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #2->0
+: 
+"<Aanar>"
+	"Aanar" N Prop Sem/Plc Sg Gen @>N #3->4
+: 
+"<kåʹddǩeʹrjjpõõrt>"
+	"kåʹddǩeʹrjjpõrtt" N Pl Nom @<SUBJ #4->2
+	"kåʹddǩeʹrjjpõrtt" N Sg Acc @<OBJ #4->2
+	"kåʹddǩeʹrjjpõrtt" N Sg Gen @>N #4->2
+: 
+"<dommvuʹvddnorldõk>"
+	"norldõk" N Sg Nom @<SUBJ #5->2
+		"vuʹvdd" N Cmp/SgNom Cmp #5->2
+			"domm" N Cmp/SgNom Cmp #5->2
+	"norldõk" N Sg Nom @<SUBJ #5->2
+		"dommvuʹvdd" N Cmp/SgNom Cmp #5->2
+"<,>"
+	"," CLB #6->7
+: 
+"<koozz>"
+	"koossâd" <mv> V Imprt Sg2 @FMV #7->2
+	"kååʹtt" Pron Rel Sg Ill @ADVL> #7->2
+	"koozz" Adv Sem/Plc Ill @ADVL> #7->2
+	"koss" Hom2 N Pl Nom @<SUBJ #7->2
+	"koss" Hom2 N Sg Acc @OBJ> #7->2
+	"koss" Hom2 N Sg Gen @<ADVL #7->2
+: 
+"<ǩiõččlõõđât>"
+	"ǩiõččlõõttâd" <mv> V Ind Prs Sg4 @FS-N< #8->5
+: 
+"<noorrâd>"
+	"noorrâd" V TV Inf @X #9->0
+: 
+"<pukk>"
+	"pukk" ? @X #10->0
+: 
+"<päiʹǩǩkååʹdd>"
+	"kåʹdd" N Pl Nom @<SUBJ #11->8
+		"päiʹǩǩ" N Cmp/SgNom Err/Orth-missing-hyph Cmp #11->8
+	"kåʹdd" N Sg Acc @<OBJ #11->8
+		"päiʹǩǩ" N Cmp/SgNom Err/Orth-missing-hyph Cmp #11->8
+	"kåʹdd" N Sg Gen @>N #11->8
+		"päiʹǩǩ" N Cmp/SgNom Err/Orth-missing-hyph Cmp #11->8
+: 
+"<da>"
+	"da" CC @X #12->0
+: 
+"<tuâlʼjõž>"
+	"tuâlʼjõž" A Attr @>N #13->14
+: 
+"<Peäccam>"
+	"Peäccam" N Prop Sem/Plc Sem/Plc Sg Gen @>N #14->16
+: 
+"<kuõskki>"
+	"kuõskki" A Attr @>N #15->16
+: 
+"<čõõđtumuužžid>"
+	"čõõđtummuš" N Err/Orth Pl Acc @<OBJ #16->8
+	"čõõđtummuš" N Err/Orth Pl Ill @<ADVL #16->8
+"<,>"
+	"," CLB #17->18
+: 
+"<di>"
+	"di" CC @X #18->0
+: 
+"<dommvuʹvddpersooni>"
+	"person" N Pl Gen @>N #19->20
+		"vuʹvdd" N Cmp/SgNom Cmp #19->20
+			"domm" N Cmp/SgNom Cmp #19->20
+	"person" N Pl Gen @>N #19->20
+		"dommvuʹvdd" N Cmp/SgNom Cmp #19->20
+: 
+"<puuʹttõs>"
+	"õs" N Sg Nom @<SUBJ #20->8
+		"puuʹtt" N Cmp/SgNom Cmp #20->8
+"<.>"
+	"." CLB #21->2
+: 
+"<Norldõõǥǥ>"
+	"norldõk" N Pl Nom @SUBJ> #1->2
+: 
+"<liâ>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #2->0
+: 
+"<alggum>"
+	"äʹlǧǧed" V Pass PrfPrc @X #3->0
+: 
+"<noorrâd>"
+	"noorrâd" V TV Inf @X #4->0
+: 
+"<1970->"
+	"1970" Num Arab Sem/Year Cmp/SplitR @>N #5->6
+: 
+"<lååǥǥast>"
+	"lååkk" N Sg Loc @<ADVL #6->2
+	"lååǥǥaž" N Dimin Sg Loc @<ADVL #6->2
+"<.>"
+	"." CLB #7->2
+:  
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Ǩeeʹrji>"
+	"ǩeʹrjj" N Pl Gen @>N #1->2
+: 
+"<lââʹssen>"
+	"lââʹss" N Ess @ADVL> #2->4
+	"lââʹssen" Adv @ADVL> #2->4
+	"lââʹssen" Adp #2->4
+: 
+"<norldõʹǩǩe>"
+	"norldõk" N Sg Ill @ADVL> #3->4
+: 
+"<ruõkkât>"
+	"ruõkkâd" <mv> V Ind Prs Sg4 @FMV #4->0
+: 
+"<mäddkaaʹrtid>"
+	"mäddkartt" Ex/N Der/Dimin N Pl Acc @<OBJ #5->4
+	"mäddkartt" Ex/N Der/Dimin N Pl Ill @>ADVL #5->4
+"<,>"
+	"," CLB #6->5
+: 
+"<jiõnnouddsid>"
+	"ooudas" N Pl Acc @<OBJ #7->5
+		"jiõnn" N Cmp/SgNom Cmp #7->5
+	"ooudas" N Pl Ill @ADVL> #7->5
+		"jiõnn" N Cmp/SgNom Cmp #7->5
+"<,>"
+	"," CLB #8->7
+: 
+"<snimldõkruõklmid>"
+	"snimldõkruõklmid" ? @X #9->0
+"<,>"
+	"," CLB #10->9
+: 
+"<gaʹzeâtid>"
+	"gaʹzeâtid" ? @X #11->0
+: 
+"<di>"
+	"di" CC @CVP #12->4
+: 
+"<tiõttum>"
+	"tieʹtted" V Pass PrfPrc @X #13->0
+: 
+"<teemmvuuʹdid>"
+	"teemmvuuʹdid" ? @X #14->0
+: 
+"<ǩiõttʼtõõlli>"
+	"ǩiõttʼtõõlli" N NomAg Pl Nom @<SUBJ #15->4
+	"ǩiõttʼtõõlli" N NomAg Sg Nom @<SUBJ #15->4
+	"ǩiõttʼtõõllâd" <mv> V Err/Orth-should-be-grade-minus1 Ind Prt Sg3 @FMV #15->4
+: 
+"<artikkelid>"
+	"artikkelid" ? @X #16->0
+"<.>"
+	"." CLB #17->4
+: 
+"<Teemmvuuʹd>"
+	"vuʹvdd" N Pl Nom @SUBJ> #1->2
+		"Temm" N Prop Sem/Mal Sem/Mal Cmp/SgGen Cmp #1->2
+: 
+"<liâ>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #2->0
+: 
+"<nuʹtt>"
+	"nuʹtt" Adv @<ADVL #3->2
+	"nuʹtt" Pcle @PCLE #3->2
+: 
+"<40.>"
+	"40" A Arab Ord Attr @<ADVL #4->2
+: 
+"<¶>"
+	"¶" CLB #5->2
+:\n
+"<Dommvuʹvddnorldõõǥǥâst>"
+	"norldõk" N Sg Loc @ADVL> #1->2
+		"vuʹvdd" N Cmp/SgNom Cmp #1->2
+			"domm" N Cmp/SgNom Cmp #1->2
+	"norldõk" N Sg Loc @ADVL> #1->2
+		"dommvuʹvdd" N Cmp/SgNom Cmp #1->2
+: 
+"<liâ>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #2->0
+: 
+"<nuʹtt>"
+	"nuʹtt" Adv @<ADVL #3->2
+	"nuʹtt" Pcle @PCLE #3->2
+: 
+"<1 100>"
+	"1 100" Num Arab Sg Acc @<ADVL #4->2
+	"1 100" Num Arab Sg Gen @>N #4->2
+	"1 100" Num Arab Sg Ill Attr @>N #4->2
+	"1 100" Num Arab Sg Loc Attr @>N #4->2
+	"1 100" Num Arab Sg Nom @<SUBJ #4->2
+: 
+"<nõmmõssâd>"
+	"nõmmõs" N Sg Nom PxPl2 @<SUBJ #5->2
+: 
+"<di>"
+	"di" CC @X #6->0
+: 
+"<gaʹzeâdčuõppõsnorldõk>"
+	"gaʹzeâdčuõppõsnorldõk" ? @X #7->0
+"<.>"
+	"." CLB #8->2
+: 
+"<Norldõõǥǥâst>"
+	"norldõk" N Sg Loc @ADVL> #1->2
+: 
+"<liâ>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #2->0
+: 
+"<tiâddum>"
+	"teäʹdded" V Pass PrfPrc @X #3->0
+: 
+"<brosyyr>"
+	"brosyyr" N Pl Nom @<SUBJ #4->2
+	"brosyyr" N Sg Acc @<OBJ #4->2
+	"brosyyr" N Sg Gen @>N #4->2
+	"brosyyr" N Sg Nom @<SUBJ #4->2
+: 
+"<da>"
+	"da" CC @CNP #5->4
+: 
+"<teâđ>"
+	"teâtt" N Pl Nom @<SUBJ #6->4
+	"teâtt" N Sg Acc @<OBJ #6->4
+	"teâtt" N Sg Gen @>N #6->4
+: 
+"<norldõõǥǥ>"
+	"norldõk" N Pl Nom @<SUBJ #7->6
+	"norldõk" N Sg Acc @<OBJ #7->6
+	"norldõk" N Sg Gen @>N #7->6
+: 
+"<siiʹsǩest>"
+	"siiskâž" N Sg Loc @<ADVL #8->6
+: 
+"<käunnje>"
+	"käunnje" ? @X #9->0
+: 
+"<Sääʹmjânnam>"
+	"Sääʹmjânnam" N Prop Sem/Plc Sem/Plc Sg Gen @<ADVL #10->6
+: 
+"<ǩeʹrjjpõrtt-ǩeʹrjjpõõrti>"
+	"ǩeʹrjjpõrtt-ǩeʹrjjpõõrti" ? @X #11->0
+: 
+"<norldõõǥǥin>"
+	"norldõk" N Pl Loc @<ADVL #12->6
+	"norldõk" N Sg Com @<ADVL #12->6
+"<.>"
+	"." CLB #13->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+
+]]></dependency></body></document>

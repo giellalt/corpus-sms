@@ -1,0 +1,580 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id">
+  <header>
+    <title>Sääʹmǩiõli ougglestmättʼtõshaʹŋǩǩõõzz nettseeid ävvne – mättʼtõʹsse iʹlmmtõõttmõš lij älggam - Samediggi</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="fin"/>
+    <year>2019</year>
+    <wordcount>127</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samediggi.fi/2019/01/21/saamkioli-ougglestmatttoshankkoozz-nettseeid-avvne-matttosse-ilmmtoottmos-lij-alggam-2/?lang=nuo</origFileName>
+    <parallel_text xml:lang="fin" location="saamen_kielten_etaopetushankkeen_nettisivut_avautuivat_-_ilmoittautuminen_opetukseen_kaynnissa.html"/>
+    <parallel_text xml:lang="sme" location="samegielaid_gaiddusoahpahusfidnu_neahttasiiddut_rahppojedje_-_oahpahussii_almmuheapmi_algan.html"/>
+    <parallel_text xml:lang="smn" location="samikielai_kaidusmattaattashaava_nettisiijdoh_lekkasii_-_mattaattasan_almottattam_lii_algam.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <dependency><![CDATA["<Sääʹmǩiõli>"
+	"sääʹmǩiõll" N Pl Gen @>N #1->2
+: 
+"<ougglestmättʼtõshaʹŋǩǩõõzz>"
+	"haʹŋǩǩõs" N Pl Nom @SUBJ> #2->4
+		"ougglestmättʼtõs" N Cmp/SgNom Cmp #2->4
+: 
+"<nettseeid>"
+	"seidd" N Pl Nom @SUBJ> #3->4
+		"nett" N Cmp/SgNom Cmp #3->4
+: 
+"<ävvne>"
+	"ävvned" <mv> V IV Ind Prs Pl3 @FMV #4->0
+	"ävvned" <mv> V IV Ind Prt Pl3 @FMV #4->0
+: 
+"<–>"
+	"–" PUNCT MIDDLE #5->6
+: 
+"<mättʼtõʹsse>"
+	"mättʼtõs" N Sg Ill @ADVL> #6->8
+: 
+"<iʹlmmtõõttmõš>"
+	"iʹlmmtõõttmõš" N Sg Nom @SUBJ> #7->8
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #8->4
+: 
+"<älggam>"
+	"äʹlǧǧed" V Act PrfPrc @X #9->0
+: 
+"<¶>"
+	"¶" CLB #10->4
+:\n
+"<Sääʹmǩiõli>"
+	"sääʹmǩiõll" N Pl Gen @>N #1->2
+: 
+"<ougglestmättʼtõõzz>"
+	"ougglestmättʼtõs" N Pl Nom @SUBJ> #2->5
+: 
+"<pilohtthaʹŋǩǩõõzz>"
+	"pilohtthaʹŋǩǩõõzz" ? @X #3->0
+: 
+"<nettseeid>"
+	"seidd" N Pl Nom @SUBJ> #4->5
+		"nett" N Cmp/SgNom Cmp #4->5
+: 
+"<lie>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #5->0
+: 
+"<äävuum>"
+	"äävuum" ? @X #6->0
+"<.>"
+	"." CLB #7->5
+: 
+"<Seeidaid>"
+	"seidd" N Pl Acc @OBJ> #1->2
+	"seidd" N Pl Ill @ADVL> #1->2
+: 
+"<peäss>"
+	"piâssâd" <mv> V Ind Prs Sg3 @FMV #2->0
+: 
+"<tän>"
+	"tät" Pron Dem Sg Gen @>N #3->4
+: 
+"<liiŋk>"
+	"liŋkk" N Sg Gen @>P #4->5
+: 
+"<pääiʹǩ>"
+	"pääiʹǩ" Adp Po @<ADVL #5->2
+"<.>"
+	"." CLB #6->2
+: 
+"<Lookkâmeeʹjj>"
+	"lookkâmeeʹǩǩ" N Pl Nom @SUBJ> #1->4
+	"lookkâmeeʹǩǩ" N Sg Acc @OBJ> #1->4
+: 
+"<2019-2020>"
+	"2019-2020" Num Arab Sg Nom @SUBJ> #2->4
+	"2019-2020" Num Arab Sg Gen @>N #2->4
+	"2019-2020" Num Arab Sg Ill Attr @>ADVL #2->4
+	"2019-2020" Num Arab Sg Loc Attr @>N #2->4
+	"2019-2020" Num Sem/Year Pl Nom @SUBJ> #2->4
+: 
+"<mättʼtõʹsse>"
+	"mättʼtõs" N Sg Ill @ADVL> #3->5
+: 
+"<vuäitt>"
+	"vueiʹtted" <aux> V TV Ind Prs Sg3 @FAUX #4->0
+: 
+"<iʹlmmtõõttâd>"
+	"iʹlmmtõõttâd" <mv> V Inf @IMV #5->4
+: 
+"<seeidain>"
+	"seidd" N Pl Loc @<ADVL #6->5
+	"seidd" N Sg Com @>ADVL #6->5
+: 
+"<käunnʼjeei>"
+	"käunnʼjed" V IV Act PrsPrc @X #7->0
+: 
+"<lomaakkin>"
+	"lomaakk" N Pl Loc @<ADVL #8->5
+	"lomaakk" N Sg Com @<ADVL #8->5
+	"lomakk" N Pl Loc @<ADVL #8->5
+	"lomakk" N Sg Com @<ADVL #8->5
+"<.>"
+	"." CLB #9->4
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Nettseeid>"
+	"seidd" N Pl Nom @SUBJ> #1->2
+		"nett" N Cmp/SgNom Cmp #1->2
+: 
+"<taʹrjjee>"
+	"taʹrjjeed" <mv> V Ind Prs Pl3 @FMV #2->0
+	"taʹrjjeed" <mv> V Ind Prt Pl3 @FMV #2->0
+: 
+"<äiʹǧǧpoddsaž>"
+	"äiʹǧǧpodd" Ex/N Der/sazh A Attr @>N #3->4
+: 
+"<teâđ>"
+	"teâtt" N Pl Nom @<SUBJ #4->5
+	"teâtt" N Sg Acc @<OBJ #4->5
+	"teâtt" N Sg Gen @>N #4->5
+: 
+"<sääʹmǩiõli>"
+	"sääʹmǩiõll" N Pl Gen @>N #5->6
+: 
+"<ougglestmättʼtõshaʹŋǩǩõõzzâst>"
+	"haʹŋǩǩõs" N Sg Loc @<ADVL #6->2
+		"ougglestmättʼtõs" N Cmp/SgNom Cmp #6->2
+"<,>"
+	"," CLB #7->6
+: 
+"<tõn>"
+	"tõt" Pron Dem Sg Acc @<OBJ #8->2
+	"tõt" Pron Dem Sg Gen @>A #8->2
+: 
+"<tuejjlain>"
+	"tuâjjlaž" A Sg Com @<ADVL #9->2
+: 
+"<da>"
+	"da" CC @CNP #10->9
+: 
+"<uʹčteeʹlin>"
+	"uʹčteeʹl" N Pl Loc @<ADVL #11->9
+	"uʹčteeʹl" N Sg Com @>ADVL #11->9
+: 
+"<di>"
+	"di" CC @X #12->0
+: 
+"<sääʹmǩiõli>"
+	"sääʹmǩiõll" N Pl Gen @>N #13->14
+: 
+"<mättmateriaalin>"
+	"mättmateriaal" N Pl Loc @<ADVL #14->2
+	"mättmateriaal" N Sg Com @<ADVL #14->2
+"<.>"
+	"." CLB #15->2
+: 
+"<Seeidain>"
+	"seidd" N Pl Loc @ADVL> #1->2
+	"seidd" N Sg Com @ADVL> #1->2
+: 
+"<käunnʼje>"
+	"käunnʼjed" <mv> V IV Ind Prs Pl3 @FMV #2->0
+	"käunnʼjed" <mv> V IV Ind Prt Pl3 @FMV #2->0
+: 
+"<še>"
+	"še" Pcle @PCLE #3->2
+: 
+"<jeärben>"
+	"jeärben" Adv @ADVL> #4->4
+: 
+"<škooulid>"
+	"škooul" N Pl Acc @<OBJ #5->2
+	"škooul" N Pl Ill @ADVL> #5->2
+: 
+"<da>"
+	"da" CC @X #6->0
+: 
+"<jeälteeʹjid>"
+	"jeälteeʹjid" ? @X #7->0
+: 
+"<jurddum>"
+	"juʹrdded" V Pass PrfPrc @X #8->0
+: 
+"<haʹŋǩǩõõzz>"
+	"haʹŋǩǩõs" N Pl Nom @<SUBJ #9->10
+	"haʹŋǩǩõs" N Sg Acc @<OBJ #9->10
+	"haʹŋǩǩõs" N Sg Gen @>N #9->10
+: 
+"<äʹššǩeeʹrj>"
+	"äʹššǩeʹrjj" N Sg Gen @>N #10->2
+	"äʹššǩeʹrjj" N Pl Nom @<SUBJ #10->2
+	"äʹššǩeʹrjj" N Sg Acc @<OBJ #10->2
+: 
+"<da>"
+	"da" CC @CNP #11->10
+: 
+"<lââʹssen>"
+	"lââʹss" N Ess @<SPRED #12->2
+	"lââʹss" N Pl Nom PxPl1 @<SUBJ #12->2
+	"lââʹss" N Sg Acc PxPl1 @<OBJ #12->2
+	"lââʹss" N Sg Gen PxPl1 @>N #12->2
+	"lââʹssen" Adv @<ADVL #12->2
+	"lââʹssen" Adp #12->2
+: 
+"<saǥǥstõõllâmseidd>"
+	"seidd" N Sg Nom @<SUBJ #13->2
+		"saǥstõõllâd" Ex/V Err/Orth Der/NomAct N Cmp/SgGen Cmp #13->2
+: 
+"<škooulniiʹǩǩid>"
+	"škooulneǩ" N Pl Acc @<OBJ #14->12
+	"škooulneǩ" N Pl Ill @>ADVL #14->12
+: 
+"<da>"
+	"da" CC @CNP #15->14
+: 
+"<mättʼtõõttjid>"
+	"mättʼtõõtti" N NomAg Pl Acc @<OBJ #16->10
+	"mättʼtõõtti" N NomAg Pl Ill @<ADVL #16->10
+"<.>"
+	"." CLB #17->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Seeidaid>"
+	"seidd" N Pl Acc @OBJ> #1->2
+	"seidd" N Pl Ill @ADVL> #1->2
+: 
+"<peeiʹvtet>"
+	"peeiʹvted" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<haʹŋǩǩõõzz>"
+	"haʹŋǩǩõs" N Pl Nom @<SUBJ #3->2
+	"haʹŋǩǩõs" N Sg Acc @<OBJ #3->2
+	"haʹŋǩǩõs" N Sg Gen @>N #3->2
+: 
+"<ääiʹjpoddsaž>"
+	"ääiʹjpoddsaž" A Attr @>N #4->5
+: 
+"<šõddmõõžžid>"
+	"šõddmõš" N Pl Acc @<OBJ #5->2
+	"šõddmõš" N Pl Ill @>ADVL #5->2
+"<,>"
+	"," CLB #6->5
+: 
+"<ođđsid>"
+	"oođâs" N Pl Acc @<OBJ #7->5
+	"oođâs" N Pl Ill @>ADVL #7->5
+: 
+"<da>"
+	"da" CC @CNP #8->7
+: 
+"<teâđtõõzzid>"
+	"teâđtõs" N Pl Acc @<OBJ #9->5
+	"teâđtõs" N Pl Ill @>ADVL #9->5
+: 
+"<di>"
+	"di" CC @CNP #10->9
+: 
+"<materiaalid>"
+	"materiaal" N Pl Acc @<OBJ #11->5
+	"materiaal" N Pl Ill @>ADVL #11->5
+"<,>"
+	"," CLB #12->13
+: 
+"<koid>"
+	"kååʹtt" Pron Rel Pl Acc @OBJ> #13->15
+	"kååʹtt" Pron Rel Pl Ill @ADVL> #13->15
+: 
+"<mättʼtõõtti>"
+	"mättʼtõõtti" N NomAg Pl Nom @<SUBJ #14->2
+: 
+"<räʹjje>"
+	"raajjâd" <mv> V TV Ind Prs Pl3 @FS-N< #15->11
+"<.>"
+	"." CLB #16->2
+: 
+"<Nettseeidai>"
+	"seidd" N Pl Gen @>P #1->2
+		"nett" N Cmp/SgNom Cmp #1->2
+: 
+"<pääiʹǩ>"
+	"pääiʹǩ" Adp Po @ADVL> #2->5
+: 
+"<vuäitt>"
+	"vueiʹtted" <aux> V TV Ind Prs Sg3 @FAUX #3->0
+: 
+"<še>"
+	"še" Pcle @PCLE #4->3
+: 
+"<iʹlmmtõõttâd>"
+	"iʹlmmtõõttâd" <mv> V Inf @IMV #5->3
+: 
+"<ougglestmättʼtõʹsse>"
+	"ougglestmättʼtõs" N Sg Ill @<ADVL #6->5
+: 
+"<lookkâmekka>"
+	"lookkâmeeʹǩǩ" N Sg Ill @<ADVL #7->5
+: 
+"<2019–2020>"
+	"2019–2020" Num Sem/Year Pl Acc @<ADVL #8->3
+	"2019–2020" Num Sem/Year Pl Gen @<ADVL #8->3
+	"2019–2020" Num Sem/Year Pl Nom @<SUBJ #8->3
+	"2019–2020" Num Arab Sg Acc @<ADVL #8->3
+	"2019–2020" Num Arab Sg Gen @<ADVL #8->3
+	"2019–2020" Num Arab Sg Ill Attr @<ADVL #8->3
+	"2019–2020" Num Arab Sg Loc Attr @<ADVL #8->3
+	"2019–2020" Num Arab Sg Nom @<SUBJ #8->3
+"<.>"
+	"." CLB #9->3
+: 
+"<Iʹlmmtõõttâmäiʹǧǧ>"
+	"iʹlmmtõõttâmäiʹǧǧ" N Sg Nom @SUBJ> #1->2
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #2->0
+: 
+"<22.2.2019>"
+	"22.2.2019" Num Arab Sem/Date Sg Gen @>P #3->2
+	"22.2.2019" Num Arab Sem/Date Sg Ill Attr @<ADVL #3->2
+	"22.2.2019" Num Arab Sem/Date Sg Loc Attr @<ADVL #3->2
+	"22.2.2019" Num Arab Sem/Date Sg Nom @<ADVL #3->2
+	"22.2.2019" Num Arab Sem/ID @<ADVL #3->2
+: 
+"<räjja>"
+	"räjja" Adp Po @<ADVL #4->2
+"<.>"
+	"." CLB #5->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Nettseeidai>"
+	"seidd" N Pl Gen @>N #1->2
+		"nett" N Cmp/SgNom Cmp #1->2
+: 
+"<siiskõs>"
+	"siiskõs" N Sg Nom @SUBJ> #2->7
+: 
+"<da>"
+	"da" CC @X #3->0
+: 
+"<graaflaž>"
+	"graaflaž" A Attr @>N #4->5
+: 
+"<plaanummšest>"
+	"plaanummuš" N Sg Loc @ADVL> #5->7
+: 
+"<vaʹstteei>"
+	"vaʹstteei" A Sg Nom @SUBJ> #6->7
+	"vaʹstteei" A Pl Nom @SUBJ> #6->7
+	"vaʹstteei" A Sg Acc @OBJ> #6->7
+: 
+"<lie>"
+	"leeʹd" <mv> V IV Ind Prs Pl3 @FMV #7->0
+: 
+"<projektt-tuejjla>"
+	"projektt-tuejjla" ? @X #8->0
+: 
+"<Arla>"
+	"Arla" N Prop Sem/Fem Sg Gen @>N #9->10
+: 
+"<Magga>"
+	"Magga" N Prop Sem/Sur Sg Gen @>N #10->12
+"<,>"
+	"," CLB #11->10
+: 
+"<Eila>"
+	"Eila" N Prop Sem/Fem Sg Gen @>N #12->13
+: 
+"<Tapiola>"
+	"Tapiola" N Prop Sem/Sur Sg Gen @>N #13->16
+: 
+"<da>"
+	"da" CC @CNP #14->13
+: 
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @>N #15->7
+	"sääʹmteʹǧǧ" N Pl Nom @<SUBJ #15->7
+	"sääʹmteʹǧǧ" N Sg Acc @<OBJ #15->7
+: 
+"<škooultõspiisar>"
+	"piisar" N Pl Nom @<SUBJ #16->17
+		"škooultõs" N Cmp/SgNom Cmp #16->17
+	"piisar" N Sg Acc @<OBJ #16->17
+		"škooultõs" N Cmp/SgNom Cmp #16->17
+	"piisar" N Sg Gen @>N #16->17
+		"škooultõs" N Cmp/SgNom Cmp #16->17
+	"piisar" N Sg Nom @<SUBJ #16->17
+		"škooultõs" N Cmp/SgNom Cmp #16->17
+: 
+"<Ulla>"
+	"Ulla" N Prop Sem/Fem Sg Gen @>N #17->18
+: 
+"<Aikio-Puoskari>"
+	"Aikio-Puoskari" N Prop Sem/Sur Sg Gen @>Num #18->19
+: 
+"<õõutâst>"
+	"õhtt" Num Sg Loc @<ADVL #19->15
+	"õõutâst" Adv @<ADVL #19->15
+: 
+"<nettpuuʹtʼteei>"
+	"puuʹtʼteei" N NomAg Pl Nom @<SUBJ #20->21
+		"nett" N Cmp/SgNom Cmp #20->21
+	"puuʹtʼteei" N NomAg Sg Acc @<OBJ #20->21
+		"nett" N Cmp/SgNom Cmp #20->21
+	"puuʹtʼteei" N NomAg Sg Gen @>N #20->21
+		"nett" N Cmp/SgNom Cmp #20->21
+	"puuʹtʼteei" N NomAg Sg Nom @<SUBJ #20->21
+		"nett" N Cmp/SgNom Cmp #20->21
+: 
+"<Eeva>"
+	"Eeva" N Prop Sem/Fem Sg Gen @>N #21->22
+: 
+"<Mäkisin>"
+	"Mäkinen" N Prop Sem/Sur Sg Com @<ADVL #22->15
+	"Mækinen" N Prop Sem/Sur Sg Com @<ADVL #22->15
+"<.>"
+	"." CLB #23->7
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Lââssteâđ>"
+	"teâtt" N Pl Nom @HNOUN #1->0
+		"lââss" N Cmp/SgNom Cmp #1->0
+	"teâtt" N Sg Acc @HNOUN #1->0
+		"lââss" N Cmp/SgNom Cmp #1->0
+"<:>"
+	":" CLB #2->1
+: 
+"<¶>"
+	"¶" CLB #3->1
+:\n
+"<Projekttšurr>"
+	"Projekttšurr" ? @X #1->0
+: 
+"<Eila>"
+	"Eila" N Prop Sem/Fem Sg Gen @>N #2->3
+: 
+"<Tapiola>"
+	"Tapiola" N Prop Sem/Sur Sg Acc @OBJ> #3->8
+	"Tapiola" N Prop Sem/Sur Sg Nom @HNOUN #3->8
+	"Tapiola" N Prop Sem/Sur Sg Ill @<ADVL #3->8
+"<,>"
+	"," CLB #4->3
+: 
+"<eila.tapiola(at)utsjoki.fi>"
+	"eila.tapiola(at)utsjoki.fi" URL #5->5
+"<,>"
+	"," CLB #6->8
+: 
+"<040>"
+	"040" Num Arab Sem/ID @>Num #7->8
+: 
+"<7012>"
+	"7012" Num Arab Sg Acc @<OBJ #8->0
+	"7012" Num Arab Sg Nom @HNOUN #8->0
+: 
+"<094>"
+	"094" Num Arab Sem/ID @X #9->0
+: 
+"<¶>"
+	"¶" CLB #10->8
+:\n
+"<Projekttkoordinaattor>"
+	"Projekttkoordinaattor" ? @X #1->0
+: 
+"<Arla>"
+	"Arla" N Prop Sem/Fem Sg Gen @>N #2->3
+: 
+"<Magga>"
+	"Magga" N Prop Sem/Sur Sg Acc @OBJ> #3->8
+	"Magga" N Prop Sem/Sur Sg Ill @<ADVL #3->8
+	"Magga" N Prop Sem/Sur Sg Nom @HNOUN #3->8
+"<,>"
+	"," CLB #4->3
+: 
+"<arla.magga(at)samediggi.fi>"
+	"arla.magga(at)samediggi.fi" URL #5->5
+"<,>"
+	"," CLB #6->8
+: 
+"<040>"
+	"040" Num Arab Sem/ID @>Num #7->8
+: 
+"<1985>"
+	"1985" Num Arab Sem/Year Sg Nom @HNOUN #8->0
+	"1985" Num Arab Sem/Year Sg Acc @<OBJ #8->0
+	"1985" Num Arab Sg Nom @HNOUN #8->0
+	"1985" Num Arab Sg Acc @<OBJ #8->0
+: 
+"<033>"
+	"033" Num Arab Sem/ID @X #9->0
+: 
+"<¶>"
+	"¶" CLB #10->8
+:\n
+"<Škooultõspiisar>"
+	"piisar" N Sg Gen @>N #1->2
+		"škooultõs" N Cmp/SgNom Cmp #1->2
+: 
+"<Ulla>"
+	"Ulla" N Prop Sem/Fem Sg Gen @>N #2->3
+: 
+"<Aikio>"
+	"Aikio" N Prop Sem/Sur Sg Gen @>N #3->4
+: 
+"<Puoskari>"
+	"Puoskari" N Prop Sem/Sur Sg Acc @OBJ> #4->9
+	"Puoskari" N Prop Sem/Sur Sg Nom @HNOUN #4->9
+"<,>"
+	"," CLB #5->4
+: 
+"<ulla.aikio-puoskari(at)samediggi.fi>"
+	"ulla.aikio-puoskari(at)samediggi.fi" URL #6->6
+"<,>"
+	"," CLB #7->10
+: 
+"<010>"
+	"010" Num Arab Sem/ID @>Num #8->9
+: 
+"<8393>"
+	"8393" Num Arab Sg Acc @<OBJ #9->10
+	"8393" Num Arab Sg Nom @HNOUN #9->10
+	"8393" Num Arab Sg Ill Attr @>ADVL #9->10
+: 
+"<112>"
+	"112" Num Arab Sg Acc @<OBJ #10->0
+	"112" Num Arab Sg Nom @HNOUN #10->0
+	"112" Num Arab Sg Ill Attr @<ADVL #10->0
+	"112" Num Arab Sg Loc Attr @Num< #10->0
+: 
+"<¶>"
+	"¶" CLB #11->10
+:\n
+"<https://www.saamenetaopetus.com>"
+	"https://www.saamenetaopetus.com" URL #1->1
+: 
+"<¶>"
+	"¶" CLB #2->2
+:\n
+
+]]></dependency>
+  </body>
+</document>

@@ -1,0 +1,592 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id"><header><title>Pei´vvhåidd - INARI.FI</title><genre code="admin"/><author><unknown/></author><wordcount>101</wordcount><conversion_status type="standard"/><availability><license type="standard"/></availability><multilingual/><origFileName>http://www.inari.fi/se/se/kaazzkoozz/cuovtemkaazzkoozz/peivvhaidd.html</origFileName><parallel_text xml:lang="sme" location="beaivediksu.html"/><parallel_text xml:lang="smn" location="peivitipso.html"/><metadata><uncomplete/></metadata><version>XSLtemplate $Revision: 150288 $; file-specific xsl  Revision; common.xsl  $Revision$; </version></header>
+<body><dependency><![CDATA["<Peiʹvvhåidd>"
+	"peiʹvvhåidd" N Sg Nom @HNOUN #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+"<Blaaŋk>"
+	"Blaaŋk" ? @X #1->0
+: 
+"<da>"
+	"da" CC @X #2->0
+: 
+"<ääijʼpoddsa>"
+	"ääijʼpoddsa" ? @X #3->0
+: 
+"<Blaaŋkid>"
+	"Blaaŋkid" ? @X #4->0
+: 
+"<vuäitak>"
+	"vueiʹtted" <aux> V TV Ind Prs Sg2 @FAUX #5->0
+: 
+"<mäŋgsted>"
+	"mäŋgsted" <mv> V Inf @IMV #6->5
+: 
+"<dääram>"
+	"dääram" Adv @<ADVL #7->6
+: 
+"<jiijjad>"
+	"jiõčč" Pron Refl Sg2 Acc @<OBJ #8->6
+	"jiõčč" Pron Refl Sg2 Gen @>N #8->6
+: 
+"<teâttmašinast>"
+	"teâttmašina" N Sg Loc @<ADVL #9->6
+: 
+"<Adobe>"
+	"Adobe" N Prop Sem/Plc Sg Gen @>N #10->11
+: 
+"<Acrobat>"
+	"Acrobat" N Prop Sem/Obj Sg Acc @<OBJ #11->5
+	"Acrobat" N Prop Sem/Obj Sg Gen @<ADVL #11->5
+	"Acrobat" N Prop Sem/Obj Sg Nom @<SUBJ #11->5
+: 
+"<Readerilla>"
+	"Readerilla" ? @X #12->0
+: 
+"<.>"
+	"." CLB #13->5
+:  
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Puäʹđ>"
+	"pueʹtted" <mv> V IV Imprt Sg2 @FMV #1->0
+: 
+"<tiõrvân>"
+	"tiõrvân" Adv @<ADVL #2->1
+: 
+"<šõddeemtaaurõššân>"
+	"taaurõš" N Ess @<SPRED #3->1
+		"šõddeed" V Actio Cmp #3->1
+	"taaurõš" N Pl Nom PxPl1 @<SUBJ #3->1
+		"šõddeed" V Actio Cmp #3->1
+	"taaurõš" N Sg Acc PxPl1 @<OBJ #3->1
+		"šõddeed" V Actio Cmp #3->1
+	"taaurõš" N Sg Gen PxPl1 @<ADVL #3->1
+		"šõddeed" V Actio Cmp #3->1
+: 
+"<vuässõõđeeʹl>"
+	"vuässõõttâd" V Ger Instr @X #4->0
+: 
+"<peiʹvvhååid>"
+	"peiʹvvhåidd" N Pl Nom @<SUBJ #5->1
+	"peiʹvvhåidd" N Sg Acc @<OBJ #5->1
+	"peiʹvvhåidd" N Sg Gen @>N #5->1
+: 
+"<tuejjumuʹšše>"
+	"tuejjummuš" N Err/Orth Sg Ill @<ADVL #6->1
+"<!>"
+	"!" CLB #7->1
+:  
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Päärnai>"
+	"päärnaž" N Sem/Hum Dimin Pl Gen @ADVL> #1->4
+: 
+"<kåådlaž>"
+	"kåådlaž" ? @X #2->0
+: 
+"<peiʹvvhåidd>"
+	"peiʹvvhåidd" N Sg Nom @SUBJ> #3->4
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #4->0
+: 
+"<čuõvtemluʹvddkååʹdd>"
+	"čuõvtemluʹvddkåʹdd" N Pl Nom @<SUBJ #5->4
+	"čuõvtemluʹvddkåʹdd" N Sg Acc @<OBJ #5->4
+	"čuõvtemluʹvddkåʹdd" N Sg Gen @>N #5->4
+: 
+"<vuâllsaž>"
+	"vueʹll" Ex/N Der/sazh A Attr @>N #6->7
+: 
+"<tuåimmjumuš>"
+	"toimmjummuš" N Err/Orth Sg Nom @<SUBJ #7->4
+	"tåimmjummuš" N Err/Orth Sg Nom @<SUBJ #7->4
+"<.>"
+	"." CLB #8->4
+: 
+"<Aanar>"
+	"Aanar" N Prop Sem/Plc Sg Gen @>N #1->2
+: 
+"<kååʹdd>"
+	"kåʹdd" N Sg Gen @>N #2->3
+	"kåʹdd" N Pl Nom @SUBJ #2->3
+	"kåʹdd" N Sg Acc @OBJ> #2->3
+: 
+"<peiʹvvhååid>"
+	"peiʹvvhåidd" N Sg Acc @OBJ> #3->7
+	"peiʹvvhåidd" N Sg Gen @>N #3->7
+: 
+"<vaʹstteempersoonân>"
+	"person" N Ess @ADVL> #4->4
+		"vaʹstteed" V Actio Cmp #4->4
+: 
+"<tuåimmai>"
+	"tåimmai" A Err/Orth Attr @>N #5->6
+: 
+"<peiʹvvhååid>"
+	"peiʹvvhåidd" N Sg Acc @OBJ> #6->7
+	"peiʹvvhåidd" N Sg Gen @>N #6->7
+: 
+"<jååʹđteei>"
+	"jååʹđteei" N NomAg Sg Nom @HNOUN #7->4
+	"jååʹđteei" N NomAg Pl Nom @HNOUN #7->4
+	"jååʹđteei" N NomAg Sg Acc @APP-N< #7->4
+"<.>"
+	"." CLB #8->8
+: 
+"<Peiʹvvhååid>"
+	"peiʹvvhåidd" N Pl Nom @SUBJ> #1->4
+: 
+"<jååʹđteei>"
+	"jååʹđteei" N NomAg Pl Nom @OBJ> #2->4
+: 
+"<tuõjju>"
+	"tuejj" N Sg Ill @ADVL> #3->4
+	"tuâjj" N Sg Ill @ADVL> #3->4
+: 
+"<koʹlle>"
+	"kuullâd" <mv> V TV Ind Prs Pl3 @FMV #4->0
+: 
+"<peiʹvvhååid>"
+	"peiʹvvhåidd" N Pl Nom @<OBJ #5->4
+	"peiʹvvhåidd" N Sg Acc @<OBJ #5->4
+	"peiʹvvhåidd" N Sg Gen @>N #5->4
+: 
+"<jååʹđtumuš>"
+	"jååʹđtummuš" N Sg Nom @<SUBJ #6->4
+"<,>"
+	"," CLB #7->6
+: 
+"<vuäʹpstumuš>"
+	"vuäʹpstummuš" N Sg Nom @<SUBJ #8->6
+: 
+"<da>"
+	"da" CC @CNP #9->8
+: 
+"<personkåʹddvaaldšem>"
+	"vaaldšem" N Sg Nom @<SUBJ #10->6
+		"kåʹdd" N Cmp/SgNom Cmp #10->6
+			"person" N Cmp/SgNom Cmp #10->6
+	"vaaldšem" N Sg Nom @<SUBJ #10->6
+		"personkåʹdd" N Cmp/SgNom Cmp #10->6
+: 
+"<di>"
+	"di" CC @X #11->0
+: 
+"<päärnai>"
+	"päärnaž" N Sem/Hum Dimin Pl Gen @>N #12->13
+: 
+"<peiʹvvhåiddsâjjdõõttmõš>"
+	"sâjjdõõttmõš" N Sg Nom @<SUBJ #13->4
+		"håidd" N Cmp/SgNom Cmp #13->4
+			"peiʹvv" N Cmp/SgNom Cmp #13->4
+	"sâjjdõõttmõš" N Sg Nom @<SUBJ #13->4
+		"peiʹvvhåidd" N Cmp/SgNom Cmp #13->4
+"<,>"
+	"," CLB #14->13
+: 
+"<–>"
+	"–" PUNCT MIDDLE #15->16
+"<tuʹmmstõõǥǥ>"
+	"tuʹmmstõk" N Pl Nom @<SUBJ #16->19
+	"tuʹmmstõk" N Sg Acc @<OBJ #16->19
+	"tuʹmmstõk" N Sg Gen @>N #16->19
+: 
+"<da>"
+	"da" CC @X #17->0
+: 
+"<–>"
+	"–" PUNCT MIDDLE #18->19
+"<mäʹhssemtuʹmmstõõǥǥ>"
+	"tuʹmmstõk" N Pl Nom @<SUBJ #19->4
+		"mäʹhssed" Ex/V Der/NomAct N Cmp/SgGen Cmp #19->4
+"<.>"
+	"." CLB #20->4
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Piârpeiʹvvhååidvuõiʹǧǧeeja>"
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #1->0
+			"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"piârpeiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #1->0
+			"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"piârpeiʹvvhåidd" N Cmp/SgGen Cmp #1->0
+: 
+"<vaʹsttat>"
+	"vaʹsttat" ? @X #2->0
+: 
+"<Âʹvvel>"
+	"Âʹvvel" N Prop Sem/Plc Sem/Plc Sg Gen @>N #3->7
+: 
+"<da>"
+	"da" CC @X #4->0
+: 
+"<Törmäsen>"
+	"Törmänen" N Prop Sem/Sur Ess @ADVL> #5->6
+	"Tørmänen" N Prop Sem/Sur Ess @ADVL> #5->6
+: 
+"<vuuʹd>"
+	"vuʹvdd" N Pl Nom @HNOUN #6->3
+	"vuʹvdd" N Sg Acc @<OBJ #6->3
+	"vuʹvdd" N Sg Gen @>N #6->3
+: 
+"<piârpeiʹvvhååidast>"
+	"piârpeiʹvvhåidd" N Sg Loc @<ADVL #7->1
+"<.>"
+	"." CLB #8->1
+: 
+"<Piârpeiʹvvhååidvuõiʹǧǧeeja>"
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom2 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom1 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom1 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #1->3
+			"piâr" Hom1 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"piâr" Hom1 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"piârpeiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom2 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #1->3
+			"piâr" Hom2 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"piâr" Hom2 N Cmp/SgNom Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"peiʹvv" N Cmp/SgNom Cmp #1->3
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->3
+			"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->3
+	"vuõiʹǧǧeeja" N Sg Nom @SUBJ> #1->3
+		"piârpeiʹvvhåidd" N Cmp/SgGen Cmp #1->3
+: 
+"<tuõjju>"
+	"tuejj" N Sg Ill @ADVL> #2->3
+	"tuâjj" N Sg Ill @ADVL> #2->3
+: 
+"<koʹlle>"
+	"kuullâd" <mv> V TV Ind Prs Pl3 @FMV #3->0
+: 
+"<piârpeiʹvvhååid>"
+	"piârpeiʹvvhåidd" N Pl Nom @<OBJ #4->3
+	"piârpeiʹvvhåidd" N Sg Acc @<OBJ #4->3
+	"piârpeiʹvvhåidd" N Sg Gen @>N #4->3
+: 
+"<vuäʹpstumuš>"
+	"vuäʹpstummuš" N Sg Nom @<SUBJ #5->3
+"<,>"
+	"," CLB #6->5
+: 
+"<päärnai>"
+	"päärnaž" N Sem/Hum Dimin Pl Gen @>N #7->8
+: 
+"<peiʹvvhåiddsâjjdõõttmõš>"
+	"sâjjdõõttmõš" N Sg Nom @<SUBJ #8->5
+		"håidd" N Cmp/SgNom Cmp #8->5
+			"peiʹvv" N Cmp/SgNom Cmp #8->5
+	"sâjjdõõttmõš" N Sg Nom @<SUBJ #8->5
+		"peiʹvvhåidd" N Cmp/SgNom Cmp #8->5
+: 
+"<da>"
+	"da" CC @X #9->0
+: 
+"<–>"
+	"–" PUNCT MIDDLE #10->11
+"<tuʹmmstõõǥǥ>"
+	"tuʹmmstõk" N Pl Nom @<SUBJ #11->3
+	"tuʹmmstõk" N Sg Acc @<OBJ #11->3
+"<.>"
+	"." CLB #12->3
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Peiʹvvhååid>"
+	"peiʹvvhåidd" N Sg Gen @>N #1->2
+	"peiʹvvhåidd" N Pl Nom @SUBJ #1->2
+	"peiʹvvhåidd" N Sg Acc @OBJ> #1->2
+: 
+"<jååʹđteei>"
+	"jååʹđteei" N NomAg Sg Nom @HNOUN #2->8
+	"jååʹđteei" N NomAg Pl Nom @HNOUN #2->8
+	"jååʹđteei" N NomAg Sg Gen @>N #2->8
+: 
+"<da>"
+	"da" CC @CNP #3->2
+: 
+"<piârpeiʹvvhååidvuõiʹǧǧeeja>"
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom1 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom1 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #4->0
+			"piâr" Hom1 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"piâr" Hom1 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom2 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom2 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #4->0
+			"piâr" Hom2 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"piâr" Hom2 N Cmp/SgNom Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"peiʹvv" N Cmp/SgNom Cmp #4->0
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+			"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"piârpeiʹvvhåidd" N Cmp/SgGen Cmp #4->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #4->0
+		"piârpeiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #4->0
+: 
+"<õõsttʼtat>"
+	"õõsttʼtat" ? @X #5->0
+: 
+"<pueʹrmõsân>"
+	"pueʹrmõs" N Err/Orth Ess @ADVL> #6->10
+	"pueʹrmõsân" Adv @ADVL> #6->10
+: 
+"<arggpeeiʹvi>"
+	"arggpeeiʹvi" Adv Sem/Time @ADVL> #7->8
+	"arggpeiʹvv" N Pl Gen @>N #7->8
+: 
+"<čiâss>"
+	"čiâss" N Sg Acc @<OBJ #8->11
+	"čiâss" N Sg Gen @>N #8->11
+"<:>"
+	":" CLB #9->4
+: 
+"<9.00-11.30>"
+	"9.00-11.30" Num Arab Sem/Time-clock Span Sg Acc @<OBJ #10->1
+	"9.00-11.30" Num Arab Sem/Time-clock Span Sg Gen @>N #10->1
+	"9.00-11.30" Num Arab Sem/Time-clock Span Sg Ill Attr @>N #10->1
+	"9.00-11.30" Num Arab Sem/Time-clock Span Sg Loc Attr @>N #10->1
+	"9.00-11.30" Num Arab Sem/Time-clock Span Sg Nom @HNOUN #10->1
+: 
+"<äiʹǧǧkõõskin>"
+	"äiʹǧǧkõskk" N Pl Loc @Num< #11->4
+	"äiʹǧǧkõskk" N Sg Com @<ADVL #11->4
+"<.>"
+	"." CLB #12->4
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Kontakt-teâđ>"
+	"Kontakt-teâđ" ? @X #1->0
+:  
+"<¶>"
+	"¶" CLB #2->2
+:\n
+"<Peiʹvvhåiddkoontâr>"
+	"koontâr" N Sg Nom @SUBJ #1->0
+		"håidd" N Cmp/SgNom Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+	"koontâr" N Sg Nom @SUBJ #1->0
+		"peiʹvvhåidd" N Cmp/SgNom Cmp #1->0
+"<:>"
+	":" CLB #2->1
+:  
+"<Addrõs>"
+	"addrõs" N Sg Nom @<SPRED #3->1
+: 
+"<Kåʹddveʹrǧǧpõrtt>"
+	"kåʹddveʹrǧǧpõrtt" N Sg Nom @<PPRED #4->3
+"<,>"
+	"," CLB #5->4
+"<Piiskuntie>"
+	"Piiskuntie" ? @X #6->0
+: 
+"<2>"
+	"2" A Arab Ord Attr CLBfinal @X #7->0
+"<,>"
+	"," CLB #8->7
+: 
+"<99800>"
+	"99800" Num Arab Sem/ID @>N #9->10
+: 
+"<Âʹvvel>"
+	"Âʹvvel" N Prop Sem/Plc Sem/Plc Sg Acc @HNOUN #10->4
+	"Âʹvvel" N Prop Sem/Plc Sem/Plc Sg Nom @HNOUN #10->4
+: 
+"<¶>"
+	"¶" CLB #11->1
+:\n
+"<Piârpeiʹvvhååidvuõiʹǧǧeeja>"
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #1->0
+			"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom1 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"piârpeiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Cmp #1->0
+			"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom2 N Cmp/SgNom Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"håidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"peiʹvv" N Cmp/SgNom Cmp #1->0
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"peiʹvvhåidd" N Cmp/SgGen Err/Orth-missing-hyph Cmp #1->0
+			"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #1->0
+	"vuõiʹǧǧeeja" N Sg Nom @HNOUN #1->0
+		"piârpeiʹvvhåidd" N Cmp/SgGen Cmp #1->0
+: 
+"<¶>"
+	"¶" CLB #2->1
+:\n
+
+]]></dependency></body></document>

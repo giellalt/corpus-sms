@@ -1,0 +1,1036 @@
+<?xml version='1.0' encoding='utf8'?>
+<document xml:lang="sms" id="no_id">
+  <header>
+    <title>Sääʹmǩiõllsaž sosiaal- da tiõrvâsvuõttsueʹrj mättʼtõõttji da tuejjlai väʹlddkååddlaž kaartʼtõs - Samediggi</title>
+    <genre code="admin"/>
+    <author>
+      <unknown/>
+    </author>
+    <translator>
+      <unknown/>
+    </translator>
+    <translated_from xml:lang="fin"/>
+    <year>2018</year>
+    <wordcount>225</wordcount>
+    <conversion_status type="standard"/>
+    <availability>
+      <free/>
+    </availability>
+    <multilingual/>
+    <origFileName>https://www.samediggi.fi/2018/11/27/saa%CA%B9m%C7%A9iollsaz-sosiaal-da-tiorvasvuottsue%CA%B9rj-matt%CA%BCtoottji-da-tuejjlai-va%CA%B9lddkaaddlaz-kaart%CA%BCtos/?lang=nuo</origFileName>
+    <parallel_text xml:lang="fin" location="saamenkielisten_sosiaali-_ja_terveysalan_opiskelijoiden_seka_sivi-sote-ammattilaisten_valtakunnallinen_kartoitus.html"/>
+    <parallel_text xml:lang="sme" location="samegielat_sosiala-_ja_dearvvasvuohtasuorggi_studeanttaid_ja_bargiid_riikkaviidosas_karten.html"/>
+    <parallel_text xml:lang="smn" location="samikielalij_sosiaal-_ja_tiervasvuotasyergi_uappei_ja_pargei_valdikodalas_karttim.html"/>
+    <metadata>
+      <uncomplete/>
+    </metadata>
+    <version>XSLtemplate $Revision$; file-specific xsl  Revision; common.xsl  $Revision$; </version>
+  </header>
+  <body>
+    <dependency><![CDATA["<Sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Sg Nom @SPRED> #1->4
+: 
+"<sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #2->9
+: 
+"<da>"
+	"da" CC @X #3->0
+: 
+"<tiõrvâsvuõttsueʹrj>"
+	"sueʹrǧǧ" N Pl Nom @HNOUN #4->9
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->9
+	"sueʹrǧǧ" N Sg Acc @OBJ> #4->9
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->9
+	"sueʹrǧǧ" N Sg Gen @>N #4->9
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->9
+: 
+"<mättʼtõõttji>"
+	"mättʼtõõtti" N NomAg Pl Gen @X #5->0
+: 
+"<da>"
+	"da" CC @CNP #6->5
+: 
+"<tuejjlai>"
+	"tuâjjlaž" A Pl Gen @>N #7->9
+: 
+"<väʹlddkååddlaž>"
+	"väʹlddkååddlaž" A Attr @>N #8->9
+	"väʹlddkåʹdd" Ex/N Der/lazh A Attr @>N #8->9
+: 
+"<kaartʼtõs>"
+	"kaartʼtõs" N Sg Nom @HNOUN #9->5
+: 
+"<¶>"
+	"¶" CLB #10->10
+:\n
+"<Poske>"
+	"Poske" N Prop Sem/Org Sg Nom @SUBJ> #1->8
+: 
+"<(>"
+	"(" PUNCT LEFT #2->3
+"<Tâʹvv-Lääʹddjânnam>"
+	"Tâʹvv-Lääʹddjânnam" N Prop Sem/Plc Sem/Plc Sg Nom @SUBJ> #3->8
+: 
+"<sosiaalsueʹrj>"
+	"sosiaalsueʹrj" ? @X #4->0
+: 
+"<siltteemkõõskõs>"
+	"siltteemkõõskõs" N Sg Nom @SUBJ> #5->8
+"<)>"
+	")" PUNCT RIGHT #6->7
+: 
+"<sääʹmjuâǥǥtõs>"
+	"juâǥǥtõs" N Sg Nom @SUBJ> #7->8
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #7->8
+: 
+"<čõõđat>"
+	"čõõđted" <mv> V TV Ind Prs Sg3 @FMV #8->0
+: 
+"<kõjldõõzz>"
+	"kõjldõs" N Pl Nom @<OBJ #9->8
+	"kõjldõs" N Sg Acc @<OBJ #9->8
+	"kõjldõs" N Sg Gen @>N #9->8
+: 
+"<õhttsažtuâjast>"
+	"õhttsažtuâjj" N Sg Loc @<ADVL #10->8
+: 
+"<Perhekeskustoimintamalli>"
+	"Perhekeskustoimintamalli" ? @X #11->0
+: 
+"<Lappiin>"
+	"Lappiin" ? @X #12->0
+: 
+"<–>"
+	"–" PUNCT MIDDLE #13->14
+: 
+"<integroidut>"
+	"integroidut" ? @X #14->0
+: 
+"<monitoimijaiset>"
+	"monitoimijaiset" ? @X #15->0
+: 
+"<palvelut>"
+	"palvelut" ? @X #16->0
+: 
+"<perheille>"
+	"perheille" ? @X #17->0
+: 
+"<(>"
+	"(" PUNCT LEFT #18->19
+"<Piârkõõskõstuåimmjem-mall>"
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"õs" N Cmp/SgNom Cmp #19->0
+			"kõskk" N Cmp/SgGen Cmp #19->0
+				"piâr" Hom1 N Cmp/SgNom Cmp #19->0
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"kõõskõs" N Cmp/SgNom Cmp #19->0
+			"piâr" Hom1 N Cmp/SgNom Cmp #19->0
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"õs" N Cmp/SgNom Cmp #19->0
+			"kõskk" N Cmp/SgGen Cmp #19->0
+				"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #19->0
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"kõõskõs" N Cmp/SgNom Cmp #19->0
+			"piâr" Hom1 N Cmp/SgNom Err/Orth-missing-hyph Cmp #19->0
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"õs" N Cmp/SgNom Cmp #19->0
+			"kõskk" N Cmp/SgGen Cmp #19->0
+				"piâr" Hom2 N Cmp/SgNom Cmp #19->0
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"kõõskõs" N Cmp/SgNom Cmp #19->0
+			"piâr" Hom2 N Cmp/SgNom Cmp #19->0
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"õs" N Cmp/SgNom Cmp #19->0
+			"kõskk" N Cmp/SgGen Cmp #19->0
+				"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #19->0
+	"tåimmam-mall" N Err/Orth Sg Nom @X #19->0
+		"kõõskõs" N Cmp/SgNom Cmp #19->0
+			"piâr" Hom2 N Cmp/SgNom Err/Orth-missing-hyph Cmp #19->0
+: 
+"<Sääʹmjânnma>"
+	"Sääʹmjânnam" N Prop Sem/Plc Sem/Plc Sg Ill @<ADVL #20->8
+: 
+"<–>"
+	"–" PUNCT MIDDLE #21->22
+: 
+"<integrõsttum>"
+	"integrâʹstted" V Pass PrfPrc @X #22->0
+: 
+"<mäŋggtuåimmjeei>"
+	"tåimmjeei" N Err/Orth NomAg Sg Gen @>N #23->24
+		"mäŋgg" Num Cmp/SgNom Cmp #23->24
+: 
+"<kääzzkõõzz>"
+	"kääzzkõs" N Sem/Act Sg Gen @>N #24->25
+: 
+"<piârrjid>"
+	"piâr" Hom1 N Pl Ill @<ADVL #25->8
+	"piâr" Hom2 N Pl Ill @<ADVL #25->8
+"<)>"
+	")" PUNCT RIGHT #26->25
+: 
+"<—>"
+	"—" PUNCT #27->28
+"<haʹŋǩǩõõzzin>"
+	"haʹŋǩǩõs" N Pl Loc @<ADVL #28->8
+	"haʹŋǩǩõs" N Sg Com @<ADVL #28->8
+: 
+"<(>"
+	"(" PUNCT LEFT #29->30
+"<2017>"
+	"2017" Num Arab Sem/Year Sg Ill Attr @>ADVL #30->8
+	"2017" Num Arab Sem/Year Sg Loc Attr @<ADVL #30->8
+	"2017" Num Arab Sg Ill Attr @>ADVL #30->8
+	"2017" Num Arab Sg Loc Attr @<ADVL #30->8
+"<—>"
+	"—" PUNCT #31->32
+"<2018>"
+	"2018" Num Arab Sem/Year Sg Ill Attr @<ADVL #32->8
+	"2018" Num Arab Sem/Year Sg Loc Attr @<ADVL #32->8
+	"2018" Num Arab Sg Ill Attr @<ADVL #32->8
+	"2018" Num Arab Sg Loc Attr @<ADVL #32->8
+"<)>"
+	")" PUNCT RIGHT #33->32
+"<.>"
+	"." CLB #34->8
+: 
+"<Pueʹtti>"
+	"pueʹtti" A Attr @>N #1->2
+: 
+"<mäddkåʹdd>"
+	"mäddkåʹdd" N Sg Nom @SUBJ> #2->6
+: 
+"<da>"
+	"da" CC @X #3->0
+: 
+"<soti-oođõõzzi>"
+	"soti-oođõõzzi" ? @X #4->0
+: 
+"<mieʹldd>"
+	"mieʹldd" Adp #5->5
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #6->0
+: 
+"<vääžnai>"
+	"vääžnai" A Pl Nom @SPRED #7->6
+	"vääžnai" A Sg Acc @<OBJ #7->6
+	"vääžnai" A Sg Nom @SPRED #7->6
+: 
+"<seʹlvted>"
+	"seʹlvted" V Inf @SUBJ #8->6
+	"seʹlvvted" V Err/Orth Inf @SUBJ #8->6
+: 
+"<veiddsânji>"
+	"veiddsânji" Adv @<ADVL #9->8
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Sg Nom @<SUBJ #10->6
+: 
+"<sotisueʹrj>"
+	"sotisueʹrj" ? @X #11->0
+: 
+"<siltteeʹji>"
+	"siltteei" A Pl Gen @>N #12->13
+	"siltteei" N NomAg Pl Gen @>N #12->13
+: 
+"<ämmatčeäʹppõõzz>"
+	"čeäʹppõs" N Pl Nom @<SUBJ #13->6
+		"ämmat" N Cmp/SgGen Cmp #13->6
+	"čeäʹppõs" N Sg Acc @<OBJ #13->6
+		"ämmat" N Cmp/SgGen Cmp #13->6
+	"čeäʹppõs" N Sg Gen @>N #13->6
+		"ämmat" N Cmp/SgGen Cmp #13->6
+: 
+"<da>"
+	"da" CC @CNP #14->13
+: 
+"<ǩiõlsilttõõzz>"
+	"ǩiõlsilttõs" N Pl Nom @<SUBJ #15->13
+	"ǩiõlsilttõs" N Sg Acc @<OBJ #15->13
+	"ǩiõlsilttõs" N Sg Gen @>N #15->13
+: 
+"<di>"
+	"di" CC @CNP #16->15
+: 
+"<sâjjdõõttmõõžž>"
+	"sâjjdõõttmõš" N Pl Nom @<SUBJ #17->13
+	"sâjjdõõttmõš" N Sg Acc @<OBJ #17->13
+: 
+"<väʹlddkååʹddlanji>"
+	"väʹlddkååʹddlanji" Adv @<ADVL #18->17
+"<.>"
+	"." CLB #19->6
+: 
+"<Mäddkåʹddoođõõzz>"
+	"oođõs" N Sg Gen @>N #1->4
+		"kåʹdd" N Cmp/SgNom Cmp #1->4
+			"mädd" N Cmp/SgNom Cmp #1->4
+	"oođõs" N Sg Gen @>N #1->4
+		"mäddkåʹdd" N Cmp/SgNom Cmp #1->4
+: 
+"<mieʹldd>"
+	"mieʹldd" Adp #2->2
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #3->4
+: 
+"<kääzzkõõzzi>"
+	"kääzzkõs" N Sem/Act Pl Gen @>N #4->6
+: 
+"<pueʹrab>"
+	"pueʹrr" Ex/A Der/Comp A Attr @>N #5->6
+: 
+"<koordinâsttmõš>"
+	"koordinâsttmõš" N Sg Nom @SUBJ> #6->10
+: 
+"<da>"
+	"da" CC @X #7->0
+: 
+"<siltteeʹji>"
+	"siltteei" A Pl Gen @>N #8->9
+	"siltteei" N NomAg Pl Gen @>N #8->9
+: 
+"<kaartʼtõs>"
+	"kaartʼtõs" N Sg Nom @SUBJ> #9->10
+: 
+"<lij>"
+	"leeʹd" <mv> V IV Ind Prs Sg3 @FMV #10->0
+: 
+"<õhtt>"
+	"õhtt" Num Sg Nom @<SUBJ #11->10
+: 
+"<čooudkõõččmõõžžin>"
+	"kõõččmõš" N Pl Loc @Num< #12->15
+		"čooud" N Cmp/SgNom Cmp #12->15
+	"kõõččmõš" N Sg Com @ADVL> #12->15
+		"čooud" N Cmp/SgNom Cmp #12->15
+	"kõõččmõš" N Pl Loc @Num< #12->15
+		"čooud" N Cmp/SgNom Err/Orth-missing-hyph Cmp #12->15
+	"kõõččmõš" N Sg Com @ADVL> #12->15
+		"čooud" N Cmp/SgNom Err/Orth-missing-hyph Cmp #12->15
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #13->14
+: 
+"<kääzzkõõzzi>"
+	"kääzzkõs" N Sem/Act Pl Gen @<ADVL #14->10
+: 
+"<staaneem>"
+	"staaneed" <mv> V Ind Prt Sg1 @FMV #15->10
+: 
+"<peäʹlest>"
+	"pieʹll" N Sg Loc @<ADVL #16->15
+"<.>"
+	"." CLB #17->10
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Kõjldõs>"
+	"kõjldõs" N Sg Nom @SUBJ> #1->2
+: 
+"<kuâskk>"
+	"kuõskkâd" <mv> V Ind Prs Sg3 @FMV #2->0
+: 
+"<vuõss-sââʹjest>"
+	"vuõss-sââʹjest" Adv @ADVL> #3->11
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #4->5
+: 
+"<čuõvtem->"
+	"čuõvted" Ex/V Der/NomAct N Cmp/SgGen Cmp/SplitR @>N #5->9
+	"čuõvted" Ex/V Der/NomAct N Cmp/SgNom Cmp/SplitR @>N #5->9
+	"čuõvvâd" Ex/V Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp/SplitR @>N #5->9
+	"čuõvvâd" Ex/V Der/Caus Ex/V TV Der/NomAct N Cmp/SgNom Cmp/SplitR @>N #5->9
+: 
+"<da>"
+	"da" CC @CVP #6->2
+: 
+"<sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #7->10
+: 
+"<da>"
+	"da" CC @CVP #8->2
+: 
+"<tiõrvâsvuõttsueʹrj>"
+	"sueʹrǧǧ" N Pl Nom @<SUBJ #9->11
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #9->11
+	"sueʹrǧǧ" N Sg Acc @OBJ> #9->11
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #9->11
+	"sueʹrǧǧ" N Sg Gen @>N #9->11
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #9->11
+: 
+"<ämmatniiʹǩǩid>"
+	"ämmatneǩ" N Sem/Hum Pl Acc @OBJ> #10->11
+	"ämmatneǩ" N Sem/Hum Pl Ill @ADVL> #10->11
+: 
+"<kooʹddin>"
+	"kåʹdded" <mv> V Ind Prt Pl1 @FMV #11->2
+	"kåʹdd" N Pl Loc @<ADVL #11->2
+	"kåʹdd" N Sg Com @>ADVL #11->2
+"<,>"
+	"," CLB #12->11
+: 
+"<organisaatioin>"
+	"organisaatio" N Pl Loc @<ADVL #13->11
+	"organisaatio" N Sg Com @>ADVL #13->11
+"<,>"
+	"," CLB #14->13
+: 
+"<sieʹbrrkooʹddin>"
+	"kåʹdd" N Pl Loc @<ADVL #15->11
+		"seäʹbrr" N Cmp/SgNom Cmp #15->11
+	"kåʹdd" N Sg Com @<ADVL #15->11
+		"seäʹbrr" N Cmp/SgNom Cmp #15->11
+: 
+"<di>"
+	"di" CC @X #16->0
+: 
+"<pueʹttiääiʹj>"
+	"pueʹttiäiʹǧǧ" N Pl Nom @<SUBJ #17->11
+	"pueʹttiäiʹǧǧ" N Sg Acc @<OBJ #17->11
+	"pueʹttiäiʹǧǧ" N Sg Gen @<ADVL #17->11
+: 
+"<soti-siltteeʹjid>"
+	"soti-siltteeʹjid" ? @X #18->0
+: 
+"<mättjemstroiʹttlin>"
+	"mättjemstrooiʹtel" N Sg Com @<ADVL #19->17
+	"mättjemstrooiʹtel" N Pl Loc @<ADVL #19->17
+"<.>"
+	"." CLB #20->2
+: 
+"<Kõjldõʹsse>"
+	"kõjldõs" N Sg Ill @ADVL> #1->9
+: 
+"<vueiʹtte>"
+	"vueiʹtted" V TV Ind Prt Pl3 @X #2->0
+: 
+"<kuuitâǥ>"
+	"kuuitâǥ" Adv @<ADVL #3->4
+	"kuuitâǥ" CS @CVP #3->4
+: 
+"<vuässõõttâd>"
+	"vuässõõttâd" V Inf @X #4->0
+: 
+"<puk>"
+	"puk" Pron Sg Nom @SUBJ> #5->0
+"<,>"
+	"," CLB #6->7
+: 
+"<ǩeäk>"
+	"ǩii" Pron Rel Pl Nom @SUBJ> #7->8
+: 
+"<haaʹlee>"
+	"haaʹleed" <aux> V Ind Prs Pl3 @FS-N< #8->4
+	"haaʹleed" <aux> V Ind Prt Pl3 @FS-N< #8->4
+: 
+"<puʹhtted>"
+	"puʹhtted" <mv> V Inf @FS-N<IMV #9->8
+: 
+"<silttõõzzâz>"
+	"silttõs" N Pl Nom PxPl3 @<SUBJ #10->11
+	"silttõs" N Sg Acc PxPl3 @<OBJ #10->11
+	"silttõs" N Sg Gen PxPl3 @>N #10->11
+: 
+"<sääʹmǩiõli>"
+	"sääʹmǩiõll" N Pl Gen @>N #11->12
+: 
+"<vueʹzzest>"
+	"vueʹss" Hom1 N Sem/Ani Sg Loc @<ADVL #12->9
+: 
+"<ouʹdde>"
+	"ouʹdde" Adv @<ADVL #13->9
+"<.>"
+	"." CLB #14->5
+: 
+"<Čiõlǥtõõzz>"
+	"čiõlǥtõs" N Sg Gen @>N #1->2
+: 
+"<puåđõõzzid>"
+	"puåđõs" N Pl Acc @OBJ> #2->3
+: 
+"<ââʹnet>"
+	"ââʹnned" <mv> V TV Ind Prs Sg4 @FMV #3->0
+: 
+"<mäddkåʹdd->"
+	"mäddkåʹdd" N Cmp/SgNom Cmp/SplitR @>N #4->12
+: 
+"<da>"
+	"da" CC @X #5->0
+: 
+"<sotivalmštõõllmest>"
+	"sotivalmštõõllmest" ? @X #6->0
+: 
+"<pueʹreed>"
+	"pueʹrr" A Pl Acc PxPl2 @<OBJ #7->3
+	"pueʹrr" N Pl Ill PxPl2 @>ADVL #7->3
+	"pueʹrr" A Pl Ill PxPl2 @>ADVL #7->3
+	"pueʹrr" N Pl Acc PxPl2 @<OBJ #7->3
+	"pueʹrr" N Pl Gen PxPl2 @<ADVL #7->3
+: 
+"<leʹbe>"
+	"leʹbe" CC @CNP #8->7
+: 
+"<hiâlpeed>"
+	"hiâlpp" A Pl Gen PxPl2 @>N #9->7
+	"hiâlpp" A Pl Acc PxPl2 @<OBJ #9->7
+	"hiâlpp" A Pl Ill PxPl2 @<ADVL #9->7
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Attr @>N #10->11
+: 
+"<ämmatniiʹǩǩi>"
+	"ämmatneǩ" N Sem/Hum Pl Gen @>N #11->12
+: 
+"<kaunnmõõžž>"
+	"kaunnmõš" N Pl Nom @<SUBJ #12->3
+	"kaunnmõš" N Sg Acc @<OBJ #12->3
+"<.>"
+	"." CLB #13->3
+: 
+"<Kõjldõõzz>"
+	"kõjldõs" N Pl Nom @SUBJ> #1->2
+	"kõjldõs" N Sg Acc @OBJ> #1->2
+	"kõjldõs" N Sg Gen @ADVL> #1->2
+: 
+"<čõõđtet>"
+	"čõõđted" <mv> V TV Ind Prs Sg4 @FMV #2->0
+: 
+"<Webropol-kõjldõssân>"
+	"Webropol-kõjldõssân" ? @X #3->0
+: 
+"<da>"
+	"da" CC @CVP #4->2
+: 
+"<vaʹsttummuš>"
+	"vaʹstteed" Ex/V Der/musj N Sg Nom @<SUBJ #5->2
+: 
+"<väldd>"
+	"väʹldded" <mv> V TV Ind Prs Sg3 @FMV #6->2
+: 
+"<nuʹtt>"
+	"nuʹtt" Adv @<ADVL #7->6
+	"nuʹtt" Pcle @PCLE #7->6
+: 
+"<10-15>"
+	"10-15" Num Arab Sg Gen @>N #8->6
+	"10-15" Num Arab Sem/ID @<ADVL #8->6
+	"10-15" Num Arab Sem/Time-clock Span Sg Acc @<OBJ #8->6
+	"10-15" Num Arab Sem/Time-clock Span Sg Gen @>N #8->6
+	"10-15" Num Arab Sem/Time-clock Span Sg Ill Attr @>N #8->6
+	"10-15" Num Arab Sem/Time-clock Span Sg Loc Attr @>N #8->6
+	"10-15" Num Arab Sem/Time-clock Span Sg Nom @<SUBJ #8->6
+	"10-15" Num Arab Sg Acc @<OBJ #8->6
+	"10-15" Num Arab Sg Ill Attr @>N #8->6
+	"10-15" Num Arab Sg Loc Attr @>N #8->6
+	"10-15" Num Arab Sg Nom @<SUBJ #8->6
+: 
+"<minuutt>"
+	"minutt" N Pl Nom @<OBJ #9->6
+	"minutt" N Sg Acc @<OBJ #9->6
+	"minutt" N Sg Gen @Num< #9->6
+"<.>"
+	"." CLB #10->2
+: 
+"<Puåđõõzzin>"
+	"puåđõs" N Sg Com @ADVL> #1->2
+	"puåđõs" N Pl Loc @ADVL> #1->2
+: 
+"<mainstep>"
+	"mainsted" <mv> V Ind Prs Pl1 @FMV #2->0
+: 
+"<eeʹjj>"
+	"eeʹǩǩ" N Sg Gen @<ADVL #3->2
+	"eeʹjj" Adv @<ADVL #3->2
+	"eeʹǩǩ" N Pl Nom @<SUBJ #3->2
+	"eeʹǩǩ" N Sg Acc @<OBJ #3->2
+	"eʹčč" N Sem/Kin Sg Gen @<ADVL #3->2
+	"eʹčč" N Sem/Kin Pl Nom @<SUBJ #3->2
+	"eʹčč" N Sem/Kin Sg Acc @<OBJ #3->2
+: 
+"<2019>"
+	"2019" Num Arab Sem/Year Sg Nom @>N #4->2
+	"2019" Num Arab Sem/ID @<ADVL #4->2
+	"2019" Num Arab Sem/Year Sg Acc @>N #4->2
+	"2019" Num Arab Sem/Year Sg Gen @>N #4->2
+	"2019" Num Arab Sem/Year Sg Ill Attr @>N #4->2
+	"2019" Num Arab Sem/Year Sg Loc Attr @>N #4->2
+	"2019" Num Arab Sg Nom @>N #4->2
+	"2019" Num Arab Sg Acc @>N #4->2
+	"2019" Num Arab Sg Gen @>N #4->2
+	"2019" Num Arab Sg Ill Attr @>N #4->2
+	"2019" Num Arab Sg Loc Attr @>N #4->2
+: 
+"<poodd>"
+	"podd" N Pl Nom @<SUBJ #5->2
+	"podd" N Sg Acc @APP-N< #5->2
+	"podd" N Sg Gen @Num< #5->2
+	"poodd" Adp #5->2
+"<.>"
+	"." CLB #6->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Kõjldõʹsse>"
+	"kõjldõs" N Sg Ill @ADVL> #1->4
+: 
+"<vaʹsttummuš>"
+	"vaʹstteed" Ex/V Der/musj N Sg Nom @SUBJ> #2->3
+: 
+"<ij>"
+	"ij" <aux> V Neg Ind Sg3 @FAUX #3->0
+: 
+"<õõlǥât>"
+	"õõlǥted" <mv> V Ind Prs ConNeg @FMV #4->3
+: 
+"<vaʹstteei>"
+	"vaʹstteei" A Sg Nom @<SUBJ #5->4
+	"vaʹstteei" A Pl Nom @<SUBJ #5->4
+	"vaʹstteei" A Sg Acc @<OBJ #5->4
+: 
+"<ni>"
+	"ni" Adv @ADVL> #6->7
+	"ni" Pcle Neg @PCLE #6->7
+: 
+"<koozz>"
+	"koossâd" <mv> V Ind Prs ConNeg @FMV #7->4
+: 
+"<da>"
+	"da" CC @CVP #8->7
+: 
+"<kõjldõʹsse>"
+	"kõjldõs" N Sg Ill @ADVL> #9->11
+: 
+"<vuäitt>"
+	"vueiʹtted" <aux> V TV Ind Prs Sg3 @FAUX #10->3
+: 
+"<vaʹstteed>"
+	"vaʹstteed" <mv> V Inf @IMV #11->10
+: 
+"<jiiʹjjes>"
+	"jiõčč" Pron Refl Sg3 Acc @<OBJ #12->11
+	"jiõčč" Pron Refl Sg3 Gen @>N #12->11
+: 
+"<nõõmin>"
+	"nõmm" N Pl Loc @<ADVL #13->11
+	"nõmm" N Sg Com @<ADVL #13->11
+: 
+"<leʹbe>"
+	"leʹbe" CC @X #14->0
+: 
+"<nõõmteʹmen>"
+	"nõõmted" V Actio Ess @X #15->0
+: 
+"<še>"
+	"še" Pcle @PCLE #16->15
+"<.>"
+	"." CLB #17->3
+: 
+"<Persoonteâđai>"
+	"teâtt" N Pl Gen @>N #1->2
+		"person" N Cmp/SgGen Cmp #1->2
+: 
+"<ǩiõttʼtõõllmest>"
+	"ǩiõttʼtõõllâd" Ex/V Der/NomAct N Sg Loc @ADVL> #2->3
+: 
+"<jääʹǩǩtep>"
+	"jääʹǩǩted" <mv> V Ind Prs Pl1 @FMV #3->0
+: 
+"<EU>"
+	"EU" N ABBR @X #4->0
+	"EU" N ACR ABBR @X #4->0
+: 
+"<teâttsuõjjasetõõzzid>"
+	"asetõs" N Pl Acc @<OBJ #5->3
+		"sueʹjj" N Cmp/SgNom Cmp #5->3
+			"teâtt" N Cmp/SgNom Cmp #5->3
+	"asetõs" N Pl Ill @<ADVL #5->3
+		"sueʹjj" N Cmp/SgNom Cmp #5->3
+			"teâtt" N Cmp/SgNom Cmp #5->3
+	"asetõs" N Pl Acc @<OBJ #5->3
+		"teâttsueʹjj" N Cmp/SgNom Cmp #5->3
+	"asetõs" N Pl Ill @<ADVL #5->3
+		"teâttsueʹjj" N Cmp/SgNom Cmp #5->3
+"<.>"
+	"." CLB #6->3
+: 
+"<Vaʹsttõõzzid>"
+	"vaʹsttõs" N Pl Acc @OBJ> #1->2
+	"vaʹsttõs" N Pl Ill @ADVL> #1->2
+: 
+"<ǩiõttʼtâʹlle>"
+	"ǩiõttʼtõõllâd" <mv> V Ind Prs Pl3 @FMV #2->0
+: 
+"<Lape-haʹŋǩǩõõzz>"
+	"Lape-haʹŋǩǩõõzz" ? @X #3->0
+: 
+"<projeʹktt-tuâjjlaž>"
+	"projeʹktt-tuâjjlaž" N Sg Nom @<SUBJ #4->2
+"<,>"
+	"," CLB #5->4
+: 
+"<Sääʹmteeʹǧǧ>"
+	"sääʹmteʹǧǧ" N Sg Gen @<ADVL #6->2
+	"sääʹmteʹǧǧ" N Pl Nom @<SUBJ #6->2
+	"sääʹmteʹǧǧ" N Sg Acc @<OBJ #6->2
+: 
+"<sotipiisar>"
+	"sotipiisar" ? @X #7->0
+"<,>"
+	"," CLB #8->7
+: 
+"<Poske>"
+	"Poske" N Prop Sem/Org Sg Gen @>N #9->10
+: 
+"<sääʹmjuâǥǥtõõzz>"
+	"juâǥǥtõs" N Pl Nom @<SUBJ #10->11
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #10->11
+	"juâǥǥtõs" N Sg Acc @<OBJ #10->11
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #10->11
+	"juâǥǥtõs" N Sg Gen @>N #10->11
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #10->11
+: 
+"<plaaneei>"
+	"plaaneei" N NomAg Sg Nom @<SUBJ #11->2
+	"plaaneei" N NomAg Pl Nom @<SUBJ #11->2
+	"plaaneei" N NomAg Sg Acc @<OBJ #11->2
+	"plaaneei" N NomAg Sg Gen @>N #11->2
+: 
+"<di>"
+	"di" CC @CNP #12->11
+: 
+"<Lappi>"
+	"Lappi" N Prop Sem/Plc Sg Gen @>N #13->14
+	"Lappi" N Prop Sem/Sur Sg Gen @>N #13->14
+: 
+"<mäddkååʹdd>"
+	"mäddkåʹdd" N Sg Gen @>N #14->15
+	"mäddkåʹdd" N Pl Nom @<SUBJ #14->15
+	"mäddkåʹdd" N Sg Acc @<OBJ #14->15
+: 
+"<sääʹmkääzzkõõzzi>"
+	"kääzzkõs" N Sem/Act Pl Gen @>N #15->16
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #15->16
+: 
+"<plaaneei>"
+	"plaaneei" N NomAg Sg Nom @<SUBJ #16->2
+	"plaaneei" N NomAg Pl Nom @<SUBJ #16->2
+	"plaaneei" N NomAg Sg Acc @APP-N< #16->2
+	"plaaneei" N NomAg Sg Gen @<ADVL #16->2
+"<.>"
+	"." CLB #17->2
+: 
+"<Vaʹsttõõzzid>"
+	"vaʹsttõs" N Pl Acc @OBJ> #1->4
+	"vaʹsttõs" N Pl Ill @ADVL> #1->4
+: 
+"<da>"
+	"da" CC @CNP #2->1
+: 
+"<õhttvuõtt-teâđaid>"
+	"teâtt" N Pl Acc @OBJ> #3->1
+		"õhttvuõtt" N Cmp/SgNom Cmp #3->1
+: 
+"<ââʹnet>"
+	"ââʹnned" <mv> V TV Ind Prs Sg4 @FMV #4->0
+: 
+"<pâi>"
+	"pâi" Adv @ADVL> #5->5
+: 
+"<sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Sg Nom @<SUBJ #6->4
+: 
+"<sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #7->12
+: 
+"<da>"
+	"da" CC @X #8->0
+: 
+"<tiõrvâsvuõttkääzzkõõzzi>"
+	"tiõrvâsvuõttkääzzkõs" N Sem/Act Pl Gen @>N #9->12
+: 
+"<di>"
+	"di" CC @CNP #10->9
+: 
+"<čuõvtemkääzzkõõzzi>"
+	"kääzzkõs" N Sem/Act Pl Gen @>N #11->9
+		"čuõvted" Ex/V Der/NomAct N Cmp/SgGen Cmp #11->9
+	"kääzzkõs" N Sem/Act Pl Gen @>N #11->9
+		"čuõvvâd" Ex/V Der/Caus Ex/V TV Der/NomAct N Cmp/SgGen Cmp #11->9
+: 
+"<plaanummša>"
+	"plaanummuš" N Sg Ill @ADVL> #12->12
+: 
+"<da>"
+	"da" CC @CNP #13->12
+: 
+"<ooudâsviikkma>"
+	"ooudâsviikkâd" Ex/V TV Der/NomAct Ex/N Der/Dimin N Pl Nom @<SUBJ #14->4
+	"ooudâsviikkâd" Ex/V TV Der/NomAct Ex/N Der/Dimin N Sg Acc @<OBJ #14->4
+	"ooudâsviikkâd" Ex/V TV Der/NomAct Ex/N Der/Dimin N Sg Gen @<ADVL #14->4
+	"ooudâsviikkâd" Ex/V TV Der/NomAct N Sg Ill @<ADVL #14->4
+"<.>"
+	"." CLB #15->4
+: 
+"<Vaʹsttõõzzid>"
+	"vaʹsttõs" N Pl Acc @OBJ> #1->2
+	"vaʹsttõs" N Pl Ill @ADVL> #1->2
+: 
+"<seeiltet>"
+	"seeilted" <mv> V Ind Prs Sg4 @FMV #2->0
+: 
+"<staanâld>"
+	"staanâld" ? @X #3->0
+: 
+"<suejjsaaʹnin>"
+	"sääʹnn" N Pl Loc @<ADVL #4->2
+		"suejj" N Cmp/SgNom Cmp #4->2
+	"sääʹnn" N Sg Com @ADVL> #4->2
+		"suejj" N Cmp/SgNom Cmp #4->2
+: 
+"<suõjjuum>"
+	"suõjjeed" V Pass PrfPrc @X #5->0
+: 
+"<mošttsääʹǧǧest>"
+	"mošttsäʹǧǧ" N Sg Loc @<ADVL #6->2
+"<.>"
+	"." CLB #7->2
+: 
+"<Vaʹstteei>"
+	"vaʹstteei" A Sg Nom @SUBJ> #1->2
+	"vaʹstteei" A Pl Nom @SUBJ> #1->2
+	"vaʹstteei" A Sg Acc @OBJ> #1->2
+: 
+"<vuäitt>"
+	"vueiʹtted" <aux> V TV Ind Prs Sg3 @FAUX #2->0
+: 
+"<cõggâd>"
+	"cõggâd" <mv> V Inf @IMV #3->2
+: 
+"<jiiʹjjes>"
+	"jiõčč" Pron Refl Sg3 Acc @OBJ> #4->5
+	"jiõčč" Pron Refl Sg3 Gen @>N #4->5
+: 
+"<vaʹsttõõzzi>"
+	"vaʹsttõs" N Pl Gen @>N #5->6
+: 
+"<âânnmõõžž>"
+	"âânnmõš" N Pl Nom @<SUBJ #6->2
+	"âânnmõš" N Sg Acc @OBJ> #6->2
+	"âânnmõš" N Sg Gen @<ADVL #6->2
+: 
+"<mâʹŋŋlest>"
+	"mâʹŋŋlest" Adv @<ADVL #7->3
+: 
+"<vääʹldeeʹl>"
+	"väʹldded" <mv> V TV Ger Instr @IMV #8->3
+: 
+"<õhttvuõđ>"
+	"õhttvuõtt" N Pl Nom @<SUBJ #9->10
+	"õhttvuõtt" N Sg Acc @<OBJ #9->10
+	"õhttvuõtt" N Sg Gen @>N #9->10
+: 
+"<Poske>"
+	"Poske" N Prop Sem/Org Sg Gen @>N #10->11
+: 
+"<sääʹmjuâǥǥtõõzz>"
+	"juâǥǥtõs" N Pl Nom @<SUBJ #11->8
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #11->8
+	"juâǥǥtõs" N Sg Acc @<OBJ #11->8
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #11->8
+	"juâǥǥtõs" N Sg Gen @>N #11->8
+		"sääʹmm" N Sem/Hum Cmp/SgGen Cmp #11->8
+: 
+"<plaaneeja>"
+	"plaaneei" N NomAg Sg Ill @<ADVL #12->8
+"<.>"
+	"." CLB #13->2
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmǩiõllsaž>"
+	"sääʹmǩiõllsaž" A Sg Nom @SPRED> #1->4
+: 
+"<sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #2->7
+: 
+"<da>"
+	"da" CC @X #3->0
+: 
+"<tiõrvâsvuõttsueʹrj>"
+	"sueʹrǧǧ" N Pl Nom @HNOUN #4->5
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->5
+	"sueʹrǧǧ" N Sg Acc @OBJ> #4->5
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->5
+	"sueʹrǧǧ" N Sg Gen @>N #4->5
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->5
+: 
+"<mättʼtõõttji>"
+	"mättʼtõõtti" N NomAg Pl Gen @>N #5->7
+: 
+"<väʹlddkååddlaž>"
+	"väʹlddkååddlaž" A Attr @>N #6->7
+	"väʹlddkåʹdd" Ex/N Der/lazh A Attr @>N #6->7
+: 
+"<mättʼtõõttikaartʼtõs>"
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mättʼted" Ex/V Der/oottyd Ex/V IV Der/NomAg N Cmp/SgGen Cmp #7->0
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mättʼted" Ex/V Der/oottyd Ex/V IV Der/NomAg N Cmp/SgGen Err/Orth-not-apos-but-hyph Cmp #7->0
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mättʼtõõtti" N NomAg Cmp/SgGen Cmp #7->0
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mättʼtõõtti" N NomAg Cmp/SgGen Err/Orth-not-apos-but-hyph Cmp #7->0
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mättʼtõõttâd" Ex/V Der/NomAg N Cmp/SgGen Cmp #7->0
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mättʼtõõttâd" Ex/V Der/NomAg N Cmp/SgGen Err/Orth-not-apos-but-hyph Cmp #7->0
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mäʹtted" Ex/V Der/jed Der/Caus Ex/V Ex/TV Der/oottyd Ex/V IV Der/NomAg N Cmp/SgGen Cmp #7->0
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+		"mäʹtted" Ex/V Der/jed Der/Caus Ex/V Ex/TV Der/oottyd Ex/V IV Der/NomAg N Cmp/SgGen Err/Orth-not-apos-but-hyph Cmp #7->0
+"<.>"
+	"." CLB #8->7
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Sääʹmǩiõllsai>"
+	"sääʹmǩiõllsaž" A Pl Gen @>N #1->4
+: 
+"<sosiaal->"
+	"sosiaal" Cmp/SplitR @>N #2->7
+: 
+"<da>"
+	"da" CC @X #3->0
+: 
+"<tiõrvâsvuõttsueʹrj>"
+	"sueʹrǧǧ" N Pl Nom @HNOUN #4->7
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->7
+	"sueʹrǧǧ" N Sg Acc @OBJ> #4->7
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->7
+	"sueʹrǧǧ" N Sg Gen @>A #4->7
+		"tiõrvâsvuõtt" N Cmp/SgNom Cmp #4->7
+: 
+"<tuejjlai>"
+	"tuâjjlaž" A Pl Gen @>N #5->7
+: 
+"<väʹlddkååddlaž>"
+	"väʹlddkååddlaž" A Attr @>N #6->7
+	"väʹlddkåʹdd" Ex/N Der/lazh A Attr @>N #6->7
+: 
+"<kaartʼtõs>"
+	"kaartʼtõs" N Sg Nom @HNOUN #7->0
+"<.>"
+	"." CLB #8->7
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Späʹssbõõššâp>"
+	"späʹssbõõššâd" <mv> V Imprt Pl1 @FMV #1->0
+	"späʹssbõõššâd" <mv> V Ind Prs Pl1 @FMV #1->0
+: 
+"<juʹn>"
+	"juʹn" Adv Sem/Time Sem/Time @<ADVL #2->1
+: 
+"<ouddǩiõʹtte>"
+	"ouddǩiõtt" N Sg Ill @<ADVL #3->1
+	"ouddǩiõʹtte" Adv @<ADVL #3->1
+: 
+"<vaʹsttõssad>"
+	"vaʹsttõs" N Sg Nom PxSg2 @<SUBJ #4->1
+: 
+"<ooudâst>"
+	"ooudâst" Adp #5->5
+"<.>"
+	"." CLB #6->1
+: 
+"<Raukkâp>"
+	"raukkâd" <mv> V Imprt Pl1 @FMV #1->0
+	"raukkâd" <mv> V Ind Prs Pl1 @FMV #1->0
+: 
+"<vaʹsttõõzzid>"
+	"vaʹsttõs" N Pl Acc @<OBJ #2->1
+	"vaʹsttõs" N Pl Ill @>ADVL #2->1
+: 
+"<kõjldõʹsse>"
+	"kõjldõs" N Sg Ill @<ADVL #3->1
+: 
+"<14.12.2018>"
+	"14.12.2018" Num Arab Sem/Date Sg Acc @<ADVL #4->1
+	"14.12.2018" Num Arab Sem/Date Sg Gen @<ADVL #4->1
+	"14.12.2018" Num Arab Sem/Date Sg Ill Attr @<ADVL #4->1
+	"14.12.2018" Num Arab Sem/Date Sg Loc Attr @<ADVL #4->1
+	"14.12.2018" Num Arab Sem/Date Sg Nom @<SUBJ #4->1
+	"14.12.2018" Num Arab Sem/ID @<ADVL #4->1
+: 
+"<mõõneeʹst>"
+	"mõõnnâd" V IV Ger Loc @<ADVL #5->1
+"<.>"
+	"." CLB #6->1
+: 
+"<¶>"
+	"¶" CLB #1->1
+:\n
+"<Lââʹssteâđaid>"
+	"lââʹssteâtt" N Pl Acc @OBJ> #1->3
+	"lââʹssteâtt" N Pl Ill @ADVL> #1->3
+: 
+"<čiõlǥtõõzzâst>"
+	"čiõlǥtõs" N Sg Loc @ADVL> #2->3
+: 
+"<oudd>"
+	"uʹvdded" <mv> V TV Ind Prs Sg3 @FMV #3->0
+: 
+"<õhttvuõttooumaž>"
+	"õhttvuõttooumaž" N Sem/Hum Sg Nom @<SUBJ #4->3
+"<:>"
+	":" CLB #5->3
+: 
+"<¶>"
+	"¶" CLB #6->3
+:\n
+"<Riitta>"
+	"Riitta" N Prop Sem/Fem Sg Gen @>N #1->2
+: 
+"<Lehtola>"
+	"Lehtola" N Prop Sem/Sur Sg Gen @>N #2->5
+"<,>"
+	"," CLB #3->2
+: 
+"<riitta.lehtola@poskelappi.fi>"
+	"riitta.lehtola@poskelappi.fi" URL #4->4
+: 
+"<p.>"
+	"p" N ABBR @X #5->0
+: 
+"<040>"
+	"040" Num Arab Sem/ID @>Num #6->7
+: 
+"<16>"
+	"16" Num Arab Sem/Time-clock Sg Acc @ADVL> #7->5
+	"16" Num Arab Sem/Time-clock Sg Ill Attr @>ADVL #7->5
+	"16" Num Arab Sg Nom @HNOUN #7->5
+	"16" Num Arab Sem/Time-clock Sg Nom @HNOUN #7->5
+	"16" Num Arab Sg Acc @OBJ> #7->5
+	"16" Num Arab Sg Ill Attr @>ADVL #7->5
+: 
+"<26 424>"
+	"26 424" Num Arab Sg Acc @<OBJ #8->5
+	"26 424" Num Arab Sg Ill Attr @<ADVL #8->5
+	"26 424" Num Arab Sg Loc Attr @Num< #8->5
+	"26 424" Num Arab Sg Nom @HNOUN #8->5
+: 
+"<¶>"
+	"¶" CLB #9->9
+:\n
+
+]]></dependency>
+  </body>
+</document>
